@@ -1,0 +1,12 @@
+{
+  "date": "2025-05-02",
+  "monthDay": "5/2",
+  "saint": {
+    "name": "Athanasius",
+    "type": "Memorial",
+    "quote": "God became man so that man might become God.",
+    "description": "Bishop of Alexandria, Doctor of the Church, defender of Christ's divinity."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Athanasius",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/05-02.json"
+}

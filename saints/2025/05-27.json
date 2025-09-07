@@ -1,0 +1,12 @@
+{
+  "date": "2025-05-27",
+  "monthDay": "5/27",
+  "saint": {
+    "name": "Augustine of Canterbury",
+    "type": "Optional Memorial",
+    "quote": "Christ has sent me to you, and I bring you joyful news.",
+    "description": "First Archbishop of Canterbury, evangelized the English."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Augustine_of_Canterbury",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/05-27.json"
+}

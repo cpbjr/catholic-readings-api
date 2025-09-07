@@ -1,0 +1,12 @@
+{
+  "date": "2025-01-21",
+  "monthDay": "1/21",
+  "saint": {
+    "name": "Agnes",
+    "type": "Memorial",
+    "quote": "Christ is my spouse; he has chosen me.",
+    "description": "Virgin martyr who died at age 12 or 13 for refusing to marry, choosing consecration to Christ."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Agnes",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/01-21.json"
+}

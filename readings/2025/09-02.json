@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-02",
+  "monthDay": "9/2",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Thessalonians 5:1-6, 9-11",
+    "psalm": "Psalm 27:1, 4, 13-14",
+    "gospel": "Luke 4:31-37"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/090225.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/09-02.json"
+}

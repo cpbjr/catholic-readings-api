@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-01",
+  "monthDay": "10/1",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Nehemiah 2:1-8",
+    "psalm": "Psalm 137:1-2, 3, 4-5, 6",
+    "gospel": "Luke 9:57-62"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/100125.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-01.json"
+}

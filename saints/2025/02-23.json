@@ -1,0 +1,12 @@
+{
+  "date": "2025-02-23",
+  "monthDay": "2/23",
+  "saint": {
+    "name": "Polycarp",
+    "type": "Memorial",
+    "quote": "Eighty-six years I have served Him, and He has done me no wrong.",
+    "description": "Bishop of Smyrna, disciple of John the Apostle, martyred at age 86."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Polycarp",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/02-23.json"
+}

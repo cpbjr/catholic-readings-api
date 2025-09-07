@@ -1,0 +1,12 @@
+{
+  "date": "2025-03-19",
+  "monthDay": "3/19",
+  "saint": {
+    "name": "Joseph",
+    "type": "Solemnity",
+    "quote": "Joseph, son of David, do not be afraid to take Mary as your wife.",
+    "description": "Foster father of Jesus, patron of the universal Church and workers."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Joseph",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/03-19.json"
+}

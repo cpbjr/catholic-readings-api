@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-17",
+  "monthDay": "11/17",
+  "saint": {
+    "name": "Elizabeth of Hungary",
+    "type": "Memorial",
+    "quote": "How can I wear a crown of gold when the Lord Jesus wears a crown of thorns?",
+    "description": "Princess who gave away her wealth to serve the poor."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Elizabeth_of_Hungary",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/11-17.json"
+}

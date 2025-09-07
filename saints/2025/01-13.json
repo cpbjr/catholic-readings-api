@@ -1,0 +1,12 @@
+{
+  "date": "2025-01-13",
+  "monthDay": "1/13",
+  "saint": {
+    "name": "Hilary of Poitiers",
+    "type": "Optional Memorial",
+    "quote": "Everything that seems empty is full of the angels of God.",
+    "description": "Bishop and Doctor of the Church who defended orthodox Christianity against Arianism in the West."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Hilary_of_Poitiers",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/01-13.json"
+}

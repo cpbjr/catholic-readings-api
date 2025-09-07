@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-25",
+  "monthDay": "11/25",
+  "saint": {
+    "name": "Catherine of Alexandria",
+    "type": "Optional Memorial",
+    "quote": "I am the bride of Christ.",
+    "description": "Virgin martyr, one of the Fourteen Holy Helpers."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Catherine_of_Alexandria",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/11-25.json"
+}

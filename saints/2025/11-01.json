@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-01",
+  "monthDay": "11/1",
+  "saint": {
+    "name": "All Saints",
+    "type": "Solemnity",
+    "quote": "Blessed are they who are called to the wedding feast of the Lamb.",
+    "description": "Celebrates all the saints in heaven, known and unknown."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/All_Saints",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/11-01.json"
+}

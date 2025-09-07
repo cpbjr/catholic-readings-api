@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-15",
+  "monthDay": "9/15",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Timothy 2:1-8",
+    "psalm": "Psalm 28:2, 7, 8-9",
+    "gospel": "John 19:25-27"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/091525.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/09-15.json"
+}

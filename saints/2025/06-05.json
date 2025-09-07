@@ -1,0 +1,12 @@
+{
+  "date": "2025-06-05",
+  "monthDay": "6/5",
+  "saint": {
+    "name": "Boniface",
+    "type": "Memorial",
+    "quote": "Come, brother, be of strong heart in Christ.",
+    "description": "English missionary, \"Apostle of Germany,\" martyred while evangelizing."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Boniface",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/06-05.json"
+}

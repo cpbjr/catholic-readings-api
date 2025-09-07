@@ -1,0 +1,12 @@
+{
+  "date": "2025-04-23",
+  "monthDay": "4/23",
+  "saint": {
+    "name": "George",
+    "type": "Optional Memorial",
+    "quote": "I am a soldier of Christ; I cannot fight.",
+    "description": "Soldier martyr, patron of England, symbol of Christian chivalry."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/George",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/04-23.json"
+}

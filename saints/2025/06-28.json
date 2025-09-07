@@ -1,0 +1,12 @@
+{
+  "date": "2025-06-28",
+  "monthDay": "6/28",
+  "saint": {
+    "name": "Irenaeus",
+    "type": "Memorial",
+    "quote": "The glory of God is man fully alive.",
+    "description": "Bishop of Lyon, early Church Father who fought Gnosticism."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Irenaeus",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/06-28.json"
+}

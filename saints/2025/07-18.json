@@ -1,0 +1,12 @@
+{
+  "date": "2025-07-18",
+  "monthDay": "7/18",
+  "saint": {
+    "name": "Camillus de Lellis",
+    "type": "Optional Memorial",
+    "quote": "Even if I had a thousand lives, I would dedicate them all to the service of the sick.",
+    "description": "Reformed soldier who founded order to care for the sick."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Camillus_de_Lellis",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/07-18.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-06-27",
+  "monthDay": "6/27",
+  "saint": {
+    "name": "Cyril of Alexandria",
+    "type": "Optional Memorial",
+    "quote": "Mary is the Mother of Emmanuel, truly the Mother of God.",
+    "description": "Bishop, Doctor of the Church, defended Mary as Mother of God."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Cyril_of_Alexandria",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/06-27.json"
+}

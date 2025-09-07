@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-11",
+  "monthDay": "10/11",
+  "saint": {
+    "name": "John XXIII",
+    "type": "Optional Memorial",
+    "quote": "Consult not your fears but your hopes and dreams.",
+    "description": "Good Pope John who convened Vatican II."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/John_XXIII",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/10-11.json"
+}

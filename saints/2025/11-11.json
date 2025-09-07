@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-11",
+  "monthDay": "11/11",
+  "saint": {
+    "name": "Martin of Tours",
+    "type": "Memorial",
+    "quote": "I am Christ's soldier; I am not allowed to fight.",
+    "description": "Soldier who shared his cloak with a beggar, became bishop."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Martin_of_Tours",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/11-11.json"
+}

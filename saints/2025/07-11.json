@@ -1,0 +1,12 @@
+{
+  "date": "2025-07-11",
+  "monthDay": "7/11",
+  "saint": {
+    "name": "Benedict",
+    "type": "Memorial",
+    "quote": "Prefer nothing to the love of Christ.",
+    "description": "Father of Western monasticism, wrote the Rule that shaped religious life."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Benedict",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/07-11.json"
+}

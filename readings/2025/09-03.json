@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-03",
+  "monthDay": "9/3",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Colossians 1:1-8",
+    "psalm": "Psalm 52:10, 11",
+    "gospel": "Luke 4:38-44"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/090325.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/09-03.json"
+}

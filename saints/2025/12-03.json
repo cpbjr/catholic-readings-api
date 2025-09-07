@@ -1,0 +1,12 @@
+{
+  "date": "2025-12-03",
+  "monthDay": "12/3",
+  "saint": {
+    "name": "Francis Xavier",
+    "type": "Memorial",
+    "quote": "Give me the children until they are seven and anyone may have them afterwards.",
+    "description": "Jesuit missionary to Asia, patron of foreign missions."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Francis_Xavier",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/12-03.json"
+}

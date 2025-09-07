@@ -1,0 +1,12 @@
+{
+  "date": "2025-07-25",
+  "monthDay": "7/25",
+  "saint": {
+    "name": "James",
+    "type": "Feast",
+    "quote": "Can you drink the cup that I am to drink?",
+    "description": "Apostle, brother of John, first apostle to be martyred."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/James",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/07-25.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-07-23",
+  "monthDay": "7/23",
+  "saint": {
+    "name": "Bridget",
+    "type": "Optional Memorial",
+    "quote": "Be you a bright candle before men.",
+    "description": "Swedish mystic, mother of eight, founded the Brigittines."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Bridget",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/07-23.json"
+}

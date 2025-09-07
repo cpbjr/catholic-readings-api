@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-27",
+  "monthDay": "8/27",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Thessalonians 2:9-13",
+    "psalm": "Psalm 139:7-8, 9-10, 11-12ab",
+    "gospel": "Matthew 23:27-32"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/082725.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/08-27.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-06",
+  "monthDay": "9/6",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Colossians 1:21-23",
+    "psalm": "Psalm 54:3-4, 6 and 8",
+    "gospel": "Luke 6:1-5"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/090625.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/09-06.json"
+}

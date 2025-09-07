@@ -1,0 +1,12 @@
+{
+  "date": "2025-01-26",
+  "monthDay": "1/26",
+  "saint": {
+    "name": "Timothy and Titus",
+    "type": "Memorial",
+    "quote": "Fight the good fight of faith.",
+    "description": "Companions of St. Paul and first-generation bishops who helped establish the early Church."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Timothy_and_Titus",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/01-26.json"
+}

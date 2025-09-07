@@ -1,0 +1,12 @@
+{
+  "date": "2025-04-24",
+  "monthDay": "4/24",
+  "saint": {
+    "name": "Fidelis of Sigmaringen",
+    "type": "Optional Memorial",
+    "quote": "Woe is me if I do not preach the Gospel!",
+    "description": "Capuchin friar and martyr during the Counter-Reformation."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Fidelis_of_Sigmaringen",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/04-24.json"
+}

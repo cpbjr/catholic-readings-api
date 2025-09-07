@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-08",
+  "monthDay": "9/8",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Micah 5:1-4a",
+    "psalm": "Psalm 13:6ab, 6c",
+    "gospel": "Matthew 1:1-16, 18-23"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/090825.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/09-08.json"
+}

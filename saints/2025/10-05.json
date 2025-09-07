@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-05",
+  "monthDay": "10/5",
+  "saint": {
+    "name": "Faustina Kowalska",
+    "type": "Optional Memorial",
+    "quote": "Jesus, I trust in You!",
+    "description": "Polish nun who received revelations of Divine Mercy."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Faustina_Kowalska",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/10-05.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-02",
+  "monthDay": "8/2",
+  "saint": {
+    "name": "Eusebius of Vercelli",
+    "type": "Optional Memorial",
+    "quote": "Where Christ is, there is no room for heresy.",
+    "description": "Bishop who fought Arianism and lived in community with his clergy."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Eusebius_of_Vercelli",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/08-02.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-05-22",
+  "monthDay": "5/22",
+  "saint": {
+    "name": "Rita of Cascia",
+    "type": "Optional Memorial",
+    "quote": "Nothing is impossible with God.",
+    "description": "Wife, mother, widow, and nun, patron of impossible causes."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Rita_of_Cascia",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/05-22.json"
+}

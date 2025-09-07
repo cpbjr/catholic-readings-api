@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-01",
+  "monthDay": "9/1",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Thessalonians 4:13-18",
+    "psalm": "Psalm 96:1 and 3, 4-5, 11-12, 13",
+    "gospel": "Luke 4:16-30"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/090125.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/09-01.json"
+}

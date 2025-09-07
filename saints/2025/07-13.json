@@ -1,0 +1,12 @@
+{
+  "date": "2025-07-13",
+  "monthDay": "7/13",
+  "saint": {
+    "name": "Henry",
+    "type": "Optional Memorial",
+    "quote": "Christ must reign in our hearts and in our kingdoms.",
+    "description": "Holy Roman Emperor who used power to reform the Church."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Henry",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/07-13.json"
+}

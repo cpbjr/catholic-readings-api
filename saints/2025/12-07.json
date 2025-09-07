@@ -1,0 +1,12 @@
+{
+  "date": "2025-12-07",
+  "monthDay": "12/7",
+  "saint": {
+    "name": "Ambrose",
+    "type": "Memorial",
+    "quote": "When in Rome, do as the Romans do.",
+    "description": "Bishop of Milan, Doctor of the Church, converted Augustine."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Ambrose",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/12-07.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-27",
+  "monthDay": "9/27",
+  "saint": {
+    "name": "Vincent de Paul",
+    "type": "Memorial",
+    "quote": "Charity is the cement which binds communities to God and persons to one another.",
+    "description": "Founded Vincentians and Daughters of Charity to serve the poor."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Vincent_de_Paul",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/09-27.json"
+}

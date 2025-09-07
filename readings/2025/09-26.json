@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-26",
+  "monthDay": "9/26",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Haggai 2:1-9",
+    "psalm": "Psalm 43:1, 2, 3, 4",
+    "gospel": "Luke 9:18-22"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/092625.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/09-26.json"
+}

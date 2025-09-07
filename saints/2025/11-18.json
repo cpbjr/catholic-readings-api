@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-18",
+  "monthDay": "11/18",
+  "saint": {
+    "name": "Dedication of Basilicas of Peter and Paul",
+    "type": "Optional Memorial",
+    "quote": "You are fellow citizens with the saints and members of the household of God.",
+    "description": "Commemorates the dedication of the two apostles' basilicas in Rome."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Dedication_of_Basilicas_of_Peter_and_Paul",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/11-18.json"
+}

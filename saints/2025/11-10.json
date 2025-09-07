@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-10",
+  "monthDay": "11/10",
+  "saint": {
+    "name": "Leo the Great",
+    "type": "Memorial",
+    "quote": "Christian, recognize your dignity.",
+    "description": "Pope and Doctor who defended doctrine and saved Rome from Attila."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Leo_the_Great",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/11-10.json"
+}

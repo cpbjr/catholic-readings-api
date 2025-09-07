@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-09",
+  "monthDay": "9/9",
+  "saint": {
+    "name": "Peter Claver",
+    "type": "Memorial",
+    "quote": "Slave of the slaves forever.",
+    "description": "Jesuit who ministered to African slaves in Colombia."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Peter_Claver",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/09-09.json"
+}

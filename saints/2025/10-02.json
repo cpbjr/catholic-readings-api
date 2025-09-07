@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-02",
+  "monthDay": "10/2",
+  "saint": {
+    "name": "Guardian Angels",
+    "type": "Memorial",
+    "quote": "See that you do not despise one of these little ones, for their angels continually see the face of my Father.",
+    "description": "Celebrates the angels God assigns to protect each person."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Guardian_Angels",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/10-02.json"
+}

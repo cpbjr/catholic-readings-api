@@ -1,0 +1,13 @@
+{
+  "date": "2025-12-25",
+  "monthDay": "12/25",
+  "season": "Christmas",
+  "readings": {
+    "firstReading": "Isaiah 52:7-10",
+    "psalm": "Psalm 98:1, 2-3, 3-4, 5-6",
+    "secondReading": "Hebrews 1:1-6",
+    "gospel": "John 1:1-18"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/122525.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/12-25.json"
+}

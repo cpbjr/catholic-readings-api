@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-26",
+  "monthDay": "9/26",
+  "saint": {
+    "name": "Cosmas and Damian",
+    "type": "Optional Memorial",
+    "quote": "We take no payment but from God.",
+    "description": "Twin brothers, physicians who treated the poor without charge."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Cosmas_and_Damian",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/09-26.json"
+}

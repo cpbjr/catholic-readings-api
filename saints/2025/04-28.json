@@ -1,0 +1,12 @@
+{
+  "date": "2025-04-28",
+  "monthDay": "4/28",
+  "saint": {
+    "name": "Peter Chanel",
+    "type": "Optional Memorial",
+    "quote": "You may kill me, but my religion will not die.",
+    "description": "First martyr of Oceania, missionary to Futuna Island."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Peter_Chanel",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/04-28.json"
+}

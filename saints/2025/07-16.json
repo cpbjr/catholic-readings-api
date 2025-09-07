@@ -1,0 +1,12 @@
+{
+  "date": "2025-07-16",
+  "monthDay": "7/16",
+  "saint": {
+    "name": "Our Lady of Mount Carmel",
+    "type": "Optional Memorial",
+    "quote": "Take this scapular, whosoever dies wearing it shall not suffer eternal fire.",
+    "description": "Honors Mary as patroness of Carmelites and the Brown Scapular devotion."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Our_Lady_of_Mount_Carmel",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/07-16.json"
+}

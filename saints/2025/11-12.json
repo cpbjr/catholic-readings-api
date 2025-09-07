@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-12",
+  "monthDay": "11/12",
+  "saint": {
+    "name": "Josaphat",
+    "type": "Memorial",
+    "quote": "If I could give my life to unite the Churches, I would gladly do so.",
+    "description": "Bishop and martyr who worked for unity between East and West."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Josaphat",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/11-12.json"
+}

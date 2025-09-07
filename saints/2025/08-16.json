@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-16",
+  "monthDay": "8/16",
+  "saint": {
+    "name": "Stephen of Hungary",
+    "type": "Optional Memorial",
+    "quote": "I offer this kingdom to the Virgin Mary.",
+    "description": "First Christian king of Hungary who established the Church there."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Stephen_of_Hungary",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/08-16.json"
+}

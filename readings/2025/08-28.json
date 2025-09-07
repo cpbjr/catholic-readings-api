@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-28",
+  "monthDay": "8/28",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Thessalonians 3:7-13",
+    "psalm": "Psalm 90:3-5a, 12-13, 14 and 17",
+    "gospel": "Matthew 24:42-51"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/082825.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/08-28.json"
+}
