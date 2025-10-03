@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-24",
+  "monthDay": "10/24",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Hebrews 13:1-8",
+    "psalm": "Psalm 27:1, 3, 5, 8b-9abc",
+    "gospel": "Mark 6:14-29"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/102425.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-24.json"
+}

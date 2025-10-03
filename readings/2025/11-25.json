@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-25",
+  "monthDay": "11/25",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Hebrews 12:1-4",
+    "psalm": "Psalm 22:26b-27, 28, 30, 31-32",
+    "gospel": "Mark 5:21-43"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/112525.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/11-25.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-12-03",
+  "monthDay": "12/3",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Isaiah 25:6-10a",
+    "psalm": "Psalm 23:1-3a, 3b-4, 5, 6",
+    "gospel": "Matthew 15:29-37"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/120325.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/12-03.json"
+}

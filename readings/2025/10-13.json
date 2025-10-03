@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-13",
+  "monthDay": "10/13",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Hebrews 11:32-40",
+    "psalm": "Psalm 31:20, 21, 22, 24",
+    "gospel": "Mark 5:1-20"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/101325.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-13.json"
+}

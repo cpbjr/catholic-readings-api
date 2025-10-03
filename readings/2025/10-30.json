@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-30",
+  "monthDay": "10/30",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Hebrews 12:18-19, 21-24",
+    "psalm": "Psalm 48:2-3ab, 3cd-4, 9, 10-11",
+    "gospel": "Mark 6:7-13"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/103025.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-30.json"
+}
