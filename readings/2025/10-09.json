@@ -3,9 +3,9 @@
   "monthDay": "10/9",
   "season": "Ordinary Time",
   "readings": {
-    "firstReading": "Hebrews 12:18-19, 21-24",
-    "psalm": "Psalm 48:2-3ab, 3cd-4, 9, 10-11",
-    "gospel": "Mark 6:7-13"
+    "firstReading": "Malachi 3:13-20b",
+    "psalm": "Psalm 1:1-2, 3, 4 and 6",
+    "gospel": "Luke 11:5-13"
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/100925.cfm",
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-09.json"

@@ -3,9 +3,9 @@
   "monthDay": "10/21",
   "season": "Ordinary Time",
   "readings": {
-    "firstReading": "Hebrews 12:1-4",
-    "psalm": "Psalm 22:26b-27, 28, 30, 31-32",
-    "gospel": "Mark 5:21-43"
+    "firstReading": "Romans 6:12-18",
+    "psalm": "Psalm 124:1b-3, 4-6, 7-8",
+    "gospel": "Luke 12:39-48"
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/102125.cfm",
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-21.json"

@@ -3,10 +3,10 @@
   "monthDay": "10/12",
   "season": "Ordinary Time",
   "readings": {
-    "firstReading": "Isaiah 55:10-11",
-    "psalm": "Psalm 65:10, 11, 12-13, 14",
-    "secondReading": "Romans 8:18-23",
-    "gospel": "Matthew 13:1-23"
+    "firstReading": "2 Kings 5:14-17",
+    "psalm": "Psalm 98:1, 2-3, 3-4",
+    "secondReading": "2 Timothy 2:8-13",
+    "gospel": "Luke 17:11-19"
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/101225.cfm",
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-12.json"

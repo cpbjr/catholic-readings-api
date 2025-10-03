@@ -3,9 +3,9 @@
   "monthDay": "10/22",
   "season": "Ordinary Time",
   "readings": {
-    "firstReading": "Hebrews 12:4-7, 11-15",
-    "psalm": "Psalm 103:1-2, 13-14, 17-18a",
-    "gospel": "Mark 6:1-6"
+    "firstReading": "Romans 6:19-23",
+    "psalm": "Psalm 1:1-2, 3, 4 and 6",
+    "gospel": "Luke 12:49-53"
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/102225.cfm",
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-22.json"

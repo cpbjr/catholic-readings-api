@@ -3,9 +3,9 @@
   "monthDay": "10/20",
   "season": "Ordinary Time",
   "readings": {
-    "firstReading": "Hebrews 11:32-40",
-    "psalm": "Psalm 31:20, 21, 22, 24",
-    "gospel": "Mark 5:1-20"
+    "firstReading": "Romans 5:12, 15b, 17-19, 20b-21",
+    "psalm": "Psalm 40:7-8a, 8b-9, 10, 17",
+    "gospel": "Luke 12:35-38"
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/102025.cfm",
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-20.json"
