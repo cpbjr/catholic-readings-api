@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-06",
+  "monthDay": "11/6",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 14:7-12",
+    "psalm": "Psalm 27:1bcde, 4, 13-14",
+    "gospel": "Luke 15:1-10"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/110625.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/11-06.json"
+}

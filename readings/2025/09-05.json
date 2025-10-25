@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-05",
+  "monthDay": "9/5",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Colossians 1:15-20",
+    "psalm": "Psalm 100:1b-2, 3, 4, 5",
+    "gospel": "Luke 5:33-39"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/090525.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/09-05.json"
+}

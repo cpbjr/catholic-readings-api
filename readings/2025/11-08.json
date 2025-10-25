@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-08",
+  "monthDay": "11/8",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 16:3-9, 16, 22-27",
+    "psalm": "Psalm 145:2-3, 4-5, 10-11",
+    "gospel": "Luke 16:9-15"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/110825.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/11-08.json"
+}

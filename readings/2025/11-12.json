@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-12",
+  "monthDay": "11/12",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Wisdom 6:1-11",
+    "psalm": "Psalm 82:3-4, 6-7",
+    "gospel": "Luke 17:11-19"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/111225.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/11-12.json"
+}

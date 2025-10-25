@@ -1,0 +1,13 @@
+{
+  "date": "2025-12-07",
+  "monthDay": "12/7",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Isaiah 11:1-10",
+    "psalm": "Psalm 72:1-2, 7-8, 12-13, 17",
+    "secondReading": "Romans 15:4-9",
+    "gospel": "Matthew 3:1-12"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/120725.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/12-07.json"
+}

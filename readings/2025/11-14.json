@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-14",
+  "monthDay": "11/14",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Wisdom 13:1-9",
+    "psalm": "Psalm 19:2-3, 4-5ab",
+    "gospel": "Luke 17:26-37"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/111425.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/11-14.json"
+}

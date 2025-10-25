@@ -1,0 +1,12 @@
+{
+  "date": "2025-06-29",
+  "monthDay": "6/29",
+  "saint": {
+    "name": "Peter and Paul",
+    "type": "Solemnity",
+    "quote": "I have fought the good fight, I have finished the race, I have kept the faith.",
+    "description": "The two great apostles, pillars of the Church, both martyred in Rome."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Peter_and_Paul",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/06-29.json"
+}

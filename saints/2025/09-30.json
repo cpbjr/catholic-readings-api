@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-30",
+  "monthDay": "9/30",
+  "saint": {
+    "name": "Jerome",
+    "type": "Memorial",
+    "quote": "Ignorance of Scripture is ignorance of Christ.",
+    "description": "Translated the Bible into Latin (Vulgate), Doctor of the Church."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Jerome",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/09-30.json"
+}

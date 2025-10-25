@@ -1,0 +1,12 @@
+{
+  "date": "2025-12-18",
+  "monthDay": "12/18",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Jeremiah 23:5-8",
+    "psalm": "Psalm 72:1-2, 12-13, 18-19",
+    "gospel": "Matthew 1:18-25"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/121825.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/12-18.json"
+}

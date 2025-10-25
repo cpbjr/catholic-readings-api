@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-08",
+  "monthDay": "9/8",
+  "saint": {
+    "name": "Birth of Mary",
+    "type": "Feast",
+    "quote": "Rejoice, O highly favored daughter! The Lord is with you.",
+    "description": "Celebrates the birth of the Mother of God."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Birth_of_Mary",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/09-08.json"
+}

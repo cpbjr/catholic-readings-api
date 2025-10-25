@@ -1,0 +1,13 @@
+{
+  "date": "2025-10-05",
+  "monthDay": "10/5",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Habakkuk 1:2-3; 2:2-4",
+    "psalm": "Psalm 95:1-2, 6-7, 8-9",
+    "secondReading": "2 Timothy 1:6-8, 13-14",
+    "gospel": "Luke 17:5-10"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/100525.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-05.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-22",
+  "monthDay": "11/22",
+  "saint": {
+    "name": "Cecilia",
+    "type": "Memorial",
+    "quote": "Sing to the Lord a new song.",
+    "description": "Virgin martyr, patron of musicians."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Cecilia",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/11-22.json"
+}

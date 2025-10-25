@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-23",
+  "monthDay": "10/23",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 6:19-23",
+    "psalm": "Psalm 1:1-2, 3, 4 and 6",
+    "gospel": "Luke 12:49-53"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/102325.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-23.json"
+}

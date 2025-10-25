@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-22",
+  "monthDay": "9/22",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ezra 1:1-6",
+    "psalm": "Psalm 126:1b-2ab, 2cd-3, 4-5, 6",
+    "gospel": "Luke 8:16-18"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/092225.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/09-22.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-17",
+  "monthDay": "10/17",
+  "saint": {
+    "name": "Ignatius of Antioch",
+    "type": "Memorial",
+    "quote": "I am the wheat of God, and am ground by the teeth of wild beasts.",
+    "description": "Bishop and martyr who wrote seven letters while being taken to Rome for execution."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Ignatius_of_Antioch",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/10-17.json"
+}

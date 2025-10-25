@@ -1,0 +1,13 @@
+{
+  "date": "2025-10-18",
+  "monthDay": "10/18",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Exodus 17:8-13",
+    "psalm": "Psalm 121:1-2, 3-4, 5-6, 7-8",
+    "secondReading": "2 Timothy 3:14-4:2",
+    "gospel": "Luke 18:1-8"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/101825.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-18.json"
+}

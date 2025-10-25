@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-14",
+  "monthDay": "10/14",
+  "saint": {
+    "name": "Callistus I",
+    "type": "Optional Memorial",
+    "quote": "I have the power to forgive all sins.",
+    "description": "Pope who defended mercy for repentant sinners."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Callistus_I",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/10-14.json"
+}

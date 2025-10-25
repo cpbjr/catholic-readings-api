@@ -1,0 +1,12 @@
+{
+  "date": "2025-12-31",
+  "monthDay": "12/31",
+  "season": "Christmas",
+  "readings": {
+    "firstReading": "1 John 2:18-21",
+    "psalm": "Psalm 96:1-2, 11-12, 13",
+    "gospel": "John 1:1-18"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/123125.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/12-31.json"
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2025-11-09",
+  "monthDay": "11/9",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ezekiel 47:1-2, 8-9, 12",
+    "psalm": "Psalm 46:2-3, 5-6, 8-9",
+    "secondReading": "1 Corinthians 3:9c-11, 16-17",
+    "gospel": "John 2:13-22"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/110925.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/11-09.json"
+}

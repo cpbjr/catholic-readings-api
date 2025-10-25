@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-17",
+  "monthDay": "11/17",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Maccabees 1:10-15, 41-43, 54-57, 62-63",
+    "psalm": "Psalm 119:53, 61, 134, 150, 155, 158",
+    "gospel": "Luke 18:35-43"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/111725.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/11-17.json"
+}

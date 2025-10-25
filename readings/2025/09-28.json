@@ -1,0 +1,13 @@
+{
+  "date": "2025-09-28",
+  "monthDay": "9/28",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Amos 6:1a, 4-7",
+    "psalm": "Psalm 146:7, 8-9, 9-10",
+    "secondReading": "1 Timothy 6:11-16",
+    "gospel": "Luke 16:19-31"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/092825.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/09-28.json"
+}

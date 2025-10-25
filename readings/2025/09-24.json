@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-24",
+  "monthDay": "9/24",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ezra 9:5-9",
+    "psalm": "Tobit 13:2, 3-4a, 4befghn, 7-8",
+    "gospel": "Luke 9:1-6"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/092425.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/09-24.json"
+}

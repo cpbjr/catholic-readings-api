@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-07",
+  "monthDay": "11/7",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 15:14-21",
+    "psalm": "Psalm 98:1, 2-3ab, 3cd-4",
+    "gospel": "Luke 16:1-8"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/110725.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/11-07.json"
+}

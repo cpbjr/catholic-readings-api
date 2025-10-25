@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-22",
+  "monthDay": "11/22",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Maccabees 6:1-13",
+    "psalm": "Psalm 9:2-3, 4, 6, 16, 19",
+    "gospel": "Luke 20:27-40"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/112225.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/11-22.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-12",
+  "monthDay": "9/12",
+  "saint": {
+    "name": "Most Holy Name of Mary",
+    "type": "Optional Memorial",
+    "quote": "Blessed is the name of Mary.",
+    "description": "Honors the name of the Blessed Virgin Mary."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Most_Holy_Name_of_Mary",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/09-12.json"
+}

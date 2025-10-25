@@ -1,0 +1,13 @@
+{
+  "date": "2025-08-31",
+  "monthDay": "8/31",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Sirach 3:17-18, 20, 28-29",
+    "psalm": "Psalm 68:4-5, 6-7, 10-11",
+    "secondReading": "Hebrews 12:18-19, 22-24a",
+    "gospel": "Luke 14:1, 7-14"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/083125.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/08-31.json"
+}

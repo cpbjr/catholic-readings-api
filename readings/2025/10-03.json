@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-03",
+  "monthDay": "10/3",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Baruch 1:15-22",
+    "psalm": "Psalm 79:1b-2, 3-5, 8, 9",
+    "gospel": "Luke 10:13-16"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/100325.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-03.json"
+}

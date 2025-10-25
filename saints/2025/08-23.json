@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-23",
+  "monthDay": "8/23",
+  "saint": {
+    "name": "Rose of Lima",
+    "type": "Optional Memorial",
+    "quote": "Apart from the cross there is no other ladder by which we may get to heaven.",
+    "description": "First saint of the Americas, Dominican tertiary and mystic."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Rose_of_Lima",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/08-23.json"
+}

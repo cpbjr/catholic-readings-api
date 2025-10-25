@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-02",
+  "monthDay": "10/2",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Nehemiah 8:1-4a, 5-6, 7b-12",
+    "psalm": "Psalm 19:8, 9, 10, 11",
+    "gospel": "Matthew 18:1-5, 10"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/100225.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-02.json"
+}

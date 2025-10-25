@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-10",
+  "monthDay": "11/10",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Wisdom 1:1-7",
+    "psalm": "Psalm 139:1b-3, 4-6, 7-8, 9-10",
+    "gospel": "Luke 17:1-6"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/111025.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/11-10.json"
+}

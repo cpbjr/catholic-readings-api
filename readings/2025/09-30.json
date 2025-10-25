@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-30",
+  "monthDay": "9/30",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Zechariah 8:20-23",
+    "psalm": "Psalm 87:1b-3, 4-5, 6-7",
+    "gospel": "Luke 9:51-56"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/093025.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/09-30.json"
+}

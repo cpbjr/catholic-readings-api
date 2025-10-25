@@ -1,0 +1,13 @@
+{
+  "date": "2025-12-14",
+  "monthDay": "12/14",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Isaiah 35:1-6a, 10",
+    "psalm": "Psalm 146:6-7, 8-9, 9-10",
+    "secondReading": "James 5:7-10",
+    "gospel": "Matthew 11:2-11"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/121425.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/12-14.json"
+}

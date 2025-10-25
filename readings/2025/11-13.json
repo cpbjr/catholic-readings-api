@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-13",
+  "monthDay": "11/13",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Wisdom 7:22b\u20148:1",
+    "psalm": "Psalm 119:89, 90, 91, 130, 135, 175",
+    "gospel": "Luke 17:20-25"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/111325.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/11-13.json"
+}

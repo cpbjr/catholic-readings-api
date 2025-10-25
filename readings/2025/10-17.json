@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-17",
+  "monthDay": "10/17",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Timothy 4:10-17b",
+    "psalm": "Psalm 145:10-11, 12-13, 17-18",
+    "gospel": "Luke 10:1-9"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/101725.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-17.json"
+}

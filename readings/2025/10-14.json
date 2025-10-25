@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-14",
+  "monthDay": "10/14",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 1:16-25",
+    "psalm": "Psalm 19:2-3, 4-5",
+    "gospel": "Luke 11:37-41"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/101425.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-14.json"
+}

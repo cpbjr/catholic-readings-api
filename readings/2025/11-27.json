@@ -1,0 +1,13 @@
+{
+  "date": "2025-11-27",
+  "monthDay": "11/27",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Sirach 35:12-14, 16-18",
+    "psalm": "Psalm 138:1-2a, 2bc-3, 7c-8",
+    "secondReading": "2 Timothy 4:6-8, 16-18",
+    "gospel": "Luke 18:9-14"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/112725.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/11-27.json"
+}

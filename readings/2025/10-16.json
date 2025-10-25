@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-16",
+  "monthDay": "10/16",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 4:1-8",
+    "psalm": "Psalm 32:1b-2, 5, 11",
+    "gospel": "Luke 12:1-7"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/101625.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-16.json"
+}

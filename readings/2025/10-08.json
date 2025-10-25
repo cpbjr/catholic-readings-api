@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-08",
+  "monthDay": "10/8",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Jonah 4:1-11",
+    "psalm": "Psalm 86:3-4, 5-6, 9-10",
+    "gospel": "Luke 11:1-4"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/100825.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-08.json"
+}

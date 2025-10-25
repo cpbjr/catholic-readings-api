@@ -1,0 +1,12 @@
+{
+  "date": "2025-12-06",
+  "monthDay": "12/6",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Isaiah 30:19-21, 23-26",
+    "psalm": "Psalm 147:1-2, 3-4, 5-6",
+    "gospel": "Matthew 9:35-10:1, 5a, 6-8"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/120625.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/12-06.json"
+}

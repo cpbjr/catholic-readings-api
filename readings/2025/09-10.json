@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-10",
+  "monthDay": "9/10",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Colossians 3:1-11",
+    "psalm": "Psalm 145:2-3, 10-11, 12-13ab",
+    "gospel": "Luke 6:20-26"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/091025.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/09-10.json"
+}

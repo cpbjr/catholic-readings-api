@@ -1,0 +1,12 @@
+{
+  "date": "2025-06-19",
+  "monthDay": "6/19",
+  "saint": {
+    "name": "Romuald",
+    "type": "Optional Memorial",
+    "quote": "Sit in your cell as in paradise.",
+    "description": "Founded the Camaldolese monks, combining eremitical and cenobitic life."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Romuald",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/06-19.json"
+}

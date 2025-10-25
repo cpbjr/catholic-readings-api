@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-28",
+  "monthDay": "11/28",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Daniel 7:2-14",
+    "psalm": "Daniel 3:75, 76, 77, 78, 79, 80, 81",
+    "gospel": "Luke 21:29-33"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/112825.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/11-28.json"
+}

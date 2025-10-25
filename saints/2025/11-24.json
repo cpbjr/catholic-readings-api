@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-24",
+  "monthDay": "11/24",
+  "saint": {
+    "name": "Andrew Dung-Lac and Companions",
+    "type": "Memorial",
+    "quote": "I die for God, and it is a joyful thing.",
+    "description": "Vietnamese martyrs spanning three centuries."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Andrew_Dung-Lac_and_Companions",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/11-24.json"
+}

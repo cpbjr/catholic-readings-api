@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-30",
+  "monthDay": "10/30",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 8:31b-39",
+    "psalm": "Psalm 109:21-22, 26-27, 30-31",
+    "gospel": "Luke 13:31-35"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/103025.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-30.json"
+}

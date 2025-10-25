@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-12",
+  "monthDay": "8/12",
+  "saint": {
+    "name": "Jane Frances de Chantal",
+    "type": "Optional Memorial",
+    "quote": "Jesus alone, and always Jesus.",
+    "description": "Widow who founded the Visitation Sisters with Francis de Sales."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Jane_Frances_de_Chantal",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/08-12.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-12-01",
+  "monthDay": "12/1",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Isaiah 4:2-6",
+    "psalm": "Psalm 122:1-2, 3-4b, 4cd-5, 6-7, 8-9",
+    "gospel": "Matthew 8:5-11"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/120125.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/12-01.json"
+}

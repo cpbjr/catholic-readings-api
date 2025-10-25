@@ -1,0 +1,12 @@
+{
+  "date": "2025-07-30",
+  "monthDay": "7/30",
+  "saint": {
+    "name": "Peter Chrysologus",
+    "type": "Optional Memorial",
+    "quote": "All that we have is Christ's; all that Christ has, he has made ours.",
+    "description": "Bishop of Ravenna, Doctor of the Church, golden-worded preacher."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Peter_Chrysologus",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/07-30.json"
+}

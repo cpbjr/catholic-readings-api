@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-19",
+  "monthDay": "10/19",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 4:20-25",
+    "psalm": "Luke 1:69-70, 71-72, 73-75",
+    "gospel": "Luke 12:13-21"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/101925.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-19.json"
+}

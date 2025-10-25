@@ -1,0 +1,12 @@
+{
+  "date": "2025-03-25",
+  "monthDay": "3/25",
+  "saint": {
+    "name": "Annunciation",
+    "type": "Solemnity",
+    "quote": "Let it be done unto me according to your word.",
+    "description": "Celebrates the angel Gabriel's announcement to Mary and the Incarnation."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Annunciation",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/03-25.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-07-06",
+  "monthDay": "7/6",
+  "saint": {
+    "name": "Maria Goretti",
+    "type": "Optional Memorial",
+    "quote": "I forgive him, and I want him to be with me in Paradise.",
+    "description": "Virgin martyr who forgave her attacker, patron of youth and purity."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Maria_Goretti",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/07-06.json"
+}

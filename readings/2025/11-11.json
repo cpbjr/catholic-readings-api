@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-11",
+  "monthDay": "11/11",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Wisdom 2:23\u20143:9",
+    "psalm": "Psalm 34:2-3, 16-17, 18-19",
+    "gospel": "Luke 17:7-10"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/111125.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/11-11.json"
+}

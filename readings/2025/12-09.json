@@ -1,0 +1,12 @@
+{
+  "date": "2025-12-09",
+  "monthDay": "12/9",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Isaiah 40:1-11",
+    "psalm": "Psalm 96:1-2, 3 and 10ac, 11-12, 13",
+    "gospel": "Matthew 18:12-14"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/120925.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/12-09.json"
+}

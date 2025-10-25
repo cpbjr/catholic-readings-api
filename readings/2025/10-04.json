@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-04",
+  "monthDay": "10/4",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Baruch 4:5-12, 27-29",
+    "psalm": "Psalm 69:33-35, 36-37",
+    "gospel": "Luke 10:17-24"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/100425.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-04.json"
+}

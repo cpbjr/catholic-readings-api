@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-13",
+  "monthDay": "9/13",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Timothy 1:15-17",
+    "psalm": "Psalm 113:1b-2, 3-4, 5 and 6-7",
+    "gospel": "Luke 6:43-49"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/091325.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/09-13.json"
+}

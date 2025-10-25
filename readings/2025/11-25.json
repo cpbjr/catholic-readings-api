@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-25",
+  "monthDay": "11/25",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Daniel 2:31-45",
+    "psalm": "Daniel 3:57, 58, 59, 60, 61",
+    "gospel": "Luke 21:5-11"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/112525.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/11-25.json"
+}

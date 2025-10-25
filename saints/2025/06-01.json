@@ -1,0 +1,12 @@
+{
+  "date": "2025-06-01",
+  "monthDay": "6/1",
+  "saint": {
+    "name": "Justin Martyr",
+    "type": "Memorial",
+    "quote": "We would rather die than live a lie.",
+    "description": "Philosopher who became Christian apologist, first to use philosophy to explain faith."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Justin_Martyr",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/06-01.json"
+}

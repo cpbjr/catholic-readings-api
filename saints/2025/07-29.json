@@ -1,0 +1,12 @@
+{
+  "date": "2025-07-29",
+  "monthDay": "7/29",
+  "saint": {
+    "name": "Martha, Mary, and Lazarus",
+    "type": "Memorial",
+    "quote": "Lord, if you had been here, my brother would not have died.",
+    "description": "Friends of Jesus who showed hospitality and faith."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Martha_Mary,_and_Lazarus",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/07-29.json"
+}

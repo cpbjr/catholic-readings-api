@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-25",
+  "monthDay": "8/25",
+  "saint": {
+    "name": "Louis",
+    "type": "Optional Memorial",
+    "quote": "I would rather be a leper than commit a mortal sin.",
+    "description": "King of France who led two Crusades and cared for the poor."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Louis",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/08-25.json"
+}

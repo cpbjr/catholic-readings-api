@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-22",
+  "monthDay": "10/22",
+  "saint": {
+    "name": "John Paul II",
+    "type": "Optional Memorial",
+    "quote": "Do not be afraid. Open wide the doors for Christ.",
+    "description": "Pope who helped end communism, promoted Divine Mercy and Theology of the Body."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/John_Paul_II",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/10-22.json"
+}

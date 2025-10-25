@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-25",
+  "monthDay": "9/25",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Haggai 1:1-8",
+    "psalm": "Psalm 149:1b-2, 3-4, 5-6a and 9b",
+    "gospel": "Luke 9:7-9"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/092525.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/09-25.json"
+}

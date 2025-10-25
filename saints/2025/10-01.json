@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-01",
+  "monthDay": "10/1",
+  "saint": {
+    "name": "Therese of the Child Jesus",
+    "type": "Memorial",
+    "quote": "I will spend my heaven doing good on earth.",
+    "description": "The Little Flower, Doctor of the Church, taught the \"little way\" of spiritual childhood."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Therese_of_the_Child_Jesus",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/10-01.json"
+}

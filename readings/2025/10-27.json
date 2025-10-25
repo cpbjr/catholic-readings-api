@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-27",
+  "monthDay": "10/27",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 8:12-17",
+    "psalm": "Psalm 68:2 and 4, 6-7ab, 20-21",
+    "gospel": "Luke 13:10-17"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/102725.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-27.json"
+}

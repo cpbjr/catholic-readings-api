@@ -1,0 +1,13 @@
+{
+  "date": "2025-11-30",
+  "monthDay": "11/30",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Isaiah 2:1-5",
+    "psalm": "Psalm 122:1-2, 3-4, 4-5, 6-7, 8-9",
+    "secondReading": "Romans 13:11-14",
+    "gospel": "Matthew 24:37-44"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/113025.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/11-30.json"
+}

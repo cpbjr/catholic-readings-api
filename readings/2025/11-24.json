@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-24",
+  "monthDay": "11/24",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Daniel 1:1-6, 8-20",
+    "psalm": "Daniel 3:52, 53, 54, 55, 56",
+    "gospel": "Luke 21:1-4"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/112425.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/11-24.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-06",
+  "monthDay": "10/6",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Jonah 1:1–2:1-2, 11",
+    "psalm": "Jonah 2:3, 4, 5, 8",
+    "gospel": "Luke 10:25-37"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/100625.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-06.json"
+}

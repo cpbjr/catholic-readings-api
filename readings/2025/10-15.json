@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-15",
+  "monthDay": "10/15",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 3:21-30",
+    "psalm": "Psalm 130:1b-2, 3-4, 5-6ab",
+    "gospel": "Luke 11:47-54"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/101525.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-15.json"
+}

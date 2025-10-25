@@ -1,0 +1,12 @@
+{
+  "date": "2025-12-24",
+  "monthDay": "12/24",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "2 Samuel 7:1-5, 8b-12, 14a, 16",
+    "psalm": "Psalm 89:2-3, 4-5, 27 and 29",
+    "gospel": "Luke 1:67-79"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/122425.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/12-24.json"
+}

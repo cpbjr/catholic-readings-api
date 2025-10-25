@@ -1,0 +1,12 @@
+{
+  "date": "2025-07-15",
+  "monthDay": "7/15",
+  "saint": {
+    "name": "Bonaventure",
+    "type": "Memorial",
+    "quote": "In beautiful things he saw Beauty itself.",
+    "description": "Franciscan theologian, Doctor of the Church, minister general of Franciscans."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Bonaventure",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/07-15.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-07-14",
+  "monthDay": "7/14",
+  "saint": {
+    "name": "Kateri Tekakwitha",
+    "type": "Memorial",
+    "quote": "I am not my own; I have given myself to Jesus.",
+    "description": "First Native American saint, \"Lily of the Mohawks.\""
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Kateri_Tekakwitha",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/07-14.json"
+}

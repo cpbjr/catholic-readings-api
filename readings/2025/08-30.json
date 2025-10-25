@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-30",
+  "monthDay": "8/30",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Thessalonians 4:9-11",
+    "psalm": "Psalm 98:1, 7-8, 9",
+    "gospel": "Matthew 25:14-30"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/083025.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/08-30.json"
+}

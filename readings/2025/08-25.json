@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-25",
+  "monthDay": "8/25",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Thessalonians 1:1-5, 8b-10",
+    "psalm": "Psalm 149:1b-2, 3-4, 5-6a and 9b",
+    "gospel": "Matthew 23:13-22"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/082525.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/08-25.json"
+}

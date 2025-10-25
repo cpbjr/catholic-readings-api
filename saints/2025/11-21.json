@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-21",
+  "monthDay": "11/21",
+  "saint": {
+    "name": "Presentation of Mary",
+    "type": "Memorial",
+    "quote": "Here I am, the servant of the Lord.",
+    "description": "Commemorates Mary's presentation in the Temple as a child."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Presentation_of_Mary",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/11-21.json"
+}

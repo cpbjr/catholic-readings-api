@@ -1,0 +1,12 @@
+{
+  "date": "2025-05-20",
+  "monthDay": "5/20",
+  "saint": {
+    "name": "Bernardine of Siena",
+    "type": "Optional Memorial",
+    "quote": "The name of Jesus is the glory of preachers.",
+    "description": "Franciscan preacher who promoted devotion to the Holy Name of Jesus."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Bernardine_of_Siena",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/05-20.json"
+}

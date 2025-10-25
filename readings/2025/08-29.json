@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-29",
+  "monthDay": "8/29",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Thessalonians 4:1-8",
+    "psalm": "Psalm 97:1 and 2b, 5-6, 10, 11-12",
+    "gospel": "Mark 6:17-29"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/082925.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/08-29.json"
+}

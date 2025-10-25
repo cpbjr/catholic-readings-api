@@ -1,0 +1,12 @@
+{
+  "date": "2025-04-30",
+  "monthDay": "4/30",
+  "saint": {
+    "name": "Pius V",
+    "type": "Optional Memorial",
+    "quote": "Lord, increase my sufferings and my love for You.",
+    "description": "Pope who implemented the Council of Trent and reformed the liturgy."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Pius_V",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/04-30.json"
+}

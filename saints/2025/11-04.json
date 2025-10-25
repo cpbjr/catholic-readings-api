@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-04",
+  "monthDay": "11/4",
+  "saint": {
+    "name": "Charles Borromeo",
+    "type": "Memorial",
+    "quote": "We were born to work together like feet, hands, and eyes.",
+    "description": "Cardinal Archbishop of Milan who reformed the Church after Trent."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Charles_Borromeo",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/11-04.json"
+}

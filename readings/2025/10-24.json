@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-24",
+  "monthDay": "10/24",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 7:18-25a",
+    "psalm": "Psalm 119:66, 68, 76, 77, 93, 94",
+    "gospel": "Luke 12:54-59"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/102425.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-24.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-05",
+  "monthDay": "11/5",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 13:8-10",
+    "psalm": "Psalm 112:1b-2, 4-5, 9",
+    "gospel": "Luke 14:25-33"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/110525.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/11-05.json"
+}

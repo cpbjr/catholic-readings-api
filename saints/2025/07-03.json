@@ -1,0 +1,12 @@
+{
+  "date": "2025-07-03",
+  "monthDay": "7/3",
+  "saint": {
+    "name": "Thomas",
+    "type": "Feast",
+    "quote": "My Lord and my God!",
+    "description": "Apostle whose doubt led to profound faith, traditionally evangelized India."
+  },
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Thomas",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/07-03.json"
+}

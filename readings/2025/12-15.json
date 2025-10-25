@@ -1,0 +1,12 @@
+{
+  "date": "2025-12-15",
+  "monthDay": "12/15",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Numbers 24:2-7, 15-17a",
+    "psalm": "Psalm 25:4-5ab, 6 and 7bc, 8-9",
+    "gospel": "Matthew 21:23-27"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/121525.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/12-15.json"
+}

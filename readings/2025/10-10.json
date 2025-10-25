@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-10",
+  "monthDay": "10/10",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Joel 1:13-15; 2:1-2",
+    "psalm": "Psalm 9:2-3, 6 and 16, 8-9",
+    "gospel": "Luke 11:15-26"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/101025.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/10-10.json"
+}

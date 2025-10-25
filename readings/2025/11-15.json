@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-15",
+  "monthDay": "11/15",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Wisdom 18:14-16; 19:6-9",
+    "psalm": "Psalm 105:2-3, 36-37, 42-43",
+    "gospel": "Luke 18:1-8"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/111525.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/11-15.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-12-12",
+  "monthDay": "12/12",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Zechariah 2:14-17",
+    "psalm": "Judith 13:18bcde, 19",
+    "gospel": "Luke 1:26-38"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/121225.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2025/12-12.json"
+}
