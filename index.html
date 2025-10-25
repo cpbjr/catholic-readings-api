@@ -362,25 +362,30 @@
         }
 
         async function fetchSaint() {
+            const today = new Date();
             const dateStr = getTodayDateString();
             const output = document.getElementById('demo-output');
             const content = document.getElementById('output-content');
-            
+
             try {
                 output.style.display = 'block';
                 content.textContent = 'Loading saint information...';
-                
+
                 const response = await fetch(`https://cpbjr.github.io/catholic-readings-api/saints/2025/${dateStr}.json`);
+
+                if (!response.ok) {
+                    throw new Error(`No saint data available for ${today.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}`);
+                }
+
                 const data = await response.json();
-                
                 content.textContent = JSON.stringify(data, null, 2);
             } catch (error) {
-                content.textContent = `Error: ${error.message}\nTrying sample date 09-08 (Birth of Mary)...`;
-                
+                content.textContent = `ℹ️ ${error.message}\n\nShowing sample data for September 8 (Birth of Mary):\n\n`;
+
                 try {
                     const response = await fetch('https://cpbjr.github.io/catholic-readings-api/saints/2025/09-08.json');
                     const data = await response.json();
-                    content.textContent = JSON.stringify(data, null, 2);
+                    content.textContent += JSON.stringify(data, null, 2);
                 } catch (sampleError) {
                     content.textContent = `Error loading sample data: ${sampleError.message}`;
                 }
