@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Christopher Magallanes and Companions, Martyrs",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "I am innocent and I die innocent. I forgive with all my heart those responsible for my death.",
+    "description": "A Mexican priest martyred during the Cristero War for his faith, forgiving his executioners with his last breath."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/05-21.json"
 }

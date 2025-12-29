@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Augustine of Hippo, Bishop and Doctor of the Church",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Thou hast made us for thyself, O Lord, and our heart is restless until it finds its rest in thee.",
+    "description": "One of the most influential theologians, his conversion and writings like 'Confessions' shaped Western Christianity."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-28.json"
 }

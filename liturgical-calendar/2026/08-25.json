@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Louis/Saint Joseph of Calasanz, Priest",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "I would rather see you dead at my feet than that you should ever commit a mortal sin.",
+    "description": "King Louis IX of France, a model of Christian leadership and justice who was deeply devoted to the poor and to the Church."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-25.json"
 }

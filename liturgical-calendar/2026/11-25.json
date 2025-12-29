@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Catherine of Alexandria, Virgin and Martyr",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "If you are ruled by the mind you are king, if by the body you are a slave.",
+    "description": "A brilliant young philosopher who converted many to Christ before being martyred on a wheel for her faith."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/11-25.json"
 }

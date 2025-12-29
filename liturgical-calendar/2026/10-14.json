@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Callistus I, Pope and Martyr",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "If offences abound, then, let mercy also abound.",
+    "description": "A slave who became Pope, he emphasized mercy and forgiveness for sinners and was martyred in Rome."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/10-14.json"
 }

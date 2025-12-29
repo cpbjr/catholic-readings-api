@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Frances of Rome, Religious",
     "type": "COMMEMORATION",
-    "quote": "",
-    "description": ""
+    "quote": "A married woman must leave her devotions at the altar to find God in her household affairs.",
+    "description": "A noblewoman who balanced family duties with devotion and service, eventually founding a community of oblates."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/03-09.json"
 }

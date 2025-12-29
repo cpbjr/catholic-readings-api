@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Teresa of Jesus, Virgin and Doctor",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Let nothing disturb you, let nothing frighten you. God alone suffices.",
+    "description": "A mystic and reformer of the Carmelites, she is a Doctor of the Church known for her writings on prayer."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/10-15.json"
 }

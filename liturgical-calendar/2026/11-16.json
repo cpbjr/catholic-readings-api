@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Margaret of Scotland/Saint Gertrude the Great, Virgin",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "My children, love and fear God; for they who fear God, have not to fear death.",
+    "description": "Queen of Scotland who transformed the royal court with her piety, charity, and wisdom, becoming a model of Christian motherhood."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/11-16.json"
 }

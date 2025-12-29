@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint John Eudes, Priest",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Our wish, our object, our chief preoccupation must be to form Jesus in ourselves.",
+    "description": "The 'Apostle of Two Hearts,' he founded the Eudists and promoted devotion to the Sacred Heart of Jesus and the Immaculate Heart of Mary."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-19.json"
 }

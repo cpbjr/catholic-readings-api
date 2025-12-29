@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Casimir",
     "type": "COMMEMORATION",
-    "quote": "",
-    "description": ""
+    "quote": "I prefer to be found pure before God rather than stained with the riches of the world.",
+    "description": "A Polish prince who chose a life of humility, chastity, and devotion over royal luxury, dying at the age of 25."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/03-04.json"
 }

@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Sixtus II, Pope, and Companions, Martyrs/Saint Cajetan, Priest",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Mary, the Mother of God, is our Mother also.",
+    "description": "On the octave day of Christmas, the Church celebrates the Solemnity of Mary, the Holy Mother of God, honoring her role as the Mother of the Savior and the start of the civil New Year with a focus on peace."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-07.json"
 }

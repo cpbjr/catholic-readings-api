@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saints Cyril, Monk and Methodius, Bishop",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "I am ready with joy to die for the Christian faith.",
+    "description": "A Greek missionary who, with his brother Methodius, translated the liturgy into Slavonic and created the Cyrillic alphabet."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/02-14.json"
 }

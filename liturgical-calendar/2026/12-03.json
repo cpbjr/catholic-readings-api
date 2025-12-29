@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Francis Xavier, Priest",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Give me the children until they are seven, and anyone may have them afterward.",
+    "description": "A founding member of the Jesuits and patron of missionaries, he spent his life evangelizing in Asia."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-03.json"
 }

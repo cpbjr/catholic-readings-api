@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Augustine of Canterbury, Bishop",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "He who sings prays twice.",
+    "description": "The 'Apostle of the English,' he was sent by Pope Gregory the Great to convert the Anglo-Saxons and became the first Archbishop of Canterbury."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/05-27.json"
 }

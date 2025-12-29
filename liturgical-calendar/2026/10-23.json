@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint John of Capistrano, Priest",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Those who are called to the table of the Lord must glow with the brightness that comes from the good example.",
+    "description": "A Franciscan preacher and soldier of Christ who led a successful defense against the Ottoman Turks through his preaching."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/10-23.json"
 }

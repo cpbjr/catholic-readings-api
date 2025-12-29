@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saints Fabian, Pope, and Sebastian, Martyrs",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "We must remember that we are not to seek our own will, but the will of God.",
+    "description": "A Roman layman miraculously chosen as Pope, he served for 14 years and was martyred during the persecution of Decius."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-20.json"
 }

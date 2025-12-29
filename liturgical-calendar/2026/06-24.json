@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Birth of John the Baptist",
     "type": "SOLEMNITY",
-    "quote": "",
-    "description": ""
+    "quote": "He must increase, but I must decrease.",
+    "description": "The precursor of Jesus who prepared the way of the Lord through his preaching of repentance and baptism in the Jordan."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/06-24.json"
 }

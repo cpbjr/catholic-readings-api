@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Jerome, Priest and Doctor",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Ignorance of the Scriptures is ignorance of Christ.",
+    "description": "A Doctor of the Church best known for his translation of the Bible into Latin (the Vulgate) and his deep love for Scripture."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/09-30.json"
 }

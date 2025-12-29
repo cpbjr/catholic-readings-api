@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Martin I, Pope and Martyr",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "I fear not exile or death; I fear only failing the truth.",
+    "description": "The last martyr Pope, he was exiled and suffered for his defense of Christ's two wills against the Monothelite heresy."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/04-13.json"
 }

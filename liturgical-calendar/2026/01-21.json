@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Agnes, Virgin and Martyr",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Christ made my soul beautiful with the jewels of grace and virtue. I belong to Him whom the angels serve.",
+    "description": "A young virgin martyr in Rome who dedicated herself to Christ at a young age, refusing to renounce her faith despite persecution."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-21.json"
 }

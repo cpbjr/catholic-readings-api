@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Matthew, Apostle and Evangelist",
     "type": "FEAST",
-    "quote": "",
-    "description": ""
+    "quote": "Follow me.",
+    "description": "A tax collector called by Jesus to be an Apostle and Evangelist, writing his Gospel to show that Jesus is the fulfillment of the law."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/09-21.json"
 }

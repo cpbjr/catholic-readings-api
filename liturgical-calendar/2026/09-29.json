@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saints Michael, Gabriel and Raphael, Archangels",
     "type": "FEAST",
-    "quote": "",
-    "description": ""
+    "quote": "Bless the Lord, all you his angels, mighty in power, who do his bidding.",
+    "description": "The feast of the three Archangels mentioned by name in Scripture, who serve as messengers and protectors of God's people."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/09-29.json"
 }

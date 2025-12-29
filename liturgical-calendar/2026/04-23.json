@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint George, Martyr/Saint Adalbert, Bishop and Martyr",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "We worship the Creator of the universe, and we affirm that Jesus Christ is His Son.",
+    "description": "A philosopher who converted to Christianity and became its first great apologist, eventually martyred for refusing to sacrifice to idols."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/04-23.json"
 }

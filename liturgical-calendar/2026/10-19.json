@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saints Jean de Brebeuf and Isaac Jogues, Priests and Companions, Martyrs/Saint Paul of the Cross, Priest",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "The greater our cross, the greater is our gain.",
+    "description": "The founder of the Passionists, he was a mystic who dedicated his life to promoting devotion to the Passion of Christ."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/10-19.json"
 }

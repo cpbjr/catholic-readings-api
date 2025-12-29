@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Raymond of Penyafort, Priest",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Look then on Jesus, the Author and Preserver of faith: in complete sinlessness He suffered.",
+    "description": "A Dominican friar and brilliant canon lawyer who compiled the 'Decretals' and served as Master General."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-07.json"
 }

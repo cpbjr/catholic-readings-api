@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Elizabeth of Hungary",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "How could I bear a crown of gold when the Lord bears a crown of thorns?",
+    "description": "Born in 1207, St. Elizabeth was a princess who devoted her life and wealth to the poor, joining the Third Order of St. Francis."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/11-17.json"
 }

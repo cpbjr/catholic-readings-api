@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Jean Vianney (the Cure of Ars), Priest",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "My God, if my tongue cannot say in every moment that I love You, I want my heart to repeat it at every breath.",
+    "description": "The Curé of Ars and patron of parish priests, known for his incredible dedication to the confessional and his simple, profound holiness."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-04.json"
 }

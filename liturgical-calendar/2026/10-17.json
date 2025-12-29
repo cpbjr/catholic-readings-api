@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Ignatius of Antioch, Bishop and Martyr",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Wherever the bishop appears, there let the people be.",
+    "description": "A disciple of St. John, he was martyred in Rome, leaving behind letters emphasizing Church unity and the Eucharist."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/10-17.json"
 }

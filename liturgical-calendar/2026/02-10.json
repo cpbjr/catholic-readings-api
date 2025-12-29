@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Scholastica, Virgin",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "I asked you and you would not listen, so I asked my God and He did listen.",
+    "description": "The twin sister of St. Benedict, she founded a community of nuns and is remembered for her spiritual conversations."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/02-10.json"
 }

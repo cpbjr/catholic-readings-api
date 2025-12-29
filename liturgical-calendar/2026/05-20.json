@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Bernardine of Siena, Priest",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "The name of Jesus is a glory for the preacher, because of the shining splendor of that name.",
+    "description": "A Franciscan preacher who promoted devotion to the Holy Name of Jesus and reformed his order with great zeal."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/05-20.json"
 }

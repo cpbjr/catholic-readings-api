@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Josaphat, Bishop and Martyr",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "I am ready to die for the holy union.",
+    "description": "An Eastern Catholic bishop and martyr who worked tirelessly for the unity of the Church, eventually giving his life for this cause."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/11-12.json"
 }

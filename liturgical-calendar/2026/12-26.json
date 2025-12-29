@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Stephen, The First Martyr",
     "type": "FEAST",
-    "quote": "",
-    "description": ""
+    "quote": "Lord Jesus, receive my spirit.",
+    "description": "One of the first deacons, he became the Church's first martyr, stoned to death while forgiving his executioners."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-26.json"
 }

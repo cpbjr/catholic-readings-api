@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saints Timothy and Titus, Bishops",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Let no one despise your youth, but be an example to the believers in word, in conduct, in love, in spirit, in faith, in purity.",
+    "description": "A close companion of St. Paul and the first Bishop of Ephesus, known for his youth and dedicated service to the early Church."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-26.json"
 }

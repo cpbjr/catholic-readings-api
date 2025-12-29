@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Hedwig, Religious/Saint Margaret Mary Alacoque, Virgin",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "The greater one is by birth, the greater one must be in virtue.",
+    "description": "Duchess of Silesia who lived a life of profound humility and charity, caring for the poor and the sick in her regional hospitals."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/10-16.json"
 }

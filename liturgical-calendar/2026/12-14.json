@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint John of the Cross, Priest and Doctor",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "In the evening of life, we will be judged on love alone.",
+    "description": "A Carmelite mystic and poet who, with St. Teresa of Avila, reformed the order and wrote profound works on the soul's journey to God."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-14.json"
 }

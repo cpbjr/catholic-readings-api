@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Dominic, Priest",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Arm yourself with prayer rather than a sword; wear humility rather than fine clothes.",
+    "description": "Founder of the Dominicans who promoted study, prayer, and preaching to defend the faith against the Albigensian heresy."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-08.json"
 }

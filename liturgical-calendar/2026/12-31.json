@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Sylvester I, Pope",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Timothy left to me only the heritage of his faith and courage.",
+    "description": "Pope during the reign of Constantine, he guided the Church through its emergence from persecution."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-31.json"
 }

@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Bridget of Sweden, Religious, Patron of Europe",
     "type": "FEAST",
-    "quote": "",
-    "description": ""
+    "quote": "How could I bear a crown of gold when the Lord bears a crown of thorns?",
+    "description": "Born in 1207, St. Elizabeth was a princess who devoted her life and wealth to the poor, joining the Third Order of St. Francis."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-23.json"
 }

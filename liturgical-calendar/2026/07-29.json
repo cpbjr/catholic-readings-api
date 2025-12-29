@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Martha",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Yes, Lord. I have come to believe that you are the Christ, the Son of God.",
+    "description": "A close friend of Jesus and sister of Mary and Lazarus, known for her hospitality and her firm profession of faith in the Resurrection."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-29.json"
 }

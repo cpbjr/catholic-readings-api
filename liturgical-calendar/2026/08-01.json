@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Alphonsus Maria de Liguori, Bishop and Doctor of the Church",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "He who trusts himself is lost. He who trusts God can do all things.",
+    "description": "Founder of the Redemptorists and a Doctor of the Church, he is the patron of confessors and moral theologians."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-01.json"
 }

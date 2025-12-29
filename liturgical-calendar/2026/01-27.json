@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Angela Merici, Virgin",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Do something. Get moving. Be confident. Risk new things. Stick with it. Get on your knees. Then be ready for big surprises.",
+    "description": "Foundress of the Ursulines, she dedicated her life to the education of young girls and promoting the role of women in the Church."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-27.json"
 }

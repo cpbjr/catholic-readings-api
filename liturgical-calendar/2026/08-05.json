@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Dedication of the Basilica of Saint Mary Major",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Holy Mary, Mother of God, pray for us.",
+    "description": "Commemorates the dedication of the largest and oldest church in Rome dedicated to the Virgin Mary, a center of Marian devotion."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-05.json"
 }

@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint James, Apostle",
     "type": "FEAST",
-    "quote": "",
-    "description": ""
+    "quote": "My life is for the service of the Gospel.",
+    "description": "James the Greater, the first apostle to be martyred, he was part of Jesus' inner circle and is the patron of Spain."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-25.json"
 }

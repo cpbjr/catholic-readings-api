@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Peter Canisius, Priest and Doctor",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "If you have too much to do, with God's help you will find time to do it all.",
+    "description": "A Jesuit known as the 'Second Apostle of Germany,' he played a vital role in the Counter-Reformation."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-21.json"
 }

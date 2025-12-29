@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Thomas the Apostle",
     "type": "FEAST",
-    "quote": "",
-    "description": ""
+    "quote": "My Lord and my God!",
+    "description": "Initially doubting the Resurrection, his encounter with the Risen Lord led to his famous profession of faith."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-03.json"
 }

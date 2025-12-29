@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Bernard of Clairvaux, Abbot and Doctor of the Church",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "The measure of loving God is to love Him without measure.",
+    "description": "A Cistercian abbot and Doctor of the Church whose preaching and writings significantly influenced medieval spirituality."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-20.json"
 }

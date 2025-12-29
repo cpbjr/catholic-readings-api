@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Januarius, Bishop and Martyr",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "My power is nothing but there is a God in heaven who can resist you.",
+    "description": "Bishop and martyr whose blood is said to liquefy miraculously in Naples as a sign of his intercession and the presence of God."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/09-19.json"
 }

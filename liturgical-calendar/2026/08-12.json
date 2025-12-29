@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Jane Frances de Chantal, Religious",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Faithfully do what God expects of you each moment, and leave the rest up to Him.",
+    "description": "A widow and mother who, with St. Francis de Sales, founded the Order of the Visitation."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-12.json"
 }

@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Patrick, Bishop",
     "type": "COMMEMORATION",
-    "quote": "",
-    "description": ""
+    "quote": "Christ beside me, Christ before me, Christ behind me, Christ within me.",
+    "description": "The patron saint of Ireland who returned to evangelize the island and establish the Church firmly among the Irish people."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/03-17.json"
 }

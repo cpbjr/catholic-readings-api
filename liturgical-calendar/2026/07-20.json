@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Apollinaris",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "I believe in Jesus Christ, the Son of the living God.",
+    "description": "Traditionally the first Bishop of Ravenna and a disciple of St. Peter, he was martyred for his steadfast witness to Christ."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-20.json"
 }

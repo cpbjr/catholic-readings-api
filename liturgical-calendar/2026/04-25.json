@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Mark the Evangelist",
     "type": "FEAST",
-    "quote": "",
-    "description": ""
+    "quote": "Go into all the world and preach the gospel to every creature.",
+    "description": "The author of the second Gospel and companion of St. Peter, he brought the Gospel to Egypt and founded the Church in Alexandria."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/04-25.json"
 }

@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Andrew Dung-Lac and Companions, Martyrs",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "The blood of martyrs is the seed of Christians.",
+    "description": "One of the 117 Vietnamese martyrs who gave their lives for the faith during centuries of fierce persecution in Vietnam."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/11-24.json"
 }

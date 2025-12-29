@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Romuald, Abbot",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Sit in your cell as in paradise. Put the whole world behind you and forget it.",
+    "description": "Founder of the Camaldolese order, he promoted a strict hermit-like life based on the Rule of St. Benedict."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/06-19.json"
 }

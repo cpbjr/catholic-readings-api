@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Be who God meant you to be and you will set the world on fire.",
+    "description": "A mystic, advisor to Popes, and Doctor of the Church who worked for Church reform and unity through her prayers and writings."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/04-29.json"
 }

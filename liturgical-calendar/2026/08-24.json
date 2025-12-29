@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Bartholomew the Apostle",
     "type": "FEAST",
-    "quote": "",
-    "description": ""
+    "quote": "Rabbi, you are the Son of God; you are the King of Israel.",
+    "description": "One of the Twelve Apostles, also known as Nathanael, who is believed to have preached in India and Armenia before being flayed alive."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-24.json"
 }

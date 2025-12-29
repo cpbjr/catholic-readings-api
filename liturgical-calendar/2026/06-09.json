@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Ephrem, Deacon and Doctor",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Virtue is the beauty of the soul.",
+    "description": "The 'Harp of the Holy Spirit,' he was a Syrian deacon and poet whose hymns and theology defended the faith against early heresies."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/06-09.json"
 }

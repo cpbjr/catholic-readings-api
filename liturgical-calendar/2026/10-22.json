@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Pope Saint John Paul II",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Be not afraid! Open wide the doors for Christ!",
+    "description": "The first Polish Pope, he traveled extensively, calling all to 'Be not afraid' and opening the Church to the modern world."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/10-22.json"
 }

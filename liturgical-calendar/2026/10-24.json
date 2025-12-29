@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Anthony Mary Claret, Bishop",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "We become what we love and who we love shapes what we become.",
+    "description": "A noblewoman who followed St. Francis and founded the Poor Clares, living a life of extreme poverty and contemplative prayer."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/10-24.json"
 }

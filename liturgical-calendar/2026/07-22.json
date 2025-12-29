@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Mary Magdalene",
     "type": "FEAST",
-    "quote": "",
-    "description": ""
+    "quote": "I have seen the Lord!",
+    "description": "The 'Apostle to the Apostles,' she was the first to witness the Resurrection and was sent by Jesus to tell the others."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-22.json"
 }

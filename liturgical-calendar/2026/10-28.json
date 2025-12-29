@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saints Simon and Jude, Apostles",
     "type": "FEAST",
-    "quote": "",
-    "description": ""
+    "quote": "To serve Christ is to reign.",
+    "description": "One of the Twelve Apostles, known as 'the Zealot,' who preached the Gospel with great fervor before being martyred."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/10-28.json"
 }

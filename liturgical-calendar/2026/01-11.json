@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Baptism of the Lord",
     "type": "FEAST",
-    "quote": "",
-    "description": ""
+    "quote": "You are my beloved Son; with you I am well pleased.",
+    "description": "The Baptism of the Lord marks the beginning of Jesus' public ministry and reveals His identity as the Beloved Son of the Father."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-11.json"
 }

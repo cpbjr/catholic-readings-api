@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Cyril of Alexandria, Bishop and Doctor",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Mary, mother of God, who held the Uncontainable in your womb.",
+    "description": "Bishop and Doctor of the Church who defended the title of Mary as 'Theotokos' (Mother of God) at the Council of Ephesus."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/06-27.json"
 }

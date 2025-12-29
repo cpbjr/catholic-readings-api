@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Rita of Cascia",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "I am not afraid to die. It is to close the eyes to the world and open them to God.",
+    "description": "Called the 'Patroness of Impossible Causes,' she was a wife, mother, widow, and nun known for her patience."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/05-22.json"
 }

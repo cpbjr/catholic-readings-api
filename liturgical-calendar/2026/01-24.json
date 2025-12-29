@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Francis de Sales, Bishop and Doctor",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Nothing is so strong as gentleness, nothing so gentle as real strength.",
+    "description": "Bishop of Geneva and a Doctor of the Church, he is the patron of writers and journalists, known for his gentleness."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-24.json"
 }

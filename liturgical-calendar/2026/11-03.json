@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Martin de Porres, Religious",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Everything, even sweeping... could be a prayer, if it were offered to God.",
+    "description": "A humble Dominican lay brother known for his miracles, his care for the marginalized, and his love for all of God's creatures."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/11-03.json"
 }

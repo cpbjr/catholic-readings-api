@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Charbel Makhlouf, Priest and Hermit",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Pray, hope, and don't worry. Worry is useless.",
+    "description": "A Capuchin friar known as Padre Pio, he bore the stigmata for fifty years and was a renowned confessor."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-24.json"
 }

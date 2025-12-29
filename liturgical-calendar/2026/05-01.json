@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Joseph the Worker",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Work was the daily expression of love in the life of the Family of Nazareth.",
+    "description": "The foster father of Jesus as a model of labor and the dignity of work, honoring his role as a carpenter in Nazareth."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/05-01.json"
 }

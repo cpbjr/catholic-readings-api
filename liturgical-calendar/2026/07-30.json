@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Peter Chrysologus, Bishop and Doctor",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Fasting is the soul of prayer, almsgiving is the lifeblood of fasting.",
+    "description": "Known as 'golden-worded' for his eloquent preaching, he was the Bishop of Ravenna and a strong defender of the Incarnation."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-30.json"
 }

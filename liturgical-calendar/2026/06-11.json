@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Barnabas the Apostle",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Pray as though everything depended on God. Work as though everything depended on you.",
+    "description": "The 'Son of Encouragement' who vouched for St. Paul and accompanied him on his first missionary journey to the Gentiles."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/06-11.json"
 }

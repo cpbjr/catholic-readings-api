@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Hilary of Poitiers, Bishop and Doctor",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "The chief service I owe you, O God, is that every thought and word of mine should speak of you.",
+    "description": "Bishop of Poitiers and Doctor of the Church, known as the 'Athanasius of the West' for his defense of the Trinity against Arianism."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-13.json"
 }

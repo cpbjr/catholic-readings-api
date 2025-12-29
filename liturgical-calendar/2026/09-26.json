@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saints Cosmas and Damian, Martyrs",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "He does not love Christ who does not love the cross of Christ.",
+    "description": "A monk, cardinal, and reformer, he was a powerful voice for Church renewal and advocate for clerical discipline."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/09-26.json"
 }

@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Ignatius of Loyola, Priest",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Lord, teach me to be generous. Teach me to serve you as you deserve.",
+    "description": "A soldier turned spiritual master, he founded the Society of Jesus (Jesuits) and wrote the 'Spiritual Exercises'."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-31.json"
 }

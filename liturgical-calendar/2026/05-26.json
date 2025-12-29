@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Philip Neri, Priest",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "A joyful heart is more easily made perfect than a downcast one.",
+    "description": "The 'Apostle of Rome' and founder of the Oratory, he was known for his humor, joy, and leading people to deep spiritual lives."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/05-26.json"
 }

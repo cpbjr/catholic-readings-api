@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint John Damascene, Priest and Doctor",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "The icon is a mirror, a window to the divine.",
+    "description": "A Syrian monk and Doctor of the Church who defended the use of holy icons during the iconoclast controversy."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-04.json"
 }

@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Elizabeth of Portugal",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "The only reason God raised me to the throne was that I should have means to assist the needy.",
+    "description": "A princess of Aragon and Queen of Portugal, she was a peacemaker between kings and a friend to the poor."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-04.json"
 }

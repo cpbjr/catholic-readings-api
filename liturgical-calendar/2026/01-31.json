@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint John Bosco, Priest",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "Run, jump, shout, but do not sin.",
+    "description": "The 'Father and Teacher of Youth,' he founded the Salesians to care for and educate young people, especially the poor and abandoned."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-31.json"
 }

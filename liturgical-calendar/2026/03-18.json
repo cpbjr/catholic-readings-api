@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Cyril of Jerusalem, Bishop and Doctor",
     "type": "COMMEMORATION",
-    "quote": "",
-    "description": ""
+    "quote": "The cross has ransomed the world; it has driven away the shadows and restored the light.",
+    "description": "Bishop of Jerusalem and Doctor of the Church, known for his 'Catechetical Lectures' explaining the faith to new Christians."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/03-18.json"
 }

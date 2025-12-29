@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Lawrence of Rome, Deacon and Martyr",
     "type": "FEAST",
-    "quote": "",
-    "description": ""
+    "quote": "The treasures of the Church are the poor.",
+    "description": "A Roman deacon martyred on a gridiron, famously telling his executioners, 'I am well done on this side; turn me over!'."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-10.json"
 }

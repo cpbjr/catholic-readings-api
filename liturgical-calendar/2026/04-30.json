@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Pius V, Pope",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "God does not ask of you mere ordinary virtue. He demands downright perfection!",
+    "description": "A Dominican Pope who implemented the reforms of the Council of Trent and standardized the Roman Missal."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/04-30.json"
 }

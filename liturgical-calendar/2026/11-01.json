@@ -5,8 +5,8 @@
   "celebration": {
     "name": "All Saints",
     "type": "SOLEMNITY",
-    "quote": "",
-    "description": ""
+    "quote": "Rejoice and be glad, for your reward will be great in heaven.",
+    "description": "The Solemnity of All Saints honors all the saints in heaven, known and unknown, who intercede for the Church on earth."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/11-01.json"
 }

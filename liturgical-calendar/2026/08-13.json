@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saints Pontian, Pope and Hippolytus, Priest, Martyrs",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "The Lord is our strength and our shield.",
+    "description": "A Pope who was exiled to the mines of Sardinia and resigned his office to allow for a successor, dying as a martyr."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-13.json"
 }

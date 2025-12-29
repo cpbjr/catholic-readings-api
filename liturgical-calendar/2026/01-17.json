@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Anthony of Egypt, Abbot",
     "type": "MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "The devil is afraid of us when we pray and make sacrifices. He is also afraid when we are humble and good.",
+    "description": "A pioneer of Christian monasticism in the desert, known for his asceticism and his victories over spiritual temptations."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-17.json"
 }

@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Damasus I, Pope",
     "type": "OPT_MEMORIAL",
-    "quote": "",
-    "description": ""
+    "quote": "I, Damasus, have dedicated these verses to the honor of the martyrs.",
+    "description": "The Pope who commissioned St. Jerome to translate the Bible into Latin and worked to preserve the tombs of the martyrs."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-11.json"
 }

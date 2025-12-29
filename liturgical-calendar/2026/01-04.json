@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Epiphany",
     "type": "SOLEMNITY",
-    "quote": "",
-    "description": ""
+    "quote": "They prostrated themselves and did him homage.",
+    "description": "The Epiphany celebrates the revelation of the Savior to all nations, represented by the Magi who followed the star to worship the infant Jesus."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-04.json"
 }
