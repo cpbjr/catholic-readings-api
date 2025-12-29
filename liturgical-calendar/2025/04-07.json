@@ -1,0 +1,12 @@
+{
+  "date": "2025-04-07",
+  "monthDay": "4/7",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/John_Baptist_de_la_Salle",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/04-07.json",
+  "celebration": {
+    "name": "John Baptist de la Salle",
+    "type": "Memorial",
+    "quote": "Remember you are in the holy presence of God.",
+    "description": "Founded the Christian Brothers and pioneered education for the poor."
+  }
+}

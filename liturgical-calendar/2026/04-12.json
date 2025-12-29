@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-12",
+  "monthDay": "4/12",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "Divine Mercy Sunday",
+    "type": "SOLEMNITY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/04-12.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-11",
+  "monthDay": "4/11",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 4:13-21",
+    "psalm": "Psalm 118:1 and 14-15ab, 16-18, 19-21",
+    "gospel": "Mark 16:9-15"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/041126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/04-11.json"
+}

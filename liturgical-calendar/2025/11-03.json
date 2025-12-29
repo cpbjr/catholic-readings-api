@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-03",
+  "monthDay": "11/3",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Martin_de_Porres",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/11-03.json",
+  "celebration": {
+    "name": "Martin de Porres",
+    "type": "Optional Memorial",
+    "quote": "Compassion, my dear brother, is preferable to cleanliness.",
+    "description": "Dominican brother, patron of social justice and racial harmony."
+  }
+}

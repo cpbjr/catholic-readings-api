@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-27",
+  "monthDay": "6/27",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Lamentations 2:2, 10-14, 18-19",
+    "psalm": "Psalm 74:1b-2, 3-5, 6-7, 20-21",
+    "gospel": "Matthew 8:5-17"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/062726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/06-27.json"
+}

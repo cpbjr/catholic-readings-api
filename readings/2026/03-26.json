@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-26",
+  "monthDay": "3/26",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Genesis 17:3-9",
+    "psalm": "Psalm 105:4-5, 6-7, 8-9",
+    "gospel": "John 8:51-59"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/032626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-26.json"
+}

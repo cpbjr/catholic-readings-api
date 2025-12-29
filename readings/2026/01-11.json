@@ -1,0 +1,13 @@
+{
+  "date": "2026-01-11",
+  "monthDay": "1/11",
+  "season": "Christmas",
+  "readings": {
+    "firstReading": "Isaiah 42:1-4, 6-7",
+    "psalm": "Psalm 29:1-2, 3-4, 3, 9-10",
+    "secondReading": "Acts 10:34-38",
+    "gospel": "Matthew 3:13-17"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/011126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/01-11.json"
+}

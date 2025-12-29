@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-28",
+  "monthDay": "12/28",
+  "season": "Christmas",
+  "readings": {
+    "firstReading": "1 John 1:5—2:2",
+    "psalm": "Psalm 124:2-3, 4-5, 7cd-8",
+    "gospel": "Matthew 2:13-18"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/122826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/12-28.json"
+}

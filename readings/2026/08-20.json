@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-20",
+  "monthDay": "8/20",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ezekiel 36:23-28",
+    "psalm": "Psalm 51:12-13, 14-15, 18-19",
+    "gospel": "Matthew 22:1-14"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/082026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-20.json"
+}

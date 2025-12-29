@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-17",
+  "monthDay": "10/17",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ephesians 1:15-23",
+    "psalm": "Psalm 8:2-3ab, 4-5, 6-7",
+    "gospel": "Luke 12:8-12"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/101726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-17.json"
+}

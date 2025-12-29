@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-11",
+  "monthDay": "11/11",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Martin of Tours, Bishop",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/11-11.json"
+}

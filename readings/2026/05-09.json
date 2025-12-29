@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-09",
+  "monthDay": "5/9",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 16:1-10",
+    "psalm": "Psalm 100:1b-2, 3, 5",
+    "gospel": "John 15:18-21"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/050926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/05-09.json"
+}

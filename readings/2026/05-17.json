@@ -1,0 +1,13 @@
+{
+  "date": "2026-05-17",
+  "monthDay": "5/17",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 1:1-11",
+    "psalm": "Psalm 47:2-3, 6-7, 8-9",
+    "secondReading": "Ephesians 1:17-23",
+    "gospel": "Matthew 28:16-20"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/051726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/05-17.json"
+}

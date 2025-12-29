@@ -1,0 +1,12 @@
+{
+  "date": "2025-07-09",
+  "monthDay": "7/9",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Augustine_Zhao_Rong_and_Companions",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/07-09.json",
+  "celebration": {
+    "name": "Augustine Zhao Rong and Companions",
+    "type": "Optional Memorial",
+    "quote": "It is a joyful thing to suffer for our Lord.",
+    "description": "Chinese martyrs spanning three centuries of persecution."
+  }
+}

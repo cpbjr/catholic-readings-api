@@ -1,0 +1,13 @@
+{
+  "date": "2026-01-01",
+  "monthDay": "1/1",
+  "season": "Christmas",
+  "readings": {
+    "firstReading": "Numbers 6:22-27",
+    "psalm": "Psalm 67:2-3, 5, 6, 8",
+    "secondReading": "Galatians 4:4-7",
+    "gospel": "Luke 2:16-21"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/010126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/01-01.json"
+}

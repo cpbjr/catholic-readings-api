@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-12",
+  "monthDay": "11/12",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Philemon 7-20",
+    "psalm": "Psalm 146:7, 8-9a, 9bc-10",
+    "gospel": "Luke 17:20-25"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/111226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/11-12.json"
+}

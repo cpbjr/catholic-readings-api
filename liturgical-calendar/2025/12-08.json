@@ -1,0 +1,12 @@
+{
+  "date": "2025-12-08",
+  "monthDay": "12/8",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Immaculate_Conception",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/12-08.json",
+  "celebration": {
+    "name": "Immaculate Conception",
+    "type": "Solemnity",
+    "quote": "I am the Immaculate Conception.",
+    "description": "Celebrates Mary's conception without original sin."
+  }
+}

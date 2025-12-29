@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-08",
+  "monthDay": "9/8",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Birth of the Blessed Virgin Mary",
+    "type": "FEAST",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/09-08.json"
+}

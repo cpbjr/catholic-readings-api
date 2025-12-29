@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-13",
+  "monthDay": "8/13",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Pontian_and_Hippolytus",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/08-13.json",
+  "celebration": {
+    "name": "Pontian and Hippolytus",
+    "type": "Optional Memorial",
+    "quote": "In exile we found our unity in Christ.",
+    "description": "Pope and antipope reconciled in exile and martyrdom."
+  }
+}

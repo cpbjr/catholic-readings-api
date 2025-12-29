@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-20",
+  "monthDay": "2/20",
+  "season": "Lent",
+  "celebration": {
+    "name": "Friday after Ash Wednesday",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/02-20.json"
+}

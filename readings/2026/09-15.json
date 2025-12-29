@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-15",
+  "monthDay": "9/15",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Corinthians 12:12-14, 27-31a",
+    "psalm": "Psalm 100:1b-2, 3, 4, 5",
+    "gospel": "John 19:25-27"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/091526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-15.json"
+}

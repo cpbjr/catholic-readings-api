@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-13",
+  "monthDay": "5/13",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "Our Lady of Fatima",
+    "type": "OPT_MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/05-13.json"
+}

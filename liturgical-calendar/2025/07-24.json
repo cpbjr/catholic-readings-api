@@ -1,0 +1,12 @@
+{
+  "date": "2025-07-24",
+  "monthDay": "7/24",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Sharbel_Makhluf",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/07-24.json",
+  "celebration": {
+    "name": "Sharbel Makhluf",
+    "type": "Optional Memorial",
+    "quote": "God is found in silence and solitude.",
+    "description": "Lebanese hermit monk known for miracles."
+  }
+}

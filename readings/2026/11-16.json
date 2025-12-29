@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-16",
+  "monthDay": "11/16",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Revelation 1:1-4; 2:1-5",
+    "psalm": "Psalm 1:1-2, 3, 4, 6",
+    "gospel": "Luke 18:35-43"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/111626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/11-16.json"
+}

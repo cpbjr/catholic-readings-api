@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-25",
+  "monthDay": "7/25",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Corinthians 4:7-15",
+    "psalm": "Psalm 126:1bc-2ab, 2cd-3, 4-5, 6",
+    "gospel": "Matthew 20:20-28"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/072526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-25.json"
+}

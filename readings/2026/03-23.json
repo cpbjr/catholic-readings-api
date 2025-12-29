@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-23",
+  "monthDay": "3/23",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Daniel 13:1-9, 15-17, 19-30, 33-62 or 13:41c-62",
+    "psalm": "Psalm 23:1-3a, 3b-4, 5, 6",
+    "gospel": "John 8:1-11"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/032326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-23.json"
+}

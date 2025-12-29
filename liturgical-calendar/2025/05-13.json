@@ -1,0 +1,12 @@
+{
+  "date": "2025-05-13",
+  "monthDay": "5/13",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Our_Lady_of_Fatima",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/05-13.json",
+  "celebration": {
+    "name": "Our Lady of Fatima",
+    "type": "Optional Memorial",
+    "quote": "Pray the Rosary every day to obtain peace for the world.",
+    "description": "Commemorates Mary's apparitions to three shepherd children in Portugal."
+  }
+}

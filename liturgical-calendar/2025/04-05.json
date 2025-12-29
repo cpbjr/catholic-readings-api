@@ -1,0 +1,12 @@
+{
+  "date": "2025-04-05",
+  "monthDay": "4/5",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Vincent_Ferrer",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/04-05.json",
+  "celebration": {
+    "name": "Vincent Ferrer",
+    "type": "Optional Memorial",
+    "quote": "Fear not! Tomorrow Christ will come.",
+    "description": "Dominican preacher who helped end the Western Schism."
+  }
+}

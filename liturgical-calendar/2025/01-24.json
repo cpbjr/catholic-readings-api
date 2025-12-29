@@ -1,0 +1,12 @@
+{
+  "date": "2025-01-24",
+  "monthDay": "1/24",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Francis_de_Sales",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/01-24.json",
+  "celebration": {
+    "name": "Francis de Sales",
+    "type": "Memorial",
+    "quote": "Be patient with everyone, but above all with yourself.",
+    "description": "Bishop of Geneva, Doctor of the Church, known for his gentleness and writings on spiritual life."
+  }
+}

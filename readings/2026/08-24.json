@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-24",
+  "monthDay": "8/24",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Revelation 21:9b-14",
+    "psalm": "Psalm 145:10-11, 12-13, 17-18",
+    "gospel": "John 1:45-51"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/082426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-24.json"
+}

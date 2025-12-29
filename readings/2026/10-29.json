@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-29",
+  "monthDay": "10/29",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ephesians 6:10-20",
+    "psalm": "Psalm 144:1b, 2, 9-10",
+    "gospel": "Luke 13:31-35"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/102926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-29.json"
+}

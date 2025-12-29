@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-30",
+  "monthDay": "5/30",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Jude 17, 20b-25",
+    "psalm": "Psalm 63:2, 3-4, 5-6",
+    "gospel": "Mark 11:27-33"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/053026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/05-30.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-03",
+  "monthDay": "10/3",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Job 42:1-3, 5-6, 12-17",
+    "psalm": "Psalm 119:66, 71, 75, 91, 125, 130",
+    "gospel": "Luke 10:17-24"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/100326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-03.json"
+}

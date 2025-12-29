@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-02",
+  "monthDay": "7/2",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Amos 7:10-17",
+    "psalm": "Psalm 19:8, 9, 10, 11",
+    "gospel": "Matthew 9:1-8"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/070226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-02.json"
+}

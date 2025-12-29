@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-20",
+  "monthDay": "3/20",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Wisdom 2:1a, 12-22",
+    "psalm": "Psalm 34:17-18, 19-20, 21 and 23",
+    "gospel": "John 7:1-2, 10, 25-30"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/032026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-20.json"
+}

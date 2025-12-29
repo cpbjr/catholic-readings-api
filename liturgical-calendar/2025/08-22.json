@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-22",
+  "monthDay": "8/22",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Queenship_of_Mary",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/08-22.json",
+  "celebration": {
+    "name": "Queenship of Mary",
+    "type": "Memorial",
+    "quote": "Hail, holy Queen, Mother of Mercy.",
+    "description": "Celebrates Mary as Queen of Heaven and Earth."
+  }
+}

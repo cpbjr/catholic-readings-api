@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-19",
+  "monthDay": "9/19",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Januarius",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/09-19.json",
+  "celebration": {
+    "name": "Januarius",
+    "type": "Optional Memorial",
+    "quote": "The blood of martyrs is the seed of Christians.",
+    "description": "Bishop of Naples whose blood liquefies miraculously."
+  }
+}

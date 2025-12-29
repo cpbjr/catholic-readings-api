@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-29",
+  "monthDay": "7/29",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Jeremiah 15:10, 16-21",
+    "psalm": "Psalm 59:2-3, 4, 10-11, 17, 18",
+    "gospel": "John 11:19-27"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/072926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-29.json"
+}

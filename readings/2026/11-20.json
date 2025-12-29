@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-20",
+  "monthDay": "11/20",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Revelation 10:8-11",
+    "psalm": "Psalm 119:14, 24, 72, 103, 111, 131",
+    "gospel": "Luke 19:45-48"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/112026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/11-20.json"
+}

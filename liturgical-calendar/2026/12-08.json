@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-08",
+  "monthDay": "12/8",
+  "season": "Advent",
+  "celebration": {
+    "name": "Immaculate Conception",
+    "type": "SOLEMNITY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-08.json"
+}

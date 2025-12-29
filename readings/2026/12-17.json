@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-17",
+  "monthDay": "12/17",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Genesis 49:2, 8-10",
+    "psalm": "Psalm 72:1-2, 3-4ab, 7-8, 17",
+    "gospel": "Matthew 1:1-17"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/121726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/12-17.json"
+}

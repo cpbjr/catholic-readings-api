@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-20",
+  "monthDay": "4/20",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 6:8-15",
+    "psalm": "Psalm 119:23-24, 26-27, 29-30",
+    "gospel": "John 6:22-29"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/042026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/04-20.json"
+}

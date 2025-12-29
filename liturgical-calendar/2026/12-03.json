@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-03",
+  "monthDay": "12/3",
+  "season": "Advent",
+  "celebration": {
+    "name": "Saint Francis Xavier, Priest",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-03.json"
+}

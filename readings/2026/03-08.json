@@ -1,0 +1,13 @@
+{
+  "date": "2026-03-08",
+  "monthDay": "3/8",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Exodus 17:3-7",
+    "psalm": "Psalm 95:1-2, 6-7, 8-9",
+    "secondReading": "Romans 5:1-2, 5-8",
+    "gospel": "John 4:5-42"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/030826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-08.json"
+}

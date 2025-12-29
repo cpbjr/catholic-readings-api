@@ -1,0 +1,12 @@
+{
+  "date": "2025-12-11",
+  "monthDay": "12/11",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Damasus_I",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/12-11.json",
+  "celebration": {
+    "name": "Damasus I",
+    "type": "Optional Memorial",
+    "quote": "The Word of God must be given to all people.",
+    "description": "Pope who commissioned Jerome to translate the Bible."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-31",
+  "monthDay": "3/31",
+  "season": "Holy Week",
+  "readings": {
+    "firstReading": "Isaiah 49:1-6",
+    "psalm": "Psalm 71:1-2, 3-4a, 5ab-6ab, 15 and 17",
+    "gospel": "John 13:21-33, 36-38"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/033126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-31.json"
+}

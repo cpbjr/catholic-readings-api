@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-08",
+  "monthDay": "1/8",
+  "season": "Christmas",
+  "readings": {
+    "firstReading": "1 John 4:19–5:4",
+    "psalm": "Psalm 72:1-2, 14 and 15bc, 17",
+    "gospel": "Luke 4:14-22"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/010826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/01-08.json"
+}

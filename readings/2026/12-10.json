@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-10",
+  "monthDay": "12/10",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Isaiah 41:13-20",
+    "psalm": "Psalm 145:1 and 9, 10-11, 12-13ab",
+    "gospel": "Matthew 11:11-15"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/121026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/12-10.json"
+}

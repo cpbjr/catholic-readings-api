@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-28",
+  "monthDay": "1/28",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Thomas Aquinas, Priest and Doctor",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-28.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-24",
+  "monthDay": "10/24",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ephesians 4:7-16",
+    "psalm": "Psalm 122:1-2, 3-4ab, 4cd-5",
+    "gospel": "Luke 13:1-9"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/102426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-24.json"
+}

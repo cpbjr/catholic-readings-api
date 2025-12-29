@@ -13,7 +13,7 @@ Deploy the Catholic Readings API as a **public, free, discoverable resource** fo
 
 ```
 Repository name: catholic-readings-api
-Description: Free Catholic Mass readings and saints API via GitHub Pages - serving parishes, apps, and developers worldwide
+Description: Free Catholic Mass readings and liturgical calendar API via GitHub Pages - serving parishes, apps, and developers worldwide
 Public: ✅ YES (very important!)
 Initialize repository: ❌ NO (we have existing content)
 ```
@@ -42,7 +42,7 @@ git commit -m "Initial commit: Catholic Readings API for GitHub Pages
 
 - 247 liturgical entries for 2025
 - Daily Mass readings (First Reading, Psalm, Gospel)
-- Saints and feast days with biographical data
+- Celebrations and feast days with biographical data
 - JSON format for easy API integration
 - USCCB verification links
 - Wikipedia research links
@@ -103,7 +103,7 @@ https://cpbjr.github.io/catholic-readings-api/readings/2025/10-12.json
    api
    liturgy
    mass-readings
-   saints
+   calendar
    json-api
    github-pages
    rest-api
@@ -136,8 +136,8 @@ https://cpbjr.github.io/catholic-readings-api/readings/2025/10-12.json
 # Test readings endpoint
 curl https://cpbjr.github.io/catholic-readings-api/readings/2025/10-12.json
 
-# Test saints endpoint
-curl https://cpbjr.github.io/catholic-readings-api/saints/2025/12-25.json
+# Test celebration endpoint
+curl https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/12-25.json
 ```
 
 ---
@@ -156,7 +156,7 @@ Once live, share with the Catholic developer community:
 ### Sample Announcement:
 > 🙏 Launching a free Catholic Readings API!
 >
-> Daily Mass readings, saints, and liturgical calendar data via GitHub Pages.
+> Daily Mass readings, celebrations, and liturgical calendar data via GitHub Pages.
 > No API keys, no rate limits, completely free for parishes, apps, and developers.
 >
 > 📖 https://github.com/cpbjr/catholic-readings-api

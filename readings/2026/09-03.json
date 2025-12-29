@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-03",
+  "monthDay": "9/3",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Corinthians 3:18-23",
+    "psalm": "Psalm 24:1bc-2, 3-4ab, 5-6",
+    "gospel": "Luke 5:1-11"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/090326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-03.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-12",
+  "monthDay": "12/12",
+  "season": "Advent",
+  "celebration": {
+    "name": "Our Lady of Guadalupe",
+    "type": "OPT_MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-12.json"
+}

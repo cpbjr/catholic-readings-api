@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-14",
+  "monthDay": "8/14",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ezekiel 16:1-15, 60, 63",
+    "psalm": "Isaiah 12:2-3, 4bcd, 5-6",
+    "gospel": "Matthew 19:3-12"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/081426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-14.json"
+}

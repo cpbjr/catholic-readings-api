@@ -1,0 +1,12 @@
+{
+  "date": "2025-07-04",
+  "monthDay": "7/4",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Elizabeth_of_Portugal",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/07-04.json",
+  "celebration": {
+    "name": "Elizabeth of Portugal",
+    "type": "Optional Memorial",
+    "quote": "Blessed are the peacemakers, for they shall be called children of God.",
+    "description": "Queen who was a peacemaker and served the poor."
+  }
+}

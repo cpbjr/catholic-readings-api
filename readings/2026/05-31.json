@@ -1,0 +1,13 @@
+{
+  "date": "2026-05-31",
+  "monthDay": "5/31",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Exodus 34:4b-6, 8-9",
+    "psalm": "Daniel 3:52, 53, 54, 55, 56",
+    "secondReading": "2 Corinthians 13:11-13",
+    "gospel": "John 3:16-18"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/053126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/05-31.json"
+}

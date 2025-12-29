@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-26",
+  "monthDay": "12/26",
+  "season": "Christmas",
+  "celebration": {
+    "name": "Saint Stephen, The First Martyr",
+    "type": "FEAST",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-26.json"
+}

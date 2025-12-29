@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-24",
+  "monthDay": "7/24",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Charbel Makhlouf, Priest and Hermit",
+    "type": "OPT_MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-24.json"
+}

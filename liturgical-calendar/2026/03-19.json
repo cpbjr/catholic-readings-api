@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-19",
+  "monthDay": "3/19",
+  "season": "Lent",
+  "celebration": {
+    "name": "Joseph, Husband of Mary",
+    "type": "SOLEMNITY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/03-19.json"
+}

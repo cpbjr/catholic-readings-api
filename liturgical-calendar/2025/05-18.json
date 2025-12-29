@@ -1,0 +1,12 @@
+{
+  "date": "2025-05-18",
+  "monthDay": "5/18",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/John_I",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/05-18.json",
+  "celebration": {
+    "name": "John I",
+    "type": "Optional Memorial",
+    "quote": "Better to die for the truth than to live in error.",
+    "description": "Pope and martyr who died in prison under the Arian king Theodoric."
+  }
+}

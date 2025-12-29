@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-05",
+  "monthDay": "9/5",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Corinthians 4:6b-15",
+    "psalm": "Psalm 145:17-18, 19-20, 21",
+    "gospel": "Luke 6:1-5"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/090526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-05.json"
+}

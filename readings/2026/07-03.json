@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-03",
+  "monthDay": "7/3",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ephesians 2:19-22",
+    "psalm": "Psalm 117:1bc, 2",
+    "gospel": "John 20:24-29"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/070326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-03.json"
+}

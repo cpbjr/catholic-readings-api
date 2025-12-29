@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-02",
+  "monthDay": "9/2",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Corinthians 3:1-9",
+    "psalm": "Psalm 33:12-13, 14-15, 20-21",
+    "gospel": "Luke 4:38-44"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/090226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-02.json"
+}

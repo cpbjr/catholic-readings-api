@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-31",
+  "monthDay": "1/31",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Samuel 12:1-7a, 10-17",
+    "psalm": "Psalm 51:12-13, 14-15, 16-17",
+    "gospel": "Mark 4:35-41"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/013126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/01-31.json"
+}

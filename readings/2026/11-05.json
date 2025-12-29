@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-05",
+  "monthDay": "11/5",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Philippians 3:3-8a",
+    "psalm": "Psalm 105:2-3, 4-5, 6-7",
+    "gospel": "Luke 15:1-10"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/110526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/11-05.json"
+}

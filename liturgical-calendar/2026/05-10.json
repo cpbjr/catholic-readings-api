@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-10",
+  "monthDay": "5/10",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "6th Sunday of Easter",
+    "type": "SUNDAY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/05-10.json"
+}

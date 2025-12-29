@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-04",
+  "monthDay": "3/4",
+  "season": "Lent",
+  "celebration": {
+    "name": "Saint Casimir",
+    "type": "COMMEMORATION",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/03-04.json"
+}

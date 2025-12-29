@@ -1,0 +1,12 @@
+{
+  "date": "2025-03-04",
+  "monthDay": "3/4",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Casimir",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/03-04.json",
+  "celebration": {
+    "name": "Casimir",
+    "type": "Optional Memorial",
+    "quote": "I would rather die than offend God by sin.",
+    "description": "Polish prince who renounced the throne to live a life of celibacy and devotion."
+  }
+}

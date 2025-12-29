@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-13",
+  "monthDay": "11/13",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Frances_Xavier_Cabrini",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/11-13.json",
+  "celebration": {
+    "name": "Frances Xavier Cabrini",
+    "type": "Memorial",
+    "quote": "We must pray without tiring, for the prayer of the just man can do much.",
+    "description": "First American citizen to be canonized, patron of immigrants."
+  }
+}

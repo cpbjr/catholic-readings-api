@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-16",
+  "monthDay": "7/16",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Isaiah 26:7-9, 12, 16-19",
+    "psalm": "Psalm 102:13-14ab and 15, 16-18, 19-21",
+    "gospel": "Matthew 11:28-30"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/071626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-16.json"
+}

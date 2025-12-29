@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-22",
+  "monthDay": "6/22",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Kings 17:5-8, 13-15a, 18",
+    "psalm": "Psalm 60:3, 4-5, 12-13",
+    "gospel": "Matthew 7:1-5"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/062226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/06-22.json"
+}

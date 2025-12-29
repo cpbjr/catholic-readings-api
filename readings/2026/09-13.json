@@ -1,0 +1,13 @@
+{
+  "date": "2026-09-13",
+  "monthDay": "9/13",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Sirach 27:30—28:7",
+    "psalm": "Psalm 103:1-2, 3-4, 9-10, 11-12",
+    "secondReading": "Romans 14:7-9",
+    "gospel": "Matthew 18:21-35"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/091326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-13.json"
+}

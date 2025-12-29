@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-04",
+  "monthDay": "11/4",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Phiippians 2:12-18",
+    "psalm": "Psalm 27:1, 4, 13-14",
+    "gospel": "Luke 14:25-33"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/110426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/11-04.json"
+}

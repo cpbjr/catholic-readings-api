@@ -1,0 +1,12 @@
+{
+  "date": "2025-12-31",
+  "monthDay": "12/31",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Sylvester_I",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/12-31.json",
+  "celebration": {
+    "name": "Sylvester I",
+    "type": "Optional Memorial",
+    "quote": "Let us rejoice in the Lord, for He has given us peace.",
+    "description": "Pope during Constantine's reign when Christianity became legal."
+  }
+}

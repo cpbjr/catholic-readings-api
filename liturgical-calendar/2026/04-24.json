@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-24",
+  "monthDay": "4/24",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "Saint Fidelis of Sigmaringen, Priest and Martyr",
+    "type": "OPT_MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/04-24.json"
+}

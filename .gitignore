@@ -1,0 +1,5 @@
+.agent/
+Docs/
+Documents/
+*.tmp
+.DS_Store

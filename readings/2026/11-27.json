@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-27",
+  "monthDay": "11/27",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Revelation 20:1-4, 11—21:2",
+    "psalm": "Psalm 84:3, 4, 5-6a, 8a",
+    "gospel": "Luke 21:29-33"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/112726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/11-27.json"
+}

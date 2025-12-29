@@ -1,0 +1,12 @@
+{
+  "date": "2025-05-12",
+  "monthDay": "5/12",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Nereus_and_Achilleus",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/05-12.json",
+  "celebration": {
+    "name": "Nereus and Achilleus",
+    "type": "Optional Memorial",
+    "quote": "We are soldiers of Christ, we cannot shed blood.",
+    "description": "Roman soldiers who converted and were martyred for the faith."
+  }
+}

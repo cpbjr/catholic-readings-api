@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-12",
+  "monthDay": "5/12",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "Saints Nereus and Achilleus, Martyrs/Saint Pancras, Martyr",
+    "type": "OPT_MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/05-12.json"
+}

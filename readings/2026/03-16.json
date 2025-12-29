@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-16",
+  "monthDay": "3/16",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Isaiah 65:17-21",
+    "psalm": "Psalm 30:2 and 4, 5-6, 11-12a and 13b",
+    "gospel": "John 4:43-54"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/031626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-16.json"
+}

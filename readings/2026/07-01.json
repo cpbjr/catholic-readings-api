@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-01",
+  "monthDay": "7/1",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Amos 5:14-15, 21-24",
+    "psalm": "Psalm 50:7, 8-9, 10-11, 12-13, 16bc-17",
+    "gospel": "Matthew 8:28-34"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/070126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-01.json"
+}

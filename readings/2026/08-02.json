@@ -1,0 +1,13 @@
+{
+  "date": "2026-08-02",
+  "monthDay": "8/2",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Isaiah 55:1-3",
+    "psalm": "Psalm 145:8-9, 15-16, 17-18",
+    "secondReading": "Romans 8:35, 37-39",
+    "gospel": "Matthew 14:13-21"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/080226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-02.json"
+}

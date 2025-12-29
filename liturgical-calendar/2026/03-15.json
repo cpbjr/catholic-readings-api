@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-15",
+  "monthDay": "3/15",
+  "season": "Lent",
+  "celebration": {
+    "name": "4th Sunday of Lent",
+    "type": "SUNDAY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/03-15.json"
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2026-07-26",
+  "monthDay": "7/26",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Kings 3:5, 7-12",
+    "psalm": "Psalm 119:57, 72, 76-77, 127-128, 129-130",
+    "secondReading": "Romans 8:28-30",
+    "gospel": "Matthew 13:44-52"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/072626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-26.json"
+}

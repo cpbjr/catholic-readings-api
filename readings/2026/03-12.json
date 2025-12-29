@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-12",
+  "monthDay": "3/12",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Jeremiah 7:23-28",
+    "psalm": "Psalm 95:1-2, 6-7, 8-9",
+    "gospel": "Luke 11:14-23"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/031226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-12.json"
+}

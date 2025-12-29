@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-10",
+  "monthDay": "1/10",
+  "season": "Christmas",
+  "readings": {
+    "firstReading": "1 John 5:14-21",
+    "psalm": "Psalm 149:1-2, 3-4, 5-6a and 9b",
+    "gospel": "John 3:22-30"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/011026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/01-10.json"
+}

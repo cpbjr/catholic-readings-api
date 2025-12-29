@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-23",
+  "monthDay": "10/23",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/John_of_Capistrano",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/10-23.json",
+  "celebration": {
+    "name": "John of Capistrano",
+    "type": "Optional Memorial",
+    "quote": "Those who hope in the Lord will never be defeated.",
+    "description": "Franciscan preacher who rallied Christians against Turkish invasion."
+  }
+}

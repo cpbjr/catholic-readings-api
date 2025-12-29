@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-17",
+  "monthDay": "7/17",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Isaiah 38:1-6, 21-22, 7-8",
+    "psalm": "Isaiah 38:10, 11, 12abcd, 16",
+    "gospel": "Matthew 12:1-8"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/071726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-17.json"
+}

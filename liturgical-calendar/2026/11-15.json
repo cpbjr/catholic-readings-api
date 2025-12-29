@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-15",
+  "monthDay": "11/15",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "33rd Sunday of Ordinary Time",
+    "type": "SUNDAY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/11-15.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-08",
+  "monthDay": "4/8",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 3:1-10",
+    "psalm": "Psalm 105:1-2, 3-4, 6-7, 8-9",
+    "gospel": "Luke 24:13-35"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/040826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/04-08.json"
+}

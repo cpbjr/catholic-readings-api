@@ -1,0 +1,12 @@
+{
+  "date": "2025-06-24",
+  "monthDay": "6/24",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Birth_of_John_the_Baptist",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/06-24.json",
+  "celebration": {
+    "name": "Birth of John the Baptist",
+    "type": "Solemnity",
+    "quote": "Prepare the way of the Lord, make straight his paths.",
+    "description": "Celebrates the birth of Christ's forerunner who prepared the way."
+  }
+}

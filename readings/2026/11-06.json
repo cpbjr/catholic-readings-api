@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-06",
+  "monthDay": "11/6",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Philippians 3:17—4:1",
+    "psalm": "Psalm 122:1-2, 3-4ab, 4cd-5",
+    "gospel": "Luke 16:1-8"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/110626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/11-06.json"
+}

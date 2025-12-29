@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-06",
+  "monthDay": "6/6",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Timothy 4:1-8",
+    "psalm": "Psalm 71:8-9, 14-15AB, 16-17, 22",
+    "gospel": "Mark 12:38-44"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/060626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/06-06.json"
+}

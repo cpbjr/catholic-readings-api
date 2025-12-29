@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-04",
+  "monthDay": "10/4",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Isaiah 5:1-7",
+    "psalm": "Psalm 80:9, 12, 13-14, 15-16, 19-20",
+    "secondReading": "Philippians 4:6-9",
+    "gospel": "Matthew 21:33-43"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/100426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-04.json"
+}

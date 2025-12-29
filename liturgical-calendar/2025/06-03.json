@@ -1,0 +1,12 @@
+{
+  "date": "2025-06-03",
+  "monthDay": "6/3",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Charles_Lwanga_and_Companions",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/06-03.json",
+  "celebration": {
+    "name": "Charles Lwanga and Companions",
+    "type": "Memorial",
+    "quote": "Tell the king that he has put us to death for nothing.",
+    "description": "Ugandan martyrs who died rather than submit to the immoral demands of their king."
+  }
+}

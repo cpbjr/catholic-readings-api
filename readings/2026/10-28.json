@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-28",
+  "monthDay": "10/28",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ephesians 2:19-22",
+    "psalm": "Psalm 19:2-3, 4-5",
+    "gospel": "Luke 6:12-16"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/102826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-28.json"
+}

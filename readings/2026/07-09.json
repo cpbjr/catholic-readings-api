@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-09",
+  "monthDay": "7/9",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Hosea 11:1-4, 8e-9",
+    "psalm": "Psalm 80:2ac, 3b, 15-16",
+    "gospel": "Matthew 10:7-15"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/070926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-09.json"
+}

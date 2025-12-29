@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-14",
+  "monthDay": "9/14",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Exaltation_of_the_Holy_Cross",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/09-14.json",
+  "celebration": {
+    "name": "Exaltation of the Holy Cross",
+    "type": "Feast",
+    "quote": "We should glory in the cross of our Lord Jesus Christ.",
+    "description": "Celebrates the Cross as the instrument of our salvation."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-27",
+  "monthDay": "3/27",
+  "season": "Lent",
+  "celebration": {
+    "name": "Friday of the 5th week of Lent",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/03-27.json"
+}

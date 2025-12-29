@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-20",
+  "monthDay": "12/20",
+  "season": "Advent",
+  "celebration": {
+    "name": "4th Sunday of Advent",
+    "type": "SUNDAY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-20.json"
+}

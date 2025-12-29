@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-25",
+  "monthDay": "9/25",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ecclesiastes 3:1-11",
+    "psalm": "Psalm 144:1b and 2abc, 3-4",
+    "gospel": "Luke 9:18-22"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/092526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-25.json"
+}

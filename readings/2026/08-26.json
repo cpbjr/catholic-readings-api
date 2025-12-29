@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-26",
+  "monthDay": "8/26",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Thessalonians 3:6-10, 16-18",
+    "psalm": "Psalm 128:1-2, 4-5",
+    "gospel": "Matthew 23:27-32"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/082626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-26.json"
+}

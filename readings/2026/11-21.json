@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-21",
+  "monthDay": "11/21",
+  "season": "Ordinary Time",
+  "readings": {
+    "psalm": "Psalm 144:1, 2, 9-10",
+    "gospel": "Luke 20:27-40"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/112126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/11-21.json"
+}

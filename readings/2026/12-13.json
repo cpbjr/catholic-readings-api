@@ -1,0 +1,13 @@
+{
+  "date": "2026-12-13",
+  "monthDay": "12/13",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Isaiah 61:1-2a, 10-11",
+    "psalm": "Luke 1:46-48, 49-50, 53-54",
+    "secondReading": "1 Thessalonians 5:16-24",
+    "gospel": "John 1:6-8, 19-28"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/121326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/12-13.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-13",
+  "monthDay": "4/13",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 4:23-31",
+    "psalm": "Psalm 2:1-3, 4-7a, 7b-9",
+    "gospel": "John 3:1-8"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/041326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/04-13.json"
+}

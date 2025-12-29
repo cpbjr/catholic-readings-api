@@ -1,0 +1,12 @@
+{
+  "date": "2025-03-07",
+  "monthDay": "3/7",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Perpetua_and_Felicity",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/03-07.json",
+  "celebration": {
+    "name": "Perpetua and Felicity",
+    "type": "Memorial",
+    "quote": "Stand fast in the faith.",
+    "description": "Noble woman and her slave, martyred together in Carthage, leaving a powerful diary."
+  }
+}

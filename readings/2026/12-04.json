@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-04",
+  "monthDay": "12/4",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Isaiah 29:17-24",
+    "psalm": "Psalm 27:1, 4, 13-14",
+    "gospel": "Matthew 9:27-31"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/120426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/12-04.json"
+}

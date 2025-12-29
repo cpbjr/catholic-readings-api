@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-09",
+  "monthDay": "11/9",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Dedication_of_the_Lateran_Basilica",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/11-09.json",
+  "celebration": {
+    "name": "Dedication of the Lateran Basilica",
+    "type": "Feast",
+    "quote": "This is the house of God and the gate of heaven.",
+    "description": "Mother church of all churches, the Pope's cathedral."
+  }
+}

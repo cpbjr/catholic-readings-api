@@ -1,0 +1,12 @@
+{
+  "date": "2025-01-06",
+  "monthDay": "1/6",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Epiphany_of_the_Lord",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/01-06.json",
+  "celebration": {
+    "name": "Epiphany of the Lord",
+    "type": "Solemnity",
+    "quote": "We have seen his star at its rising and have come to do him homage.",
+    "description": "The Epiphany celebrates the manifestation of Christ to the Gentiles, represented by the Magi."
+  }
+}

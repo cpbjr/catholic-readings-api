@@ -1,0 +1,12 @@
+{
+  "date": "2025-02-14",
+  "monthDay": "2/14",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Cyril_and_Methodius",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/02-14.json",
+  "celebration": {
+    "name": "Cyril and Methodius",
+    "type": "Memorial",
+    "quote": "Go therefore and make disciples of all nations.",
+    "description": "Brothers who evangelized the Slavic peoples and created the Cyrillic alphabet."
+  }
+}

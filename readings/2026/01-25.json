@@ -1,0 +1,13 @@
+{
+  "date": "2026-01-25",
+  "monthDay": "1/25",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Isaiah 8:23—9:3",
+    "psalm": "Psalm 27:1, 4, 13-14",
+    "secondReading": "1 Corinthians 1:10-13, 17",
+    "gospel": "Matthew 4:12-23 or 4:12-17"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/012526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/01-25.json"
+}

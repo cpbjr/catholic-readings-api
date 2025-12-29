@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-19",
+  "monthDay": "4/19",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "3rd Sunday of Easter",
+    "type": "SUNDAY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/04-19.json"
+}

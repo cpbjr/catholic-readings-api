@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-10",
+  "monthDay": "6/10",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Kings 18:20-39",
+    "psalm": "Psalm 16:1b-2ab, 4, 5ab and 8, 11",
+    "gospel": "Matthew 5:17-19"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/061026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/06-10.json"
+}

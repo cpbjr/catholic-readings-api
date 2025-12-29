@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-15",
+  "monthDay": "1/15",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Samuel 4:1-11",
+    "psalm": "Psalm 44:10-11, 14-15, 24-25",
+    "gospel": "Mark 1:40-45"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/011526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/01-15.json"
+}

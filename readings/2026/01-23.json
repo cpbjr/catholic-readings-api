@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-23",
+  "monthDay": "1/23",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Samuel 24:3-21",
+    "psalm": "Psalm 57:2, 3-4, 6 and 11",
+    "gospel": "Mark 3:13-19"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/012326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/01-23.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-07",
+  "monthDay": "3/7",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Micah 7:14-15, 18-20",
+    "psalm": "Psalm 103:1-2, 3-4, 9-10, 11-12",
+    "gospel": "Luke 15:1-3, 11-32"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/030726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-07.json"
+}

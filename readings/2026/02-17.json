@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-17",
+  "monthDay": "2/17",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "James 1:12-18",
+    "psalm": "Psalm 94:12-13a, 14-15, 18-19",
+    "gospel": "Mark 8:14-21"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/021726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-17.json"
+}

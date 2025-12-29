@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-11",
+  "monthDay": "7/11",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Isaiah 6:1-8",
+    "psalm": "Psalm 93:1ab, 1cd-2, 5",
+    "gospel": "Matthew 10:24-33"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/071126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-11.json"
+}

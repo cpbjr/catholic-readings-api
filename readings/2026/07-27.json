@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-27",
+  "monthDay": "7/27",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Jeremiah 13:1-11",
+    "psalm": "Deuteronomy 32:18-19, 20, 21",
+    "gospel": "Matthew 13:31-35"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/072726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-27.json"
+}

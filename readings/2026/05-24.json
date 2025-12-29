@@ -1,0 +1,13 @@
+{
+  "date": "2026-05-24",
+  "monthDay": "5/24",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 2:1-11",
+    "psalm": "Psalm 104:1, 24, 29-30, 31, 34",
+    "secondReading": "1 Corinthians 12:3b-7, 12-13",
+    "gospel": "John 20:19-23"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/052426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/05-24.json"
+}

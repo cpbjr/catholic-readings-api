@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-08",
+  "monthDay": "8/8",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Habakkuk 1:12—2:4",
+    "psalm": "Psalm 9:8-9, 10-11, 12-13",
+    "gospel": "Matthew 17:14-20"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/080826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-08.json"
+}

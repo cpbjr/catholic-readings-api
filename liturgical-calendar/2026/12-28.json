@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-28",
+  "monthDay": "12/28",
+  "season": "Christmas",
+  "celebration": {
+    "name": "Holy Innocents, Martyrs",
+    "type": "FEAST",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-28.json"
+}

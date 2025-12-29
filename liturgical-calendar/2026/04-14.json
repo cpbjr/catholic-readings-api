@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-14",
+  "monthDay": "4/14",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "Tuesday of the 2nd week of Easter",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/04-14.json"
+}

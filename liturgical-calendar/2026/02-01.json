@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-01",
+  "monthDay": "2/1",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "4th Sunday of Ordinary Time",
+    "type": "SUNDAY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/02-01.json"
+}

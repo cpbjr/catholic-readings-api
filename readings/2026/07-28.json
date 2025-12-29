@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-28",
+  "monthDay": "7/28",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Jeremiah 14:17-22",
+    "psalm": "Psalm 79:8, 9, 11 and 13",
+    "gospel": "Matthew 13:36-43"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/072826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-28.json"
+}

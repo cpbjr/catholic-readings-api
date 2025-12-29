@@ -1,0 +1,13 @@
+{
+  "date": "2026-12-27",
+  "monthDay": "12/27",
+  "season": "Christmas",
+  "readings": {
+    "firstReading": "Sirach 3:2-6, 12-14",
+    "psalm": "Psalm 128:1-2, 3, 4-5.",
+    "secondReading": "Colossians 3:12-21",
+    "gospel": "Luke 2:22-40"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/122726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/12-27.json"
+}

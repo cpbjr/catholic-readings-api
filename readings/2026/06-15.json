@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-15",
+  "monthDay": "6/15",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Kings 21:1-16",
+    "psalm": "Psalm 5:2-3ab, 4b-6a, 6b-7",
+    "gospel": "Matthew 5:38-42"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/061526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/06-15.json"
+}

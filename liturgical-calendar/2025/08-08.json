@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-08",
+  "monthDay": "8/8",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Dominic",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/08-08.json",
+  "celebration": {
+    "name": "Dominic",
+    "type": "Memorial",
+    "quote": "Arm yourself with prayer rather than a sword; wear humility rather than fine clothes.",
+    "description": "Founded the Dominicans (Order of Preachers) to combat heresy through preaching."
+  }
+}

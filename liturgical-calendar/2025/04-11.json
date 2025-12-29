@@ -1,0 +1,12 @@
+{
+  "date": "2025-04-11",
+  "monthDay": "4/11",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Stanislaus",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/04-11.json",
+  "celebration": {
+    "name": "Stanislaus",
+    "type": "Memorial",
+    "quote": "It is better to suffer for justice than to reign by injustice.",
+    "description": "Bishop of Krakow martyred by the king for defending Church rights."
+  }
+}

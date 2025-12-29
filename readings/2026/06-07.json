@@ -1,0 +1,13 @@
+{
+  "date": "2026-06-07",
+  "monthDay": "6/7",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Deuteronomy 8:2-3, 14b-16a",
+    "psalm": "Psalm 147:12-13, 14-15, 19-20",
+    "secondReading": "1 Corinthians 10:16-17",
+    "gospel": "John 6:51-58"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/060726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/06-07.json"
+}

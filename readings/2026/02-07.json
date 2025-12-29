@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-07",
+  "monthDay": "2/7",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Kings 3:4-13",
+    "psalm": "Psalm 119:9, 10, 11, 12, 13, 14",
+    "gospel": "Mark 6:30-34"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/020726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-07.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-24",
+  "monthDay": "10/24",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Anthony_Mary_Claret",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/10-24.json",
+  "celebration": {
+    "name": "Anthony Mary Claret",
+    "type": "Optional Memorial",
+    "quote": "My glory is the Cross of Christ.",
+    "description": "Archbishop of Cuba, founded Claretians."
+  }
+}

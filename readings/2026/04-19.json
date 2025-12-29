@@ -1,0 +1,13 @@
+{
+  "date": "2026-04-19",
+  "monthDay": "4/19",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 2:14, 22-33",
+    "psalm": "Psalm 16:1-2, 5, 7-8, 9-10, 11",
+    "secondReading": "1 Peter 1:17-21",
+    "gospel": "Luke 24:13-35"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/041926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/04-19.json"
+}

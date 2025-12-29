@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-28",
+  "monthDay": "11/28",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Revelation 22:1-7",
+    "psalm": "Psalm 95:1-2, 3-5, 6-7ab",
+    "gospel": "Luke 21:34-36"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/112826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/11-28.json"
+}

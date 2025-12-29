@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-28",
+  "monthDay": "4/28",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "Saint Peter Chanel, Priest and Martyr/Saint Louis Grignon de Montfort, Priest",
+    "type": "OPT_MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/04-28.json"
+}

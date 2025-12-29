@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-13",
+  "monthDay": "3/13",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Hosea 14:2-10",
+    "psalm": "Psalm 81:6c-8a, 8bc-9, 10-11ab, 14 and 17",
+    "gospel": "Mark 12:28-34"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/031326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-13.json"
+}

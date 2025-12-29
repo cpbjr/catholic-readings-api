@@ -1,0 +1,12 @@
+{
+  "date": "2025-05-25",
+  "monthDay": "5/25",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Bede_the_Venerable",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/05-25.json",
+  "celebration": {
+    "name": "Bede the Venerable",
+    "type": "Optional Memorial",
+    "quote": "Christ is the morning star who when the night of this world is past brings to his saints the promise of the light of life.",
+    "description": "English monk, Doctor of the Church, father of English history."
+  }
+}

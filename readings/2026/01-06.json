@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-06",
+  "monthDay": "1/6",
+  "season": "Christmas",
+  "readings": {
+    "firstReading": "1 John 4:7-10",
+    "psalm": "Psalm 72:1-2, 3-4, 7-8",
+    "gospel": "Mark 6:34-44"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/010626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/01-06.json"
+}

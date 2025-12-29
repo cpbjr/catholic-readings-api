@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-31",
+  "monthDay": "7/31",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Jeremiah 26:1-9",
+    "psalm": "Psalm 69:5, 8-10, 14",
+    "gospel": "Matthew 13:54-58"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/073126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-31.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-17",
+  "monthDay": "6/17",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Kings 2:1, 6-14",
+    "psalm": "Psalm 31:20, 21, 24",
+    "gospel": "Matthew 6:1-6, 16-18"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/061726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/06-17.json"
+}

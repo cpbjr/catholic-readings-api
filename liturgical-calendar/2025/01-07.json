@@ -1,0 +1,12 @@
+{
+  "date": "2025-01-07",
+  "monthDay": "1/7",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Raymond_of_Penyafort",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/01-07.json",
+  "celebration": {
+    "name": "Raymond of Penyafort",
+    "type": "Optional Memorial",
+    "quote": "The law of the Church is the law of love.",
+    "description": "A Dominican priest who compiled the Decretals of Gregory IX and was a patron of canon lawyers."
+  }
+}

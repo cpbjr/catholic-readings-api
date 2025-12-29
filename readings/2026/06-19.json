@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-19",
+  "monthDay": "6/19",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Kings 11:1-4, 9-18, 20",
+    "psalm": "Psalm 132:11, 12, 13-14, 17-18",
+    "gospel": "Matthew 6:19-23"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/061926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/06-19.json"
+}

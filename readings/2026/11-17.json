@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-17",
+  "monthDay": "11/17",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Revelation 3:1-6, 14-22",
+    "psalm": "Psalm 15:2-3a, 3bc-4ab, 5",
+    "gospel": "Luke 19:1-10"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/111726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/11-17.json"
+}

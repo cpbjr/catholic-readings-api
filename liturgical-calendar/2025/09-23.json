@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-23",
+  "monthDay": "9/23",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Padre_Pio",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/09-23.json",
+  "celebration": {
+    "name": "Padre Pio",
+    "type": "Memorial",
+    "quote": "Pray, hope, and don't worry.",
+    "description": "Capuchin priest with stigmata, known for confessions and miracles."
+  }
+}

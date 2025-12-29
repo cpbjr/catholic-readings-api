@@ -1,0 +1,13 @@
+{
+  "date": "2026-04-05",
+  "monthDay": "4/5",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 10:34a, 37-43",
+    "psalm": "Psalm 118:1-2, 16-17, 22-23",
+    "secondReading": "Colossians 3:1-4",
+    "gospel": "John 20:1-9"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/040526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/04-05.json"
+}

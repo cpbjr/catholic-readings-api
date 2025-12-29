@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-06",
+  "monthDay": "1/6",
+  "season": "Christmas",
+  "celebration": {
+    "name": "Tuesday after Epiphany",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-06.json"
+}

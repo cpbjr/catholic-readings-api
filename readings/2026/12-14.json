@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-14",
+  "monthDay": "12/14",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Numbers 24:2-7, 15-17a",
+    "psalm": "Psalm 25:4-5ab, 6 and 7bc, 8-9",
+    "gospel": "Matthew 21:23-27"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/121426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/12-14.json"
+}

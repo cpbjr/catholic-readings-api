@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-23",
+  "monthDay": "7/23",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Jeremiah 2:1-3, 7-8, 12-13",
+    "psalm": "Psalm 36:6-7ab, 8-9, 10-11",
+    "gospel": "Matthew 13:10-17"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/072326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-23.json"
+}

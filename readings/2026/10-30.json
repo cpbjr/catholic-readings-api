@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-30",
+  "monthDay": "10/30",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Philippians 1:1-11",
+    "psalm": "Psalm 111:1-2, 3-4, 5-6",
+    "gospel": "Luke 14:1-6"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/103026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-30.json"
+}

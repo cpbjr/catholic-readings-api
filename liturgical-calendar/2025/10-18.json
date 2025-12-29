@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-18",
+  "monthDay": "10/18",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Luke",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/10-18.json",
+  "celebration": {
+    "name": "Luke",
+    "type": "Feast",
+    "quote": "I have decided to write an orderly account for you.",
+    "description": "Evangelist, physician, companion of Paul, patron of artists and doctors."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2026-07-05",
+  "monthDay": "7/5",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Zechariah 9:9-10",
+    "psalm": "Psalm 145:1-2, 8-9, 10-11, 13-14",
+    "secondReading": "Romans 8:9, 11-13",
+    "gospel": "Matthew 11:25-30"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/070526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-05.json"
+}

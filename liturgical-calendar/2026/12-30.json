@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-30",
+  "monthDay": "12/30",
+  "season": "Christmas",
+  "celebration": {
+    "name": "6th day in the Octave of Christmas",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-30.json"
+}

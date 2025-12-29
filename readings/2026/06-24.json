@@ -1,0 +1,13 @@
+{
+  "date": "2026-06-24",
+  "monthDay": "6/24",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Isaiah 49:1-6",
+    "psalm": "Psalm 139:1b-3, 13-14ab, 14c-15",
+    "secondReading": "Acts 13:22-26",
+    "gospel": "Luke 1:57-66, 80"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/062426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/06-24.json"
+}

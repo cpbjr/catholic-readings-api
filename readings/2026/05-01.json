@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-01",
+  "monthDay": "5/1",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 13:26-33",
+    "psalm": "Psalm 2:6-7, 8-9, 10-11ab",
+    "gospel": "John 14:1-6"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/050126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/05-01.json"
+}

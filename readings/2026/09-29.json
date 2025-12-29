@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-29",
+  "monthDay": "9/29",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Daniel 7:9-10, 13-14",
+    "psalm": "Psalm 138:1-2ab, 2cde-3, 4-5",
+    "gospel": "John 1:47-51"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/092926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-29.json"
+}

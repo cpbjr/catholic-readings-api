@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-12",
+  "monthDay": "5/12",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 16:22-34",
+    "psalm": "Psalm 138:1-2ab, 2cde-3, 7c-8",
+    "gospel": "John 16:5-11"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/051226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/05-12.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-16",
+  "monthDay": "12/16",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Isaiah 45:6c-8, 18, 21c-25",
+    "psalm": "Psalm 85:9ab, 10, 11-12, 13-14",
+    "gospel": "Luke 7:18b-23"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/121626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/12-16.json"
+}

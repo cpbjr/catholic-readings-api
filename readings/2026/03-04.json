@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-04",
+  "monthDay": "3/4",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Jeremiah 18:18-20",
+    "psalm": "Psalm 31:5-6, 14, 15-16",
+    "gospel": "Matthew 20:17-28"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/030426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-04.json"
+}

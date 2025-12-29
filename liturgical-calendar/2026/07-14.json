@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-14",
+  "monthDay": "7/14",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Camillus de Lellis, Priest",
+    "type": "OPT_MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-14.json"
+}

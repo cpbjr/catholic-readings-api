@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-01",
+  "monthDay": "8/1",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Jeremiah 26:11-16, 24",
+    "psalm": "Psalm 69:15-16, 30-31, 33-34",
+    "gospel": "Matthew 14:1-12"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/080126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-01.json"
+}

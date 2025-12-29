@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-20",
+  "monthDay": "8/20",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Bernard",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/08-20.json",
+  "celebration": {
+    "name": "Bernard",
+    "type": "Memorial",
+    "quote": "Mary is the neck through which the Head communicates with the body.",
+    "description": "Cistercian abbot, Doctor of the Church, preached the Second Crusade."
+  }
+}

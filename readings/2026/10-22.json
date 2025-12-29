@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-22",
+  "monthDay": "10/22",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ephesians 3:14-21",
+    "psalm": "Psalm 33:1-2, 4-5, 11-12, 18-19",
+    "gospel": "Luke 12:49-53"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/102226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-22.json"
+}

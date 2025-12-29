@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-02",
+  "monthDay": "4/2",
+  "season": "Holy Week",
+  "celebration": {
+    "name": "Holy Thursday",
+    "type": "TRIDUUM",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/04-02.json"
+}

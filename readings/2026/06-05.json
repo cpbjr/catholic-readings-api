@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-05",
+  "monthDay": "6/5",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Timothy 3:10-17",
+    "psalm": "Psalm 119:157, 160, 161, 165, 166, 168",
+    "gospel": "Mark 12:35-37"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/060526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/06-05.json"
+}

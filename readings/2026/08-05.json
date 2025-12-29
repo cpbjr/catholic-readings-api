@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-05",
+  "monthDay": "8/5",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Jeremiah 31:1-7",
+    "psalm": "Jeremiah 31:10, 11-12ab, 13",
+    "gospel": "Matthew 15:21-28"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/080526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-05.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-27",
+  "monthDay": "11/27",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Friday of the 34th week of Ordinary Time",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/11-27.json"
+}

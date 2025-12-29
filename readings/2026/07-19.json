@@ -1,0 +1,13 @@
+{
+  "date": "2026-07-19",
+  "monthDay": "7/19",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Wisdom 12:13, 16-19",
+    "psalm": "Psalm 86:5-6, 9-10, 15-16",
+    "secondReading": "Romans 8:26-27",
+    "gospel": "Matthew 13:24-43"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/071926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-19.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-30",
+  "monthDay": "3/30",
+  "season": "Holy Week",
+  "celebration": {
+    "name": "Monday of Holy Week",
+    "type": "HOLY_WEEK",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/03-30.json"
+}

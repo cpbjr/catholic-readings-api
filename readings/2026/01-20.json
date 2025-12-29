@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-20",
+  "monthDay": "1/20",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Samuel 16:1-13",
+    "psalm": "Psalm 89:20, 21-22, 27-28",
+    "gospel": "Mark 2:23-28"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/012026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/01-20.json"
+}

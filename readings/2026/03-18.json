@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-18",
+  "monthDay": "3/18",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Isaiah 49:8-15",
+    "psalm": "Psalm 145:8-9, 13cd-14, 17-18",
+    "gospel": "John 5:17-30"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/031826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-18.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-13",
+  "monthDay": "7/13",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Isaiah 1:10-17",
+    "psalm": "Psalm 50:8-9, 16bc-17, 21, 23",
+    "gospel": "Matthew 10:34-11:1"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/071326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-13.json"
+}

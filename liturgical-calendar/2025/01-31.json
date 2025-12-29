@@ -1,0 +1,12 @@
+{
+  "date": "2025-01-31",
+  "monthDay": "1/31",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/John_Bosco",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/01-31.json",
+  "celebration": {
+    "name": "John Bosco",
+    "type": "Memorial",
+    "quote": "Run, jump, shout, but do not sin.",
+    "description": "Founded the Salesians to educate poor youth, pioneering preventive system of education."
+  }
+}

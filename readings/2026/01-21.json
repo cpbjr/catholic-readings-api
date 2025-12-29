@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-21",
+  "monthDay": "1/21",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Samuel 17:32-33, 37, 40-51",
+    "psalm": "Psalm 144:1b, 2, 9-10",
+    "gospel": "Mark 3:1-6"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/012126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/01-21.json"
+}

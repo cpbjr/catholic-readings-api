@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-13",
+  "monthDay": "11/13",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 John 4-9",
+    "psalm": "Psalm 119:1, 2, 10, 11, 17, 18",
+    "gospel": "Luke 17:26-37"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/111326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/11-13.json"
+}

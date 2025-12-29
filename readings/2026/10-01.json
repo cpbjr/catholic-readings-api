@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-01",
+  "monthDay": "10/1",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Job 19:21-27",
+    "psalm": "Psalm 27:7-8a, 8b-9abc, 13-14",
+    "gospel": "Luke 10:1-12"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/100126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-01.json"
+}

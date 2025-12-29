@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-26",
+  "monthDay": "2/26",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Esther C:12, 14-16, 23-25",
+    "psalm": "Psalm 138:1-2ab, 2cde-3, 7c-8",
+    "gospel": "Matthew 7:7-12"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/022626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-26.json"
+}

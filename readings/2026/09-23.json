@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-23",
+  "monthDay": "9/23",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Proverbs 30:5-9",
+    "psalm": "Psalm 119:29, 72, 89, 101, 104, 163",
+    "gospel": "Luke 9:1-6"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/092326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-23.json"
+}

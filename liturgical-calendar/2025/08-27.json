@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-27",
+  "monthDay": "8/27",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Monica",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/08-27.json",
+  "celebration": {
+    "name": "Monica",
+    "type": "Memorial",
+    "quote": "Nothing is far from God.",
+    "description": "Mother of Augustine who prayed for his conversion for years."
+  }
+}

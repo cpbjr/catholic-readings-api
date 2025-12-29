@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-09",
+  "monthDay": "8/9",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "19th Sunday of Ordinary Time",
+    "type": "SUNDAY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-09.json"
+}

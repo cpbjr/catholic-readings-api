@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-16",
+  "monthDay": "10/16",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Hedwig",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/10-16.json",
+  "celebration": {
+    "name": "Hedwig",
+    "type": "Optional Memorial",
+    "quote": "All I have belongs to God and the poor.",
+    "description": "Duchess of Silesia who used wealth to serve the poor."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-24",
+  "monthDay": "5/24",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "Pentecost Sunday",
+    "type": "SOLEMNITY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/05-24.json"
+}

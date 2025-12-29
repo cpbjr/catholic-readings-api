@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-20",
+  "monthDay": "9/20",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Andrew_Kim_Tae-gon_and_Companions",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/09-20.json",
+  "celebration": {
+    "name": "Andrew Kim Tae-gon and Companions",
+    "type": "Memorial",
+    "quote": "This is why I was born, and why I came into the world.",
+    "description": "Korean martyrs who died for the faith in the 19th century."
+  }
+}

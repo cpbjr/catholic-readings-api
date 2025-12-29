@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-19",
+  "monthDay": "9/19",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Corinthians 15:35-37, 42-49",
+    "psalm": "Psalm 56:10c-12, 13-14",
+    "gospel": "Luke 8:4-15"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/091926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-19.json"
+}

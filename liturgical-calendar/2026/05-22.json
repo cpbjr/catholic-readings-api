@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-22",
+  "monthDay": "5/22",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "Saint Rita of Cascia",
+    "type": "OPT_MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/05-22.json"
+}

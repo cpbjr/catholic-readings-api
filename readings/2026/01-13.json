@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-13",
+  "monthDay": "1/13",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Samuel 1:9-20",
+    "psalm": "1 Samuel 2:1, 4-5, 6-7, 8abcd",
+    "gospel": "Mark 1:21-28"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/011326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/01-13.json"
+}

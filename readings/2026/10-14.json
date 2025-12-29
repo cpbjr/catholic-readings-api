@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-14",
+  "monthDay": "10/14",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Galatians 5:18-25",
+    "psalm": "Psalm 1:1-2, 3, 4, 6",
+    "gospel": "Luke 11:42-46"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/101426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-14.json"
+}

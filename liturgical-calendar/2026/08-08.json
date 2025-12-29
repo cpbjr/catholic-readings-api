@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-08",
+  "monthDay": "8/8",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Dominic, Priest",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-08.json"
+}

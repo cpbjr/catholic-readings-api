@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-02",
+  "monthDay": "10/2",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Job 38:1, 12-21; 40:3-5",
+    "psalm": "Psalm 139:1-3, 7-8, 9-10, 13-14ab",
+    "gospel": "Matthew 18:1-5, 10"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/100226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-02.json"
+}

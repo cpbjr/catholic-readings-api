@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-09",
+  "monthDay": "3/9",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "2 Kings 5:1-15ab",
+    "psalm": "Psalm 42:2, 3; 43:3, 4",
+    "gospel": "Luke 4:24-30"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/030926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-09.json"
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2026-03-22",
+  "monthDay": "3/22",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Ezekiel 37:12-14",
+    "psalm": "Psalm 130:1-2, 3-4, 5-6, 7-8",
+    "secondReading": "Romans 8:8-11",
+    "gospel": "John 11:1-45"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/032226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-22.json"
+}

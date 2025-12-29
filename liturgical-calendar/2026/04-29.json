@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-29",
+  "monthDay": "4/29",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/04-29.json"
+}

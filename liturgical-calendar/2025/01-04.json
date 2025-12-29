@@ -1,0 +1,12 @@
+{
+  "date": "2025-01-04",
+  "monthDay": "1/4",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Elizabeth_Ann_Seton",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/01-04.json",
+  "celebration": {
+    "name": "Elizabeth Ann Seton",
+    "type": "Memorial",
+    "quote": "The first end I propose in our daily work is to do the will of God.",
+    "description": "First native-born American saint, she founded the first American religious community for women and Catholic schools in America."
+  }
+}

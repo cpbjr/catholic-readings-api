@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-30",
+  "monthDay": "12/30",
+  "season": "Christmas",
+  "readings": {
+    "firstReading": "1 John 2:12-17",
+    "psalm": "Psalm 96:7-8a, 8b-9, 10",
+    "gospel": "Luke 2:36-40"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/123026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/12-30.json"
+}

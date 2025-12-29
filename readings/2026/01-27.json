@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-27",
+  "monthDay": "1/27",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Samuel 6:12b-15, 17-19",
+    "psalm": "Psalm 24:7, 8, 9, 10",
+    "gospel": "Mark 3:31-35"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/012726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/01-27.json"
+}

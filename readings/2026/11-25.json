@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-25",
+  "monthDay": "11/25",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Revelation 15:1-4",
+    "psalm": "Psalm 98:1, 2-3ab, 7-8, 9",
+    "gospel": "Luke 21:12-19"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/112526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/11-25.json"
+}

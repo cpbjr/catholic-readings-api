@@ -1,0 +1,12 @@
+{
+  "date": "2025-12-06",
+  "monthDay": "12/6",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Nicholas",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/12-06.json",
+  "celebration": {
+    "name": "Nicholas",
+    "type": "Optional Memorial",
+    "quote": "The good must associate with the good.",
+    "description": "Bishop of Myra known for generosity, basis for Santa Claus."
+  }
+}

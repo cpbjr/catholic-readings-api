@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-04",
+  "monthDay": "7/4",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Amos 9:11-15",
+    "psalm": "Psalm 85:9 and 10, 11-12, 13-14",
+    "gospel": "Matthew 9:14-17"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/070426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-04.json"
+}

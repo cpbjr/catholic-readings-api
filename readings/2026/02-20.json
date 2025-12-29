@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-20",
+  "monthDay": "2/20",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Isaiah 58:1-9a",
+    "psalm": "Psalm 51:3-4, 5-6ab, 18-19",
+    "gospel": "Matthew 9:14-15"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/022026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-20.json"
+}

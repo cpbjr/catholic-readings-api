@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-18",
+  "monthDay": "5/18",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 19:1-8",
+    "psalm": "Psalm 68:2-3ab, 4-5acd, 6-7ab",
+    "gospel": "John 16:29-33"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/051826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/05-18.json"
+}

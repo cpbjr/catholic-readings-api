@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-15",
+  "monthDay": "7/15",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Isaiah 10:5-7, 13b-16",
+    "psalm": "Psalm 94:5-6, 7-8, 9-10, 14-15",
+    "gospel": "Matthew 11:25-27"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/071526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-15.json"
+}

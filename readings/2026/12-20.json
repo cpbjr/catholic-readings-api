@@ -1,0 +1,13 @@
+{
+  "date": "2026-12-20",
+  "monthDay": "12/20",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "2 Samuel 7:1-5, 8b-12, 14a, 16",
+    "psalm": "Psalm 89:2-3, 4-5, 27, 29",
+    "secondReading": "Romans 16:25-27",
+    "gospel": "Luke 1:26-38"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/122026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/12-20.json"
+}

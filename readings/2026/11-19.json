@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-19",
+  "monthDay": "11/19",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Revelation 5:1-10",
+    "psalm": "Psalm 149:1b-2, 3-4, 5-6b, 9b",
+    "gospel": "Luke 19:41-44"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/111926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/11-19.json"
+}

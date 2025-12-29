@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-26",
+  "monthDay": "5/26",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Peter 1:10-16",
+    "psalm": "Psalm 98:1, 2-3ab, 3cd-4",
+    "gospel": "Mark 10:28-31"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/052626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/05-26.json"
+}

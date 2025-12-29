@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-22",
+  "monthDay": "9/22",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Tuesday of the 25th week of Ordinary Time",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/09-22.json"
+}

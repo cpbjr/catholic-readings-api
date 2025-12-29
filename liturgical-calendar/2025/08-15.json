@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-15",
+  "monthDay": "8/15",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Assumption",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/08-15.json",
+  "celebration": {
+    "name": "Assumption",
+    "type": "Solemnity",
+    "quote": "All generations will call me blessed.",
+    "description": "Celebrates Mary's assumption body and soul into heaven."
+  }
+}

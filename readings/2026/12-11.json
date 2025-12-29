@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-11",
+  "monthDay": "12/11",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Isaiah 48:17-19",
+    "psalm": "Psalm 1:1-2, 3, 4 and 6",
+    "gospel": "Matthew 11:16-19"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/121126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/12-11.json"
+}

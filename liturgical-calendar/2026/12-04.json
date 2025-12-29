@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-04",
+  "monthDay": "12/4",
+  "season": "Advent",
+  "celebration": {
+    "name": "Saint John Damascene, Priest and Doctor",
+    "type": "OPT_MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-04.json"
+}

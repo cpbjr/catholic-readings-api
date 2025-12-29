@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-13",
+  "monthDay": "7/13",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Henry, Bishop and Martyr",
+    "type": "OPT_MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-13.json"
+}

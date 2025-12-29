@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-02",
+  "monthDay": "5/2",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 13:44-52",
+    "psalm": "Psalm 98:1, 2-3ab, 3cd-4",
+    "gospel": "John 14:7-14"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/050226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/05-02.json"
+}

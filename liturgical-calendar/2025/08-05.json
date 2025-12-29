@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-05",
+  "monthDay": "8/5",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Dedication_of_St._Mary_Major",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/08-05.json",
+  "celebration": {
+    "name": "Dedication of St. Mary Major",
+    "type": "Optional Memorial",
+    "quote": "My house shall be called a house of prayer.",
+    "description": "Commemorates the dedication of the basilica in Rome."
+  }
+}

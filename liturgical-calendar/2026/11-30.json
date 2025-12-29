@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-30",
+  "monthDay": "11/30",
+  "season": "Advent",
+  "celebration": {
+    "name": "Saint Andrew the Apostle",
+    "type": "FEAST",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/11-30.json"
+}

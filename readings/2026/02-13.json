@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-13",
+  "monthDay": "2/13",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Kings 11:29-32; 12:19",
+    "psalm": "Psalm 81:10-11ab, 12-13, 14-15",
+    "gospel": "Mark 7:31-37"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/021326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-13.json"
+}

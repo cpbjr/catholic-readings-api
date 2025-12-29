@@ -1,0 +1,12 @@
+{
+  "date": "2025-02-08",
+  "monthDay": "2/8",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Jerome_Emiliani",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/02-08.json",
+  "celebration": {
+    "name": "Jerome Emiliani",
+    "type": "Optional Memorial",
+    "quote": "Jesus Christ, our teacher and guide, you are the way, the truth, and the life.",
+    "description": "Founded the Somaschi Fathers to care for orphans and the education of youth."
+  }
+}

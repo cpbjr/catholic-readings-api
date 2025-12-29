@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-19",
+  "monthDay": "1/19",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Samuel 15:16-23",
+    "psalm": "Psalm 50:8-9, 16bc-17, 21 and 23",
+    "gospel": "Mark 2:18-22"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/011926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/01-19.json"
+}

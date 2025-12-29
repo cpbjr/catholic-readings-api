@@ -1,0 +1,13 @@
+{
+  "date": "2026-09-20",
+  "monthDay": "9/20",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Isaiah 55:6-9",
+    "psalm": "Psalm 145:2-3, 8-9, 17-18",
+    "secondReading": "Philippians 1:20c-24, 27a",
+    "gospel": "Matthew 20:1-16a"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/092026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-20.json"
+}

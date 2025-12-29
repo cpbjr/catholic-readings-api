@@ -1,0 +1,13 @@
+{
+  "date": "2026-02-01",
+  "monthDay": "2/1",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Zephaniah 2:3; 3:12-13",
+    "psalm": "Psalm 146:6-7, 8-9, 9-10",
+    "secondReading": "1 Corinthians 1:26-31",
+    "gospel": "Matthew 5:1-12a"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/020126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-01.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-28",
+  "monthDay": "2/28",
+  "season": "Lent",
+  "celebration": {
+    "name": "Saturday of the 1st week of Lent",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/02-28.json"
+}

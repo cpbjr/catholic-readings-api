@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-23",
+  "monthDay": "4/23",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 8:26-40",
+    "psalm": "Psalm 66:8-9, 16-17, 20",
+    "gospel": "John 6:44-51"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/042326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/04-23.json"
+}

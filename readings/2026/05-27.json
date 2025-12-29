@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-27",
+  "monthDay": "5/27",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Peter 1:18-25",
+    "psalm": "Psalm 147:12-13, 14-15, 19-20",
+    "gospel": "Mark 10:32-45"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/052726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/05-27.json"
+}

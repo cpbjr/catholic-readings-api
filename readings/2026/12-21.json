@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-21",
+  "monthDay": "12/21",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Song of Songs 2:8-14",
+    "psalm": "Psalm 33:2-3, 11-12, 20-21",
+    "gospel": "Luke 1:39-45"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/122126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/12-21.json"
+}

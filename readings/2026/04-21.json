@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-21",
+  "monthDay": "4/21",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 7:51—8:1a",
+    "psalm": "Psalm 31:3cd-4, 6 and 7b and 8a, 17 and 21ab",
+    "gospel": "John 6:30-35"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/042126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/04-21.json"
+}

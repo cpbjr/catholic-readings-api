@@ -1,0 +1,13 @@
+{
+  "date": "2026-09-06",
+  "monthDay": "9/6",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ezekiel 33:7-9",
+    "psalm": "Psalm 95:1-2, 6-7, 8-9",
+    "secondReading": "Romans 13:8-10",
+    "gospel": "Matthew 18:15-20"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/090626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-06.json"
+}

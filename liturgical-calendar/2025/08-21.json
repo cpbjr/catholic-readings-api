@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-21",
+  "monthDay": "8/21",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Pius_X",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/08-21.json",
+  "celebration": {
+    "name": "Pius X",
+    "type": "Memorial",
+    "quote": "Restore all things in Christ.",
+    "description": "Pope who promoted frequent Communion and reformed liturgy."
+  }
+}

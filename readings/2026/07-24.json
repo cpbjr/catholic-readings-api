@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-24",
+  "monthDay": "7/24",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Jeremiah 3:14-17",
+    "psalm": "Jeremiah 31:10, 11-12abcd, 13",
+    "gospel": "Matthew 13:18-23"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/072426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-24.json"
+}

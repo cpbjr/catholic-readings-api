@@ -1,0 +1,13 @@
+{
+  "date": "2026-06-21",
+  "monthDay": "6/21",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Jeremiah 20:10-13",
+    "psalm": "Psalm 69:8-10, 14, 17, 33-35",
+    "secondReading": "Romans 5:12-15",
+    "gospel": "Matthew 10:26-33"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/062126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/06-21.json"
+}

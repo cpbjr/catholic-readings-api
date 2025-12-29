@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-17",
+  "monthDay": "1/17",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Anthony of Egypt, Abbot",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-17.json"
+}

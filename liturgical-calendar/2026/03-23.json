@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-23",
+  "monthDay": "3/23",
+  "season": "Lent",
+  "celebration": {
+    "name": "Saint Turibius of Mogrovejo, Bishop",
+    "type": "COMMEMORATION",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/03-23.json"
+}

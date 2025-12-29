@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-15",
+  "monthDay": "12/15",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Zephaniah 3:1-2, 9-13",
+    "psalm": "Psalm 34:2-3, 6-7, 17-18, 19 and 23",
+    "gospel": "Matthew 21:28-32"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/121526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/12-15.json"
+}

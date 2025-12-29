@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-11",
+  "monthDay": "10/11",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "28th Sunday of Ordinary Time",
+    "type": "SUNDAY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/10-11.json"
+}

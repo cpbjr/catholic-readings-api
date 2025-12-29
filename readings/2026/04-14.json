@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-14",
+  "monthDay": "4/14",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 4:32-37",
+    "psalm": "Psalm 93:1ab, 1cd-2, 5",
+    "gospel": "John 3:7b-15"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/041426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/04-14.json"
+}

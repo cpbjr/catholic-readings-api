@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-20",
+  "monthDay": "3/20",
+  "season": "Lent",
+  "celebration": {
+    "name": "Friday of the 4th week of Lent",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/03-20.json"
+}

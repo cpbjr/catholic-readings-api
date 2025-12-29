@@ -1,0 +1,13 @@
+{
+  "date": "2026-02-15",
+  "monthDay": "2/15",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Sirach 15:15-20",
+    "psalm": "Psalm 119:1-2, 4-5, 17-18, 33-34",
+    "secondReading": "1 Corinthians 2:6-10",
+    "gospel": "Matthew 5:17-37"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/021526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-15.json"
+}

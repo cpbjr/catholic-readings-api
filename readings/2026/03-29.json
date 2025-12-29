@@ -1,0 +1,13 @@
+{
+  "date": "2026-03-29",
+  "monthDay": "3/29",
+  "season": "Holy Week",
+  "readings": {
+    "gospel": "Matthew 26:14—27:66",
+    "firstReading": "Isaiah 50:4-7",
+    "psalm": "Psalm 22:8-9, 17-18, 19-20, 23-24",
+    "secondReading": "Philippians 2:6-11"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/032926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-29.json"
+}

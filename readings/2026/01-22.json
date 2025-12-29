@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-22",
+  "monthDay": "1/22",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Samuel 18:6-9; 19:1-7",
+    "psalm": "Psalm 56:2-3, 9-10a, 10b-11, 12-13",
+    "gospel": "Mark 3:7-12"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/012226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/01-22.json"
+}

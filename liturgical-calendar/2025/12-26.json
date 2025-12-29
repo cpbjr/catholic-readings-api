@@ -1,0 +1,12 @@
+{
+  "date": "2025-12-26",
+  "monthDay": "12/26",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Stephen",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/12-26.json",
+  "celebration": {
+    "name": "Stephen",
+    "type": "Feast",
+    "quote": "Lord, do not hold this sin against them.",
+    "description": "First Christian martyr, one of the seven deacons."
+  }
+}

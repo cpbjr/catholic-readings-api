@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-15",
+  "monthDay": "11/15",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Albert_the_Great",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/11-15.json",
+  "celebration": {
+    "name": "Albert the Great",
+    "type": "Optional Memorial",
+    "quote": "Wonder is the beginning of wisdom.",
+    "description": "Dominican bishop, Doctor of the Church, teacher of Aquinas, scientist."
+  }
+}

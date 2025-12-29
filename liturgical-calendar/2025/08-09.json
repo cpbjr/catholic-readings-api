@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-09",
+  "monthDay": "8/9",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Teresa_Benedicta_of_the_Cross",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/08-09.json",
+  "celebration": {
+    "name": "Teresa Benedicta of the Cross",
+    "type": "Optional Memorial",
+    "quote": "The world doesn't need what women have, it needs what women are.",
+    "description": "Jewish philosopher who became Carmelite nun, died at Auschwitz."
+  }
+}

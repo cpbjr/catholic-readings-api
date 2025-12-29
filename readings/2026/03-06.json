@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-06",
+  "monthDay": "3/6",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Genesis 37:3-4, 12-13a, 17b-28a",
+    "psalm": "Psalm 105:16-17, 18-19, 20-21",
+    "gospel": "Matthew 21:33-43, 45-46"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/030626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-06.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-23",
+  "monthDay": "6/23",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Kings 19:9b-11, 14-21, 31-35a, 36",
+    "psalm": "Psalm 48:2-3Ab, 3cd-4, 10-11",
+    "gospel": "Matthew 7:6, 12-14"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/062326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/06-23.json"
+}

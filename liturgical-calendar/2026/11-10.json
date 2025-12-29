@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-10",
+  "monthDay": "11/10",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Leo the Great, Pope and Doctor",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/11-10.json"
+}

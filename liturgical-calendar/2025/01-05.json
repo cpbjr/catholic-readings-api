@@ -1,0 +1,12 @@
+{
+  "date": "2025-01-05",
+  "monthDay": "1/5",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/John_Neumann",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/01-05.json",
+  "celebration": {
+    "name": "John Neumann",
+    "type": "Memorial",
+    "quote": "A man must always be ready, for death comes when and where God wills it.",
+    "description": "Fourth Bishop of Philadelphia, he established the first Catholic diocesan school system in the United States."
+  }
+}

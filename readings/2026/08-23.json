@@ -1,0 +1,13 @@
+{
+  "date": "2026-08-23",
+  "monthDay": "8/23",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Isaiah 22:19-23",
+    "psalm": "Psalm 138:1-2, 2-3, 6, 8",
+    "secondReading": "Romans 11:33-36",
+    "gospel": "Matthew 16:13-20"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/082326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-23.json"
+}

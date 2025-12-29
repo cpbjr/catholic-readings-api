@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-20",
+  "monthDay": "5/20",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 20:28-38",
+    "psalm": "Psalm 68:29-30, 33-35a, 35bc-36ab",
+    "gospel": "John 17:11b-19"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/052026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/05-20.json"
+}

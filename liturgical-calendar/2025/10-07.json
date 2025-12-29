@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-07",
+  "monthDay": "10/7",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Rosary",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/10-07.json",
+  "celebration": {
+    "name": "Our Lady of the Rosary",
+    "type": "Memorial",
+    "quote": "Hail Mary, full of grace, the Lord is with thee.",
+    "description": "Commemorates the victory at Lepanto through the Rosary."
+  }
+}

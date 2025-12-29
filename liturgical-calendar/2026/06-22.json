@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-22",
+  "monthDay": "6/22",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Paulinus of Nola, Bishop/Saints John Fisher, Bishop and Thomas More, Martyrs",
+    "type": "OPT_MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/06-22.json"
+}

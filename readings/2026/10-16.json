@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-16",
+  "monthDay": "10/16",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ephesians 1:11-14",
+    "psalm": "Psalm 33:1-2, 4-5, 12-13",
+    "gospel": "Luke 12:1-7"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/101626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-16.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-05-02",
+  "monthDay": "5/2",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Athanasius",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/05-02.json",
+  "celebration": {
+    "name": "Athanasius",
+    "type": "Memorial",
+    "quote": "God became man so that man might become God.",
+    "description": "Bishop of Alexandria, Doctor of the Church, defender of Christ's divinity."
+  }
+}

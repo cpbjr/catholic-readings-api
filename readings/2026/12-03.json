@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-03",
+  "monthDay": "12/3",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Isaiah 26:1-6",
+    "psalm": "Psalm 118:1 and 8-9, 19-21, 25-27a",
+    "gospel": "Matthew 7:21, 24-27"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/120326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/12-03.json"
+}

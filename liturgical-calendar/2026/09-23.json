@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-23",
+  "monthDay": "9/23",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Pio of Pietrelcina (Padre Pio), Priest",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/09-23.json"
+}

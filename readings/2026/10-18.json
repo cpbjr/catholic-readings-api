@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-18",
+  "monthDay": "10/18",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Isaiah 45:1, 4-6",
+    "psalm": "Psalm 96:1, 3, 4-5, 7-8, 9-10",
+    "secondReading": "1 Thessalonians 1:1-5b",
+    "gospel": "Matthew 22:15-21"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/101826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-18.json"
+}

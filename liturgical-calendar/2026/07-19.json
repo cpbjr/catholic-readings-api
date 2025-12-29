@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-19",
+  "monthDay": "7/19",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "16th Sunday of Ordinary Time",
+    "type": "SUNDAY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-19.json"
+}

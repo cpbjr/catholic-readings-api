@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-22",
+  "monthDay": "8/22",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ezekiel 43:1-7ab",
+    "psalm": "Psalm 85:9ab, 10, 11-12, 13-14",
+    "gospel": "Matthew 23:1-12"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/082226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-22.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-24",
+  "monthDay": "2/24",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Isaiah 55:10-11",
+    "psalm": "Psalm 34:4-5, 6-7, 16-17, 18-19",
+    "gospel": "Matthew 6:7-15"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/022426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-24.json"
+}

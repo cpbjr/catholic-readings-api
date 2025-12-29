@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-04",
+  "monthDay": "8/4",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Jean Vianney (the Cure of Ars), Priest",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-04.json"
+}

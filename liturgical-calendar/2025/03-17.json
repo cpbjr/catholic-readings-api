@@ -1,0 +1,12 @@
+{
+  "date": "2025-03-17",
+  "monthDay": "3/17",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Patrick",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/03-17.json",
+  "celebration": {
+    "name": "Patrick",
+    "type": "Optional Memorial",
+    "quote": "Christ with me, Christ before me, Christ behind me.",
+    "description": "Patron of Ireland who evangelized the Irish people in the 5th century."
+  }
+}

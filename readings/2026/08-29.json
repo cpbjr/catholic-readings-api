@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-29",
+  "monthDay": "8/29",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Corinthians 1:26-31",
+    "psalm": "Psalm 33:12-13, 18-19, 20-21",
+    "gospel": "Mark 6:17-29"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/082926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-29.json"
+}

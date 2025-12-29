@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-01",
+  "monthDay": "12/1",
+  "season": "Advent",
+  "celebration": {
+    "name": "Tuesday of the 1st week of Advent",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-01.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-03",
+  "monthDay": "10/3",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saturday of the 26th week of Ordinary Time",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/10-03.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-06-02",
+  "monthDay": "6/2",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Marcellinus_and_Peter",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/06-02.json",
+  "celebration": {
+    "name": "Marcellinus and Peter",
+    "type": "Optional Memorial",
+    "quote": "Christ is our strength and our crown.",
+    "description": "Priest and exorcist martyred during Diocletian's persecution."
+  }
+}

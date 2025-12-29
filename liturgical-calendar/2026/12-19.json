@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-19",
+  "monthDay": "12/19",
+  "season": "Advent",
+  "celebration": {
+    "name": "Saturday of the 3rd week of Advent",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-19.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-05",
+  "monthDay": "5/5",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 14:19-28",
+    "psalm": "Psalm 145:10-11, 12-13ab, 21",
+    "gospel": "John 14:27-31a"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/050526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/05-05.json"
+}

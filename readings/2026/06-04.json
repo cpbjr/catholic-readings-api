@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-04",
+  "monthDay": "6/4",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Timothy 2:8-15",
+    "psalm": "Psalm 25:4-5ab, 8-9, 10 and 14",
+    "gospel": "Mark 12:28-34"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/060426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/06-04.json"
+}

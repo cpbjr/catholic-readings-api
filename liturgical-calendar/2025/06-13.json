@@ -1,0 +1,12 @@
+{
+  "date": "2025-06-13",
+  "monthDay": "6/13",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Anthony_of_Padua",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/06-13.json",
+  "celebration": {
+    "name": "Anthony of Padua",
+    "type": "Memorial",
+    "quote": "Actions speak louder than words; let your words teach and your actions speak.",
+    "description": "Franciscan priest, Doctor of the Church, powerful preacher and miracle worker."
+  }
+}

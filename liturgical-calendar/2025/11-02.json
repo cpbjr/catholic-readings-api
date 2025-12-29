@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-02",
+  "monthDay": "11/2",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/All_Souls",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/11-02.json",
+  "celebration": {
+    "name": "All Souls",
+    "type": "Commemoration",
+    "quote": "Eternal rest grant unto them, O Lord.",
+    "description": "Day of prayer for all the faithful departed."
+  }
+}

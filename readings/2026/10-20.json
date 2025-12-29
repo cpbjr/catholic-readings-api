@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-20",
+  "monthDay": "10/20",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ephesians 2:12-22",
+    "psalm": "Psalm 85:9ab-10, 11-12, 13-14",
+    "gospel": "Luke 12:35-38"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/102026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-20.json"
+}

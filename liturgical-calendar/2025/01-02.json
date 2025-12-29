@@ -1,0 +1,12 @@
+{
+  "date": "2025-01-02",
+  "monthDay": "1/2",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Basil_the_Great_and_Gregory_Nazianzen",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/01-02.json",
+  "celebration": {
+    "name": "Basil the Great and Gregory Nazianzen",
+    "type": "Memorial",
+    "quote": "We must prefer nothing whatever to Christ.",
+    "description": "These two fourth-century bishops and theologians were close friends who defended the divinity of Christ against the Arian heresy."
+  }
+}

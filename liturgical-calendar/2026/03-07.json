@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-07",
+  "monthDay": "3/7",
+  "season": "Lent",
+  "celebration": {
+    "name": "Saints Perpetua and Felicity, Martyrs",
+    "type": "COMMEMORATION",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/03-07.json"
+}

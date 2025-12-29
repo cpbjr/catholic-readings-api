@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-11",
+  "monthDay": "5/11",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 16:11-15",
+    "psalm": "Psalm 149:1b-2, 3-4, 5-6a and 9b",
+    "gospel": "John 15:26—16:4a"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/051126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/05-11.json"
+}

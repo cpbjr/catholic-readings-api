@@ -1,0 +1,12 @@
+{
+  "date": "2025-05-01",
+  "monthDay": "5/1",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Joseph_the_Worker",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/05-01.json",
+  "celebration": {
+    "name": "Joseph the Worker",
+    "type": "Optional Memorial",
+    "quote": "Work is a blessing from God.",
+    "description": "Honors St. Joseph as patron of workers and the dignity of human labor."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-07-21",
+  "monthDay": "7/21",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Lawrence_of_Brindisi",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/07-21.json",
+  "celebration": {
+    "name": "Lawrence of Brindisi",
+    "type": "Optional Memorial",
+    "quote": "All for the honor and glory of God.",
+    "description": "Capuchin priest, Doctor of the Church, linguist and diplomat."
+  }
+}

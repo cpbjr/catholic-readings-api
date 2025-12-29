@@ -1,0 +1,12 @@
+{
+  "date": "2025-01-20",
+  "monthDay": "1/20",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Fabian",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/01-20.json",
+  "celebration": {
+    "name": "Fabian",
+    "type": "Optional Memorial",
+    "quote": "The Church grows through the blood of martyrs.",
+    "description": "Pope and martyr who led the Church for 14 years during a time of peace before his martyrdom."
+  }
+}

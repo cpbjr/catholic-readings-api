@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-02",
+  "monthDay": "11/2",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Wisdom 3:1-9",
+    "psalm": "Psalm 23:1-3a, 3b-4, 5, 6",
+    "secondReading": "Romans 5:5-11",
+    "gospel": "John 6:37-40"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/110226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/11-02.json"
+}

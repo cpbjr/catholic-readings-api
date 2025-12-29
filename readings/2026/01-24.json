@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-24",
+  "monthDay": "1/24",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Samuel 1:1-4, 11-12, 19, 23-27",
+    "psalm": "Psalm 80:2-3, 5-7",
+    "gospel": "Mark 3:20-21"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/012426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/01-24.json"
+}

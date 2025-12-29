@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-28",
+  "monthDay": "9/28",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Wenceslaus",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/09-28.json",
+  "celebration": {
+    "name": "Wenceslaus",
+    "type": "Optional Memorial",
+    "quote": "It is better to die for God than to live without him.",
+    "description": "Duke of Bohemia martyred by his brother."
+  }
+}

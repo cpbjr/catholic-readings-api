@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-19",
+  "monthDay": "10/19",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ephesians 2:1-10",
+    "psalm": "Psalm 100:1b-2, 3, 4ab, 4c-5",
+    "gospel": "Luke 12:13-21"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/101926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-19.json"
+}

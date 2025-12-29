@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-04",
+  "monthDay": "4/4",
+  "season": "Holy Week",
+  "celebration": {
+    "name": "Holy Saturday/Easter Vigil",
+    "type": "TRIDUUM",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/04-04.json"
+}

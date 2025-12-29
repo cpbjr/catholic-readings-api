@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-29",
+  "monthDay": "1/29",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Samuel 7:18-19, 24-29",
+    "psalm": "Psalm 132:1-2, 3-5, 11, 12, 13-14",
+    "gospel": "Mark 4:21-25"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/012926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/01-29.json"
+}

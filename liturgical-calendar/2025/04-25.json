@@ -1,0 +1,12 @@
+{
+  "date": "2025-04-25",
+  "monthDay": "4/25",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Mark",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/04-25.json",
+  "celebration": {
+    "name": "Mark",
+    "type": "Feast",
+    "quote": "Go into all the world and preach the Gospel to every creature.",
+    "description": "Evangelist, companion of Peter and Paul, author of the second Gospel."
+  }
+}

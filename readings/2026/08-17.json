@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-17",
+  "monthDay": "8/17",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ezekiel 24:15-23",
+    "psalm": "Deuteronomy 32:18-19, 20, 21",
+    "gospel": "Matthew 19:16-22"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/081726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-17.json"
+}

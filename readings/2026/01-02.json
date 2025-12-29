@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-02",
+  "monthDay": "1/2",
+  "season": "Christmas",
+  "readings": {
+    "firstReading": "1 John 2:22-28",
+    "psalm": "Psalm 98:1, 2-3ab, 3cd-4",
+    "gospel": "John 1:19-28"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/010226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/01-02.json"
+}

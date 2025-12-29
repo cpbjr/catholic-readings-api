@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-14",
+  "monthDay": "2/14",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saints Cyril, Monk and Methodius, Bishop",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/02-14.json"
+}

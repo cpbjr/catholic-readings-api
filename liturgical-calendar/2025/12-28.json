@@ -1,0 +1,12 @@
+{
+  "date": "2025-12-28",
+  "monthDay": "12/28",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Holy_Innocents",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/12-28.json",
+  "celebration": {
+    "name": "Holy Innocents",
+    "type": "Feast",
+    "quote": "A voice was heard in Ramah, weeping and great mourning.",
+    "description": "Children killed by Herod in his attempt to kill the infant Jesus."
+  }
+}

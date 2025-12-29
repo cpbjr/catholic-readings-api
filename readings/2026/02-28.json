@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-28",
+  "monthDay": "2/28",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Deuteronomy 26:16-19",
+    "psalm": "Psalm 119:1-2, 4-5, 7-8",
+    "gospel": "Matthew 5:43-48"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/022826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-28.json"
+}

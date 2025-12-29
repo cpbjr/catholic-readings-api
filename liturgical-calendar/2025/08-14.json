@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-14",
+  "monthDay": "8/14",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Maximilian_Kolbe",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/08-14.json",
+  "celebration": {
+    "name": "Maximilian Kolbe",
+    "type": "Memorial",
+    "quote": "No one has greater love than this, to lay down one's life for one's friends.",
+    "description": "Franciscan priest who volunteered to die in place of another at Auschwitz."
+  }
+}

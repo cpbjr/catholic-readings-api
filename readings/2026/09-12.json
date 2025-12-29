@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-12",
+  "monthDay": "9/12",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Corinthians 10:14-22",
+    "psalm": "Psalm 116:12-13, 17-18",
+    "gospel": "Luke 6:43-49"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/091226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-12.json"
+}

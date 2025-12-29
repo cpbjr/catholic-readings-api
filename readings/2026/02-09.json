@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-09",
+  "monthDay": "2/9",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Kings 8:1-7, 9-13",
+    "psalm": "Psalm 132:6-7, 8-10",
+    "gospel": "Mark 6:53-56"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/020926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-09.json"
+}

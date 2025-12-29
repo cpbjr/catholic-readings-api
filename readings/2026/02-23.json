@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-23",
+  "monthDay": "2/23",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Leviticus 19:1-2, 11-18",
+    "psalm": "Psalm 19:8, 9, 10, 15",
+    "gospel": "Matthew 25:31-46"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/022326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-23.json"
+}

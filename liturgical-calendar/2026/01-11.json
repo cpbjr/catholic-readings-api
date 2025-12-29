@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-11",
+  "monthDay": "1/11",
+  "season": "Christmas",
+  "celebration": {
+    "name": "Baptism of the Lord",
+    "type": "FEAST",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-11.json"
+}

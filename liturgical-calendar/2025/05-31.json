@@ -1,0 +1,12 @@
+{
+  "date": "2025-05-31",
+  "monthDay": "5/31",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Visitation",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/05-31.json",
+  "celebration": {
+    "name": "Visitation",
+    "type": "Feast",
+    "quote": "Blessed are you among women, and blessed is the fruit of your womb!",
+    "description": "Celebrates Mary's visit to Elizabeth and the Magnificat."
+  }
+}

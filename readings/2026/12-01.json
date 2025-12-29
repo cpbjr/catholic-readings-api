@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-01",
+  "monthDay": "12/1",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Isaiah 11:1-10",
+    "psalm": "Psalm 72:1-2, 7-8, 12-13, 17",
+    "gospel": "Luke 10:21-24"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/120126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/12-01.json"
+}

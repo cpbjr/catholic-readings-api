@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-03",
+  "monthDay": "2/3",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Blase, Bishop Martyr and Saint Ansgar, Bishop",
+    "type": "OPT_MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/02-03.json"
+}

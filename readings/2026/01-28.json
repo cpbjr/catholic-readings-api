@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-28",
+  "monthDay": "1/28",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Samuel 7:4-17",
+    "psalm": "Psalm 89:4-5, 27-28, 29-30",
+    "gospel": "Mark 4:1-20"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/012826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/01-28.json"
+}

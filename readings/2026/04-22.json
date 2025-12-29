@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-22",
+  "monthDay": "4/22",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 8:1b-8",
+    "psalm": "Psalm 66:1-3a, 4-5, 6-7a",
+    "gospel": "John 6:35-40"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/042226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/04-22.json"
+}

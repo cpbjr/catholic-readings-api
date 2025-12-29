@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-08",
+  "monthDay": "10/8",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Galatians 3:1-5",
+    "psalm": "Luke 1:69-70, 71-72, 73-75",
+    "gospel": "Luke 11:5-13"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/100826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-08.json"
+}

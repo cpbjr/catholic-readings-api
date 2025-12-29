@@ -1,0 +1,12 @@
+{
+  "date": "2025-02-11",
+  "monthDay": "2/11",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Our_Lady_of_Lourdes",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/02-11.json",
+  "celebration": {
+    "name": "Our Lady of Lourdes",
+    "type": "Optional Memorial",
+    "quote": "I am the Immaculate Conception.",
+    "description": "Commemorates the apparitions of Mary to Bernadette Soubirous at Lourdes, France."
+  }
+}

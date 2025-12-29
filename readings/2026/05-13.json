@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-13",
+  "monthDay": "5/13",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 17:15, 22—18:1",
+    "psalm": "Psalm 148:1-2, 11-12, 13, 14",
+    "gospel": "John 16:12-15"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/051326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/05-13.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-09",
+  "monthDay": "4/9",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 3:11-26",
+    "psalm": "Psalm 8:2ab and 5, 6-7, 8-9",
+    "gospel": "Luke 24:35-48"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/040926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/04-09.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-07",
+  "monthDay": "12/7",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Isaiah 35:1-10",
+    "psalm": "Psalm 85:9ab and 10, 11-12, 13-14",
+    "gospel": "Luke 5:17-26"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/120726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/12-07.json"
+}

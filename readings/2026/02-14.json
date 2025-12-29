@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-14",
+  "monthDay": "2/14",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Kings 12:26-32; 13:33-34",
+    "psalm": "Psalm 106:6-7ab, 19-20, 21-22",
+    "gospel": "Mark 8:1-10"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/021426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-14.json"
+}

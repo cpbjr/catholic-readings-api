@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-11",
+  "monthDay": "9/11",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Corinthians 9:16-19, 22b-27",
+    "psalm": "Psalm 84:3, 4, 5-6, 12",
+    "gospel": "Luke 6:39-42"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/091126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-11.json"
+}

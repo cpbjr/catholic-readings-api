@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-05",
+  "monthDay": "10/5",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Galatians 1:6-12",
+    "psalm": "Psalm 111:1b-2, 7-8, 9, 10c",
+    "gospel": "Luke 10:25-37"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/100526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-05.json"
+}

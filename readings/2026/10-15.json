@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-15",
+  "monthDay": "10/15",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ephesians 1:1-10",
+    "psalm": "Psalm 98:1, 2-3ab, 3cd-4, 5-6",
+    "gospel": "Luke 11:47-54"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/101526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-15.json"
+}

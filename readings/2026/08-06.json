@@ -1,0 +1,13 @@
+{
+  "date": "2026-08-06",
+  "monthDay": "8/6",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Daniel 7:9-10, 13-14",
+    "psalm": "Psalm 97:1-2, 5-6, 9",
+    "secondReading": "2 Peter 1:16-19",
+    "gospel": "Matthew 17:1-9"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/080626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-06.json"
+}

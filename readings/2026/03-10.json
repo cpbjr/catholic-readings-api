@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-10",
+  "monthDay": "3/10",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Daniel 3:25, 34-43",
+    "psalm": "Psalm 25:4-5ab, 6 and 7bc, 8-9",
+    "gospel": "Matthew 18:21-35"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/031026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-10.json"
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2026-02-22",
+  "monthDay": "2/22",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Genesis 2:7-9; 3:1-7",
+    "psalm": "Psalm 51:3-4, 5-6, 12-13, 17",
+    "secondReading": "Romans 5:12-19 or 5:12, 17-19",
+    "gospel": "Matthew 4:1-11"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/022226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-22.json"
+}

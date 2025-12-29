@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-01",
+  "monthDay": "8/1",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Alphonsus_Liguori",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/08-01.json",
+  "celebration": {
+    "name": "Alphonsus Liguori",
+    "type": "Memorial",
+    "quote": "Those who love Mary are saved; those who love her much are saints.",
+    "description": "Founded Redemptorists, Doctor of the Church, moral theologian."
+  }
+}

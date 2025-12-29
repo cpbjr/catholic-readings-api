@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-01",
+  "monthDay": "11/1",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Revelation 7:2-4, 9-14",
+    "psalm": "Psalm 24:1bc-2, 3-4ab, 5-6",
+    "secondReading": "1 John 3:1-3",
+    "gospel": "Matthew 5:1-12a"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/110126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/11-01.json"
+}

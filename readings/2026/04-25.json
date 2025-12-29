@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-25",
+  "monthDay": "4/25",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "1 Peter 5:5b-14",
+    "psalm": "Psalm 89:2-3, 6-7, 16-17",
+    "gospel": "Mark 16:15-20"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/042526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/04-25.json"
+}

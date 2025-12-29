@@ -1,0 +1,12 @@
+{
+  "date": "2025-01-22",
+  "monthDay": "1/22",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Vincent",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/01-22.json",
+  "celebration": {
+    "name": "Vincent",
+    "type": "Optional Memorial",
+    "quote": "You may torture this body, but you cannot touch my soul.",
+    "description": "Deacon and martyr from Spain who remained faithful during Diocletian's persecution."
+  }
+}

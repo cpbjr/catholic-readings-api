@@ -1,0 +1,13 @@
+{
+  "date": "2026-08-09",
+  "monthDay": "8/9",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Kings 19:9a, 11-13a",
+    "psalm": "Psalm 85:9, 10, 11-12, 13-14",
+    "secondReading": "Romans 9:1-5",
+    "gospel": "Matthew 14:22-33"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/080926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-09.json"
+}

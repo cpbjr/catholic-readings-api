@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-01",
+  "monthDay": "9/1",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Corinthians 2:10b-16",
+    "psalm": "Psalm 145:8-9, 10-11, 12-13ab, 13cd-14",
+    "gospel": "Luke 4:31-37"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/090126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-01.json"
+}

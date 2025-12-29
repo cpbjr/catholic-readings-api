@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-16",
+  "monthDay": "9/16",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Cornelius_and_Cyprian",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/09-16.json",
+  "celebration": {
+    "name": "Cornelius and Cyprian",
+    "type": "Memorial",
+    "quote": "Outside the Church there is no salvation.",
+    "description": "Pope and bishop who were martyred during persecution."
+  }
+}

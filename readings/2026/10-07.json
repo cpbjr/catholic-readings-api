@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-07",
+  "monthDay": "10/7",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Galatians 2:1-2, 7-14",
+    "psalm": "Psalm 117:1bc, 2",
+    "gospel": "Luke 11:1-4"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/100726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-07.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-06-11",
+  "monthDay": "6/11",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Barnabas",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/06-11.json",
+  "celebration": {
+    "name": "Barnabas",
+    "type": "Memorial",
+    "quote": "Do not lose heart. We must pass through many trials to enter the kingdom of God.",
+    "description": "Companion of Paul, called an apostle though not one of the Twelve."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-12",
+  "monthDay": "2/12",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Kings 11:4-13",
+    "psalm": "Psalm 106:3-4, 35-36, 37 and 40",
+    "gospel": "Mark 7:24-30"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/021226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-12.json"
+}

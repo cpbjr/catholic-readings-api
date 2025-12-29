@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-09",
+  "monthDay": "5/9",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "Saturday of the 5th week of Easter",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/05-09.json"
+}

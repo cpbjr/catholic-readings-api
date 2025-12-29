@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-22",
+  "monthDay": "5/22",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 25:13b-21",
+    "psalm": "Psalm 103:1-2, 11-12, 19-20ab",
+    "gospel": "John 21:15-19"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/052226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/05-22.json"
+}

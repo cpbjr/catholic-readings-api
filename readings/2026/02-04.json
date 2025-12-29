@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-04",
+  "monthDay": "2/4",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Samuel 24:2, 9-17",
+    "psalm": "Psalm 32:1-2, 5, 6, 7",
+    "gospel": "Mark 6:1-6"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/020426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-04.json"
+}

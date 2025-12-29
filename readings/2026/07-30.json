@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-30",
+  "monthDay": "7/30",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Jeremiah 18:1-6",
+    "psalm": "Psalm 146:1B-2, 3-4, 5-6ab",
+    "gospel": "Matthew 13:47-53"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/073026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-30.json"
+}

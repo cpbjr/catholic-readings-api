@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-18",
+  "monthDay": "7/18",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Micah 2:1-5",
+    "psalm": "Psalm 10:1-2, 3-4, 7-8, 14",
+    "gospel": "Matthew 12:14-21"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/071826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-18.json"
+}

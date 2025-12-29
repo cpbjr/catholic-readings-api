@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-09",
+  "monthDay": "6/9",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Kings 17:7-16",
+    "psalm": "Psalm 4:2-3, 4-5, 7b-8",
+    "gospel": "Matthew 5:13-16"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/060926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/06-09.json"
+}

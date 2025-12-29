@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-16",
+  "monthDay": "2/16",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "James 1:1-11",
+    "psalm": "Psalm 119:67, 68, 71, 72, 75, 76",
+    "gospel": "Mark 8:11-13"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/021626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-16.json"
+}

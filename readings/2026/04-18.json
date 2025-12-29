@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-18",
+  "monthDay": "4/18",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 6:1-7",
+    "psalm": "Psalm 33:1-2, 4-5, 18-19",
+    "gospel": "John 6:16-21"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/041826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/04-18.json"
+}

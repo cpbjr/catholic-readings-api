@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-14",
+  "monthDay": "3/14",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Hosea 6:1-6",
+    "psalm": "Psalm 51:3-4, 18-19, 20-21ab",
+    "gospel": "Luke 18:9-14"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/031426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-14.json"
+}

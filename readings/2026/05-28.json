@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-28",
+  "monthDay": "5/28",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Peter 2:2-5, 9-12",
+    "psalm": "Psalm 100:2, 3, 4, 5",
+    "gospel": "Mark 10:46-52"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/052826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/05-28.json"
+}

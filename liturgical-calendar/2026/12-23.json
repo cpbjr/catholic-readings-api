@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-23",
+  "monthDay": "12/23",
+  "season": "Advent",
+  "celebration": {
+    "name": "Saint John of Kenty, Priest",
+    "type": "OPT_MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-23.json"
+}

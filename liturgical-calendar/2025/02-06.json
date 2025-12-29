@@ -1,0 +1,12 @@
+{
+  "date": "2025-02-06",
+  "monthDay": "2/6",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Paul_Miki_and_Companions",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/02-06.json",
+  "celebration": {
+    "name": "Paul Miki and Companions",
+    "type": "Memorial",
+    "quote": "I give thanks to God that I can die as a Christian.",
+    "description": "Twenty-six martyrs crucified in Nagasaki, Japan, including Jesuits, Franciscans, and laypeople."
+  }
+}

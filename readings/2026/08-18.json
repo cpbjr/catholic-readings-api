@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-18",
+  "monthDay": "8/18",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ezekiel 28:1-10",
+    "psalm": "Deuteronomy 32:26-27ab, 27cd-28, 30, 35cd-36ab",
+    "gospel": "Matthew 19:23-30"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/081826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-18.json"
+}

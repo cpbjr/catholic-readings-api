@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-31",
+  "monthDay": "8/31",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Corinthians 2:1-5",
+    "psalm": "Psalm 119:97, 98, 99, 100, 101, 102",
+    "gospel": "Luke 4:16-30"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/083126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-31.json"
+}

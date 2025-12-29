@@ -1,0 +1,12 @@
+{
+  "date": "2025-06-09",
+  "monthDay": "6/9",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Ephrem",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/06-09.json",
+  "celebration": {
+    "name": "Ephrem",
+    "type": "Optional Memorial",
+    "quote": "Every tongue should praise Him, and every mouth should confess Him.",
+    "description": "Deacon, Doctor of the Church, Syrian theologian and hymn writer."
+  }
+}

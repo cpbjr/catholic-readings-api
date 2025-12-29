@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-28",
+  "monthDay": "4/28",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 11:19-26",
+    "psalm": "Psalm 87:1b-3, 4-5, 6-7",
+    "gospel": "John 10:22-30"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/042826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/04-28.json"
+}

@@ -1,0 +1,11 @@
+{
+  "date": "2025-10-03",
+  "monthDay": "10/3",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/10-03.json",
+  "celebration": {
+    "name": "St. Thérèse of the Child Jesus (Thérèse of Lisieux)",
+    "type": "Memorial",
+    "quote": "I will spend my heaven doing good on earth.",
+    "description": "Known as the Little Flower, Thérèse of Lisieux was a Carmelite nun who taught the 'Little Way' of spiritual childhood. Despite dying at age 24, her autobiography 'Story of a Soul' has inspired millions. She was declared a Doctor of the Church in 1997 and is one of the patron saints of missions."
+  }
+}

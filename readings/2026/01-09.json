@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-09",
+  "monthDay": "1/9",
+  "season": "Christmas",
+  "readings": {
+    "firstReading": "1 John 5:5-13",
+    "psalm": "Psalm 147:12-13, 14-15, 19-20",
+    "gospel": "Luke 5:12-16"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/010926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/01-09.json"
+}

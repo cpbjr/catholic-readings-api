@@ -1,0 +1,12 @@
+{
+  "date": "2025-03-09",
+  "monthDay": "3/9",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Frances_of_Rome",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/03-09.json",
+  "celebration": {
+    "name": "Frances of Rome",
+    "type": "Optional Memorial",
+    "quote": "A married woman must leave God at the altar to find Him in her housekeeping.",
+    "description": "Married woman who founded a religious community while caring for her family."
+  }
+}

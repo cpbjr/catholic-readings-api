@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-06",
+  "monthDay": "10/6",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Bruno",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/10-06.json",
+  "celebration": {
+    "name": "Bruno",
+    "type": "Optional Memorial",
+    "quote": "O Bonitas! O Goodness!",
+    "description": "Founded the Carthusians, strictest contemplative order."
+  }
+}

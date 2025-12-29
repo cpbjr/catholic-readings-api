@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-20",
+  "monthDay": "7/20",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Apollinaris",
+    "type": "OPT_MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-20.json"
+}

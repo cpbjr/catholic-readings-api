@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-04",
+  "monthDay": "8/4",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/John_Vianney",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/08-04.json",
+  "celebration": {
+    "name": "John Vianney",
+    "type": "Memorial",
+    "quote": "The priesthood is the love of the heart of Jesus.",
+    "description": "Curé of Ars, patron of parish priests, known for confessions and holiness."
+  }
+}

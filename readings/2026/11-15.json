@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-15",
+  "monthDay": "11/15",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Proverbs 31:10-13, 19-20, 30-31",
+    "psalm": "Psalm 128:1-2, 3, 4-5",
+    "secondReading": "1 Thessalonians 5:1-6",
+    "gospel": "Matthew 25:14-30"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/111526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/11-15.json"
+}

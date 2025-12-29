@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-30",
+  "monthDay": "11/30",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Andrew",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/11-30.json",
+  "celebration": {
+    "name": "Andrew",
+    "type": "Feast",
+    "quote": "Come and see!",
+    "description": "First-called apostle, brother of Peter, patron of Scotland."
+  }
+}

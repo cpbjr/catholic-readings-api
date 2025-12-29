@@ -1,0 +1,12 @@
+{
+  "date": "2025-04-04",
+  "monthDay": "4/4",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Isidore_of_Seville",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/04-04.json",
+  "celebration": {
+    "name": "Isidore of Seville",
+    "type": "Optional Memorial",
+    "quote": "Learning unsupported by grace may get into our ears; it never reaches the heart.",
+    "description": "Bishop and Doctor of the Church, last of the Latin Fathers."
+  }
+}

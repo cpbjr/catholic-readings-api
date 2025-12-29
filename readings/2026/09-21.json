@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-21",
+  "monthDay": "9/21",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ephesians 4:1-7, 11-13",
+    "psalm": "Psalm 19:2-3, 4-5",
+    "gospel": "Matthew 9:9-13"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/092126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-21.json"
+}

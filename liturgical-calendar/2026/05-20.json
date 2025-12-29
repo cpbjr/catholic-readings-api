@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-20",
+  "monthDay": "5/20",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "Saint Bernardine of Siena, Priest",
+    "type": "OPT_MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/05-20.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-11-16",
+  "monthDay": "11/16",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Margaret_of_Scotland",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/11-16.json",
+  "celebration": {
+    "name": "Margaret of Scotland",
+    "type": "Optional Memorial",
+    "quote": "Christ poor and crucified should be the model for all Christians.",
+    "description": "Queen who reformed the Church in Scotland."
+  }
+}

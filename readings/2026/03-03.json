@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-03",
+  "monthDay": "3/3",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Isaiah 1:10, 16-20",
+    "psalm": "Psalm 50:8-9, 16bc-17, 21 and 23",
+    "gospel": "Matthew 23:1-12"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/030326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-03.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-20",
+  "monthDay": "6/20",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Chronicles 24:17-25",
+    "psalm": "Psalm 89:4-5, 29-30, 31-32, 33-34",
+    "gospel": "Matthew 6:24-34"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/062026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/06-20.json"
+}

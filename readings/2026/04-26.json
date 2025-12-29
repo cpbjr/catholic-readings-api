@@ -1,0 +1,13 @@
+{
+  "date": "2026-04-26",
+  "monthDay": "4/26",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 2:14a, 36-41",
+    "psalm": "Psalm 23: 1-3a, 3b4, 5, 6",
+    "secondReading": "1 Peter 2:20b-25",
+    "gospel": "John 10:1-10"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/042626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/04-26.json"
+}

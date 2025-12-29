@@ -1,0 +1,13 @@
+{
+  "date": "2026-04-04",
+  "monthDay": "4/4",
+  "season": "Holy Week",
+  "readings": {
+    "psalm": "Psalm 118:1-2, 16-17, 22-23",
+    "secondReading": "Exodus 14:15—15:1",
+    "firstReading": "Isaiah 54:5-14",
+    "gospel": "Matthew 28:1-10"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/040426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/04-04.json"
+}

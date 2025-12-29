@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-28",
+  "monthDay": "6/28",
+  "season": "Ordinary Time",
+  "readings": {
+    "psalm": "Psalm 89:2-3, 16-17, 18-19",
+    "secondReading": "Romans 6:3-4, 8-11",
+    "gospel": "Matthew 10:37-42"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/062826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/06-28.json"
+}

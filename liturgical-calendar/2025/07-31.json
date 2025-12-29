@@ -1,0 +1,12 @@
+{
+  "date": "2025-07-31",
+  "monthDay": "7/31",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Ignatius_of_Loyola",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/07-31.json",
+  "celebration": {
+    "name": "Ignatius of Loyola",
+    "type": "Memorial",
+    "quote": "Go forth and set the world on fire.",
+    "description": "Founded the Jesuits, author of Spiritual Exercises."
+  }
+}

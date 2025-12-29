@@ -31,9 +31,9 @@ fetch('https://cpbjr.github.io/catholic-readings-api/readings/2025/09-07.json')
   .then(data => console.log(data));
 ```
 
-### Get Today's Saint
+### Get Today's Celebration
 ```javascript
-fetch('https://cpbjr.github.io/catholic-readings-api/saints/2025/09-07.json')
+fetch('https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/09-07.json')
   .then(response => response.json())
   .then(data => console.log(data));
 ```
@@ -69,9 +69,9 @@ GET /readings/2025/{MM-DD}.json
 }
 ```
 
-#### Saints
+#### Liturgical Calendar
 ```
-GET /saints/2025/{MM-DD}.json
+GET /liturgical-calendar/2025/{MM-DD}.json
 ```
 
 **Example Response:**
@@ -79,14 +79,14 @@ GET /saints/2025/{MM-DD}.json
 {
   "date": "2025-09-08",
   "monthDay": "9/8",
-  "saint": {
+  "celebration": {
     "name": "Birth of Mary",
     "type": "Feast",
     "quote": "Rejoice, O highly favored daughter! The Lord is with you.",
     "description": "Celebrates the birth of the Mother of God."
   },
   "wikipediaLink": "https://en.wikipedia.org/wiki/Birth_of_Mary",
-  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/saints/2025/09-08.json"
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/09-08.json"
 }
 ```
 
@@ -146,7 +146,7 @@ def get_sunday_readings():
 ### Liturgical Year 2025
 - **247 Total Entries** - Complete coverage of major feasts and seasons
 - **43 Daily Readings** - From August through December 2025
-- **204 Saints & Feasts** - Throughout the liturgical calendar
+- **204 Celebrations** - Saints, Feasts, and Solemnities
 - **All Liturgical Seasons** - Ordinary Time, Advent, Christmas
 - **Major Solemnities** - Christmas, Epiphany, Annunciation, etc.
 
@@ -228,9 +228,9 @@ Examples:
 We welcome contributions from the Catholic developer community!
 
 ### How to Contribute
-1. **Data Updates** - Submit corrections or additions to readings/saints
+1. **Data Updates** - Submit corrections or additions to readings/calendar
 2. **New Features** - Suggest additional liturgical data (Liturgy of the Hours, etc.)
-3. **Bug Reports** - Report incorrect dates, readings, or saint information
+3. **Bug Reports** - Report incorrect dates, readings, or celebration information
 4. **Documentation** - Improve examples, add new language samples
 
 ### Liturgical Data Sources
@@ -241,7 +241,7 @@ We welcome contributions from the Catholic developer community!
 
 ### Adding New Years
 To add 2026 data:
-1. Create `readings/2026/` and `saints/2026/` directories
+1. Create `readings/2026/` and `liturgical-calendar/2026/` directories
 2. Follow the existing JSON schema
 3. Update README with new year coverage
 4. Submit a pull request

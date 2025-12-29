@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-03",
+  "monthDay": "6/3",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Timothy 1:1-3, 6-12",
+    "psalm": "Psalm 123:1b-2ab, 2cdef",
+    "gospel": "Mark 12:18-27"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/060326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/06-03.json"
+}

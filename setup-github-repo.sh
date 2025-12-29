@@ -50,8 +50,8 @@ if [ ! -d "readings" ]; then
     echo -e "${RED}Error:${NC} readings/ directory not found"
     exit 1
 fi
-if [ ! -d "saints" ]; then
-    echo -e "${RED}Error:${NC} saints/ directory not found"
+if [ ! -d "liturgical-calendar" ]; then
+    echo -e "${RED}Error:${NC} liturgical-calendar/ directory not found"
     exit 1
 fi
 echo -e "${GREEN}✓${NC} All required files present"
@@ -83,7 +83,7 @@ else
 
 - 247 liturgical entries for 2025
 - Daily Mass readings (First Reading, Psalm, Gospel)
-- Saints and feast days with biographical data
+- Celebrations and feast days with biographical data
 - JSON format for easy API integration
 - USCCB verification links
 - Wikipedia research links
@@ -122,7 +122,7 @@ echo ""
 echo -e "${RED}IMPORTANT:${NC} Make sure you've created the repository on GitHub first!"
 echo "Go to: https://github.com/new"
 echo "Repository name: ${REPO_NAME}"
-echo "Description: Free Catholic Mass readings and saints API via GitHub Pages"
+echo "Description: Free Catholic Mass readings and liturgical calendar API via GitHub Pages"
 echo "Public: YES"
 echo "Initialize: NO"
 echo ""
@@ -166,13 +166,13 @@ echo ""
 echo "2. Add repository topics:"
 echo "   • Go to: https://github.com/${GITHUB_USER}/${REPO_NAME}"
 echo "   • Click gear icon next to 'About'"
-echo "   • Add topics: catholic, api, liturgy, mass-readings, saints"
+echo "   • Add topics: catholic, api, liturgy, mass-readings, calendar"
 echo "   • Add website: https://${GITHUB_USER}.github.io/${REPO_NAME}/"
 echo ""
 echo "3. Wait 1-2 minutes for GitHub Pages to deploy"
 echo ""
 echo "4. Test your API:"
-echo "   curl https://${GITHUB_USER}.github.io/${REPO_NAME}/readings/2025/10-12.json"
+echo "   curl https://${GITHUB_USER}.github.io/${REPO_NAME}/liturgical-calendar/2025/12-25.json"
 echo ""
 echo -e "${BLUE}Documentation:${NC}"
 echo "   • See DEPLOYMENT-GUIDE.md for detailed instructions"

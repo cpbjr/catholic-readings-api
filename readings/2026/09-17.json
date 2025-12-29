@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-17",
+  "monthDay": "9/17",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Corinthians 15:1-11",
+    "psalm": "Psalm 118:1b-2, 16ab-17, 28",
+    "gospel": "Luke 7:36-50"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/091726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-17.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-03",
+  "monthDay": "2/3",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Samuel 18:9-10, 14b, 24-25a, 30–19:3",
+    "psalm": "Psalm 86:1-2, 3-4, 5-6",
+    "gospel": "Mark 5:21-43"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/020326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-03.json"
+}

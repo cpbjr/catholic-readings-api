@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-12",
+  "monthDay": "8/12",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ezekiel 9:1-7; 10:18-22",
+    "psalm": "Psalm 113:1-2, 3-4, 5-6",
+    "gospel": "Matthew 18:15-20"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/081226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-12.json"
+}

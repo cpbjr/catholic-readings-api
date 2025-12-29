@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-03",
+  "monthDay": "11/3",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Philippians 2:5-11",
+    "psalm": "Psalm 22:26b-27, 28-30ab, 30e, 31-32",
+    "gospel": "Luke 14:15-24"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/110326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/11-03.json"
+}

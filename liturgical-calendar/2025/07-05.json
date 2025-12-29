@@ -1,0 +1,12 @@
+{
+  "date": "2025-07-05",
+  "monthDay": "7/5",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Anthony_Zaccaria",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/07-05.json",
+  "celebration": {
+    "name": "Anthony Zaccaria",
+    "type": "Optional Memorial",
+    "quote": "Be on fire with love for Jesus Christ.",
+    "description": "Founded the Barnabites to reform the clergy."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-08",
+  "monthDay": "3/8",
+  "season": "Lent",
+  "celebration": {
+    "name": "3rd Sunday of Lent",
+    "type": "SUNDAY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/03-08.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-06",
+  "monthDay": "12/6",
+  "season": "Advent",
+  "celebration": {
+    "name": "2nd Sunday of Advent",
+    "type": "SUNDAY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-06.json"
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2026-02-18",
+  "monthDay": "2/18",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Joel 2:12-18",
+    "psalm": "Psalm 51:3-4, 5-6ab, 12-13, 14 and 17",
+    "secondReading": "2 Corinthians 5:20—6:2",
+    "gospel": "Matthew 6:1-6, 16-18"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/021826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-18.json"
+}

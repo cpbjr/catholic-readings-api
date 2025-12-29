@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-11",
+  "monthDay": "8/11",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Clare, Virgin",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-11.json"
+}

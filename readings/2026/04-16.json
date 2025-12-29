@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-16",
+  "monthDay": "4/16",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 5:27-33",
+    "psalm": "Psalm 34:2 and 9, 17-18, 19-20",
+    "gospel": "John 3:31-36"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/041626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/04-16.json"
+}

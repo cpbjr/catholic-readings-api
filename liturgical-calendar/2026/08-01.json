@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-01",
+  "monthDay": "8/1",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Alphonsus Maria de Liguori, Bishop and Doctor of the Church",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-01.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-24",
+  "monthDay": "3/24",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Numbers 21:4-9",
+    "psalm": "Psalm 102:2-3, 16-18, 19-21",
+    "gospel": "John 8:21-30"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/032426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-24.json"
+}

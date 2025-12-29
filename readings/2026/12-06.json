@@ -1,0 +1,13 @@
+{
+  "date": "2026-12-06",
+  "monthDay": "12/6",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Isaiah 40:1-5, 9-11",
+    "psalm": "Psalm 85:9-10-11-12, 13-14",
+    "secondReading": "2 Peter 3:8-14",
+    "gospel": "Mark 1:1-8"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/120626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/12-06.json"
+}

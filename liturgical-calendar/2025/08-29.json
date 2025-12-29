@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-29",
+  "monthDay": "8/29",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Passion_of_John_the_Baptist",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/08-29.json",
+  "celebration": {
+    "name": "Passion of John the Baptist",
+    "type": "Memorial",
+    "quote": "It is not lawful for you to have her.",
+    "description": "Commemorates the martyrdom of Christ's forerunner."
+  }
+}

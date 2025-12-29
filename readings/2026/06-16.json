@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-16",
+  "monthDay": "6/16",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Kings 21:17-29",
+    "psalm": "Psalm 51:3-4, 5-6ab, 11 and 16",
+    "gospel": "Matthew 5:43-48"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/061626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/06-16.json"
+}

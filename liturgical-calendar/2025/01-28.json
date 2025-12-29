@@ -1,0 +1,12 @@
+{
+  "date": "2025-01-28",
+  "monthDay": "1/28",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Thomas_Aquinas",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/01-28.json",
+  "celebration": {
+    "name": "Thomas Aquinas",
+    "type": "Memorial",
+    "quote": "To one who has faith, no explanation is necessary. To one without faith, no explanation is possible.",
+    "description": "Dominican priest, Doctor of the Church, greatest medieval theologian and philosopher."
+  }
+}

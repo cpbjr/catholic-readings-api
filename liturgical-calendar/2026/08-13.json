@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-13",
+  "monthDay": "8/13",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saints Pontian, Pope and Hippolytus, Priest, Martyrs",
+    "type": "OPT_MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-13.json"
+}

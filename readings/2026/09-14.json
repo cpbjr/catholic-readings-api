@@ -1,0 +1,13 @@
+{
+  "date": "2026-09-14",
+  "monthDay": "9/14",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Numbers 21:4b-9",
+    "psalm": "Psalm 78:1bc-2, 34-35, 36-37, 38",
+    "secondReading": "Philippians 2:6-11",
+    "gospel": "John 3:13-17"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/091426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-14.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2025-06-21",
+  "monthDay": "6/21",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Aloysius_Gonzaga",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/06-21.json",
+  "celebration": {
+    "name": "Aloysius Gonzaga",
+    "type": "Memorial",
+    "quote": "It is better to be a child of God than king of the whole world.",
+    "description": "Jesuit seminarian who died caring for plague victims, patron of youth."
+  }
+}

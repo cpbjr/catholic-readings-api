@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-27",
+  "monthDay": "3/27",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Jeremiah 20:10-13",
+    "psalm": "Psalm 18:2-3a, 3bc-4, 5-6, 7",
+    "gospel": "John 10:31-42"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/032726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-27.json"
+}

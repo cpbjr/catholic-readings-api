@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-19",
+  "monthDay": "2/19",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Deuteronomy 30:15-20",
+    "psalm": "Psalm 1:1-2, 3, 4 and 6",
+    "gospel": "Luke 9:22-25"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/021926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-19.json"
+}

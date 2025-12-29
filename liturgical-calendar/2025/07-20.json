@@ -1,0 +1,12 @@
+{
+  "date": "2025-07-20",
+  "monthDay": "7/20",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Apollinaris",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/07-20.json",
+  "celebration": {
+    "name": "Apollinaris",
+    "type": "Optional Memorial",
+    "quote": "Christ is my life, and death is my gain.",
+    "description": "First bishop of Ravenna, martyred for the faith."
+  }
+}

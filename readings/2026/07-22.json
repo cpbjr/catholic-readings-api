@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-22",
+  "monthDay": "7/22",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Song of Songs 3:1-4b",
+    "psalm": "Psalm 63:2, 3-4, 5-6, 8-9",
+    "gospel": "John 20:1-2, 11-18"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/072226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-22.json"
+}

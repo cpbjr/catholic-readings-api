@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-18",
+  "monthDay": "6/18",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Sirach 48:1-14",
+    "psalm": "Psalm 97:1-2, 3-4, 5-6, 7",
+    "gospel": "Matthew 6:7-15"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/061826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/06-18.json"
+}

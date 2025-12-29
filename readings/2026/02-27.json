@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-27",
+  "monthDay": "2/27",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Ezekiel 18:21-28",
+    "psalm": "Psalm 130:1-2, 3-4, 5-7a, 7bc-8",
+    "gospel": "Matthew 5:20-26"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/022726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-27.json"
+}

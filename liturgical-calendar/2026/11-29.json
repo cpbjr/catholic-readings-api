@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-29",
+  "monthDay": "11/29",
+  "season": "Advent",
+  "celebration": {
+    "name": "1st Sunday of Advent",
+    "type": "SUNDAY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/11-29.json"
+}

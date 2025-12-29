@@ -1,0 +1,12 @@
+{
+  "date": "2025-06-30",
+  "monthDay": "6/30",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/First_Martyrs_of_Rome",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/06-30.json",
+  "celebration": {
+    "name": "First Martyrs of Rome",
+    "type": "Optional Memorial",
+    "quote": "We would rather die than deny Christ.",
+    "description": "Christians killed by Nero after the great fire of Rome in 64 AD."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-10",
+  "monthDay": "7/10",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Hosea 14:2-10",
+    "psalm": "Psalm 51:3-4, 8-9, 12-13, 14, 17",
+    "gospel": "Matthew 10:16-23"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/071026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-10.json"
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2026-03-19",
+  "monthDay": "3/19",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "2 Samuel 7:4-5a, 12-14a, 16",
+    "psalm": "Psalm 89:2-3, 4-5, 27 and 29",
+    "secondReading": "Romans 4:13, 16-18, 22",
+    "gospel": "Matthew 1:16, 18-21, 24a"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/031926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-19.json"
+}

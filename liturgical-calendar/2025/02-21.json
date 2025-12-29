@@ -1,0 +1,12 @@
+{
+  "date": "2025-02-21",
+  "monthDay": "2/21",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Peter_Damian",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/02-21.json",
+  "celebration": {
+    "name": "Peter Damian",
+    "type": "Optional Memorial",
+    "quote": "The hermitage is a school of heavenly doctrine.",
+    "description": "Cardinal, Doctor of the Church, reformer of Church discipline and clerical life."
+  }
+}

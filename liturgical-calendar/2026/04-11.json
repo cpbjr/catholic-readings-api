@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-11",
+  "monthDay": "4/11",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "Easter Saturday",
+    "type": "SOLEMNITY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/04-11.json"
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2026-02-02",
+  "monthDay": "2/2",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Malachi 3:1-4",
+    "psalm": "Psalm 24:7, 8, 9, 10",
+    "secondReading": "Hebrews 2:14-18",
+    "gospel": "Luke 2:22-40 or 2:22-32"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/020226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-02.json"
+}

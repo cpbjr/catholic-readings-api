@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-17",
+  "monthDay": "9/17",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Robert_Bellarmine",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/09-17.json",
+  "celebration": {
+    "name": "Robert Bellarmine",
+    "type": "Optional Memorial",
+    "quote": "The mark of the true Church is that she suffers persecution.",
+    "description": "Jesuit cardinal, Doctor of the Church, defender of the faith."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-24",
+  "monthDay": "11/24",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Revelation 14:14-19",
+    "psalm": "Psalm 96:10, 11-12, 13",
+    "gospel": "Luke 21:5-11"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/112426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/11-24.json"
+}

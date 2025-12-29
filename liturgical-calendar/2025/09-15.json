@@ -1,0 +1,12 @@
+{
+  "date": "2025-09-15",
+  "monthDay": "9/15",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Our_Lady_of_Sorrows",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/09-15.json",
+  "celebration": {
+    "name": "Our Lady of Sorrows",
+    "type": "Memorial",
+    "quote": "O all you who pass by, see if there is any sorrow like my sorrow.",
+    "description": "Honors Mary's suffering as she stood by the Cross."
+  }
+}

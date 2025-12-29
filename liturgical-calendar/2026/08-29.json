@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-29",
+  "monthDay": "8/29",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "The Beheading of Saint John the Baptist, Martyr",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-29.json"
+}

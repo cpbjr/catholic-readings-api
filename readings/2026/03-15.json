@@ -1,0 +1,13 @@
+{
+  "date": "2026-03-15",
+  "monthDay": "3/15",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "1 Samuel 16:1b, 6-7, 10-13a",
+    "psalm": "Psalm 23: 1-3a, 3b-4, 5, 6",
+    "secondReading": "Ephesians 5:8-14",
+    "gospel": "John 9:1-41"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/031526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/03-15.json"
+}

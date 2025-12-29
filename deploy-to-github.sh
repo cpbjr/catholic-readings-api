@@ -4,7 +4,7 @@ echo "🚀 Deploying Catholic Readings API to GitHub..."
 echo "================================================"
 
 # Navigate to the API directory
-cd "/home/cpbjr/Documents/AI Automation/Daily Summary/catholic-readings-api"
+cd "/home/cpbjr/Documents/AI_Automation/Projects/Daily Summary/catholic-readings-api"
 
 # Initialize git repository
 echo "📁 Initializing git repository..."
@@ -20,7 +20,7 @@ git commit -m "Add Catholic Readings API with complete 2025 liturgical data
 
 🙏 Features:
 - 43 daily Mass readings (August-December 2025) 
-- 204 saints and feast days throughout the year
+- 204 celebrations and feast days throughout the year
 - Complete JSON API with USCCB verification links
 - Beautiful documentation website
 - MIT License for maximum adoption
@@ -58,7 +58,7 @@ echo "================================================"
 echo "🌐 API Base URL: https://cpbjr.github.io/catholic-readings-api/"
 echo "📖 Documentation: https://cpbjr.github.io/catholic-readings-api/"
 echo "📊 Sample Reading: https://cpbjr.github.io/catholic-readings-api/readings/2025/09-07.json"
-echo "👑 Sample Saint: https://cpbjr.github.io/catholic-readings-api/saints/2025/09-08.json"
+echo "👑 Sample Celebration: https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/09-08.json"
 echo ""
 echo "🔧 Next Steps:"
 echo "1. Go to your GitHub repo → Settings → Pages"

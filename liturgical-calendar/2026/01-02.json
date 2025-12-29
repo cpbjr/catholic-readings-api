@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-02",
+  "monthDay": "1/2",
+  "season": "Christmas",
+  "celebration": {
+    "name": "Saints Basil the Great and Gregory Nazianzen, Bishops and Doctors",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-02.json"
+}

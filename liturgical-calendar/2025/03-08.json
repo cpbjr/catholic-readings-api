@@ -1,0 +1,12 @@
+{
+  "date": "2025-03-08",
+  "monthDay": "3/8",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/John_of_God",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/03-08.json",
+  "celebration": {
+    "name": "John of God",
+    "type": "Optional Memorial",
+    "quote": "Work hard, brothers, for love of God.",
+    "description": "Founded the Brothers Hospitallers to care for the sick and poor."
+  }
+}

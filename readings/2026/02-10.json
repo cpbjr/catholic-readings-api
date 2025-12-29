@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-10",
+  "monthDay": "2/10",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Kings 8:22-23, 27-30",
+    "psalm": "Psalm 84:3, 4, 5 and 10, 11",
+    "gospel": "Mark 7:1-13"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/021026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-10.json"
+}

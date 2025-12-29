@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-23",
+  "monthDay": "2/23",
+  "season": "Lent",
+  "celebration": {
+    "name": "Saint Polycarp, Bishop and Martyr",
+    "type": "COMMEMORATION",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/02-23.json"
+}

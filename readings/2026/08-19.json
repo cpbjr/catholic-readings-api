@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-19",
+  "monthDay": "8/19",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ezekiel 34:1-11",
+    "psalm": "Psalm 23:1-3a, 3b-4, 5, 6",
+    "gospel": "Matthew 20:1-16"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/081926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-19.json"
+}

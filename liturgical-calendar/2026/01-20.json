@@ -1,0 +1,12 @@
+{
+  "date": "2026-01-20",
+  "monthDay": "1/20",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saints Fabian, Pope, and Sebastian, Martyrs",
+    "type": "OPT_MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-20.json"
+}

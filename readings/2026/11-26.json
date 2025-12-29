@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-26",
+  "monthDay": "11/26",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Sirach 50:22-24",
+    "psalm": "Psalm 145:2-3, 4-5, 6-7, 8-9, 10-11",
+    "secondReading": "1 Corinthians 1:3-9",
+    "gospel": "Luke 17:11-19"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/112626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/11-26.json"
+}

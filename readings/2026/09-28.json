@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-28",
+  "monthDay": "9/28",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Job 1:6-22",
+    "psalm": "Psalm 17:1bcd, 2-3, 6-7",
+    "gospel": "Luke 9:46-50"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/092826.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-28.json"
+}

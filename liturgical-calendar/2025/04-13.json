@@ -1,0 +1,12 @@
+{
+  "date": "2025-04-13",
+  "monthDay": "4/13",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Martin_I",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/04-13.json",
+  "celebration": {
+    "name": "Martin I",
+    "type": "Optional Memorial",
+    "quote": "May God forgive them, for they know not what they do.",
+    "description": "Pope and martyr who defended orthodox Christology against Monothelitism."
+  }
+}

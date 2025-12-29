@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-29",
+  "monthDay": "4/29",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 12:24—13:5a",
+    "psalm": "Psalm 67:2-3, 5, 6 and 8",
+    "gospel": "John 12:44-50"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/042926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/04-29.json"
+}

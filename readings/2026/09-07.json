@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-07",
+  "monthDay": "9/7",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Corinthians 5:1-8",
+    "psalm": "Psalm 5:5-6, 7, 12",
+    "gospel": "Luke 6:6-11"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/090726.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-07.json"
+}

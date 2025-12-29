@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-23",
+  "monthDay": "7/23",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Bridget of Sweden, Religious, Patron of Europe",
+    "type": "FEAST",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-23.json"
+}

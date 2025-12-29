@@ -1,0 +1,12 @@
+{
+  "date": "2025-07-01",
+  "monthDay": "7/1",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Junipero_Serra",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/07-01.json",
+  "celebration": {
+    "name": "Junipero Serra",
+    "type": "Optional Memorial",
+    "quote": "Always go forward, never turn back.",
+    "description": "Franciscan missionary who founded the California missions."
+  }
+}

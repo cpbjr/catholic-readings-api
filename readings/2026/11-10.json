@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-10",
+  "monthDay": "11/10",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Titus 2:1-8, 11-14",
+    "psalm": "Psalm 37:3-4, 18 and 23, 27 and 29",
+    "gospel": "Luke 17:7-10"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/111026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/11-10.json"
+}

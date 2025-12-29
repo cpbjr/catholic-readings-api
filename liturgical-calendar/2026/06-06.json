@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-06",
+  "monthDay": "6/6",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Norbert, Bishop",
+    "type": "OPT_MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/06-06.json"
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-25",
+  "monthDay": "10/25",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Exodus 22:20-26",
+    "psalm": "Psalm 18:2-3, 3-4, 47, 51",
+    "secondReading": "1 Thessalonians 1:5c-10",
+    "gospel": "Matthew 22:34-40"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/102526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-25.json"
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2026-08-30",
+  "monthDay": "8/30",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Jeremiah 20:7-9",
+    "psalm": "Psalm 63:2, 3-4, 5-6, 8-9",
+    "secondReading": "Romans 12:1-2",
+    "gospel": "Matthew 16:21-27"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/083026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-30.json"
+}

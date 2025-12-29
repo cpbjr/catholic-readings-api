@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-14",
+  "monthDay": "7/14",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Isaiah 7:1-9",
+    "psalm": "Psalm 48:2-3a, 3b-4, 5-6, 7-8",
+    "gospel": "Matthew 11:20-24"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/071426.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/07-14.json"
+}

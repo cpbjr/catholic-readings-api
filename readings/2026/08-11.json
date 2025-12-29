@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-11",
+  "monthDay": "8/11",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ezekiel 2:8-3:4",
+    "psalm": "Psalm 119:14, 24, 72, 103, 111, 131",
+    "gospel": "Matthew 18:1-5, 10, 12-14"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/081126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-11.json"
+}

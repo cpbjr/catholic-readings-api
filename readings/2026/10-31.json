@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-31",
+  "monthDay": "10/31",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Philippians 1:18b-26",
+    "psalm": "Psalm 42:2, 3, 5cdef",
+    "gospel": "Luke 14:1, 7-11"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/103126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-31.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-09",
+  "monthDay": "12/9",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Isaiah 40:25-31",
+    "psalm": "Psalm 103:1-2, 3-4, 8 and 10",
+    "gospel": "Matthew 11:28-30"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/120926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/12-09.json"
+}

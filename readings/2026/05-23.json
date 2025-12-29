@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-23",
+  "monthDay": "5/23",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 28:16-20, 30-31",
+    "psalm": "Psalm 11:4, 5 and 7",
+    "gospel": "John 21:20-25"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/052326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/05-23.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-15",
+  "monthDay": "2/15",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "6th Sunday of Ordinary Time",
+    "type": "SUNDAY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/02-15.json"
+}

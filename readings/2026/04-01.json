@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-01",
+  "monthDay": "4/1",
+  "season": "Holy Week",
+  "readings": {
+    "firstReading": "Isaiah 50:4-9a",
+    "psalm": "Psalm 69:8-10, 21-22, 31 and 33-34",
+    "gospel": "Matthew 26:14-25"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/040126.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/04-01.json"
+}

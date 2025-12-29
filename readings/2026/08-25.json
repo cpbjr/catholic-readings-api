@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-25",
+  "monthDay": "8/25",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Thessalonians 2:1-3a, 14-17",
+    "psalm": "Psalm 96:10, 11-12, 13",
+    "gospel": "Matthew 23:23-26"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/082526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-25.json"
+}

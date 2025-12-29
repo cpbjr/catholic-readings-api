@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-10",
+  "monthDay": "4/10",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 4:1-12",
+    "psalm": "Psalm 118:1-2 and 4, 22-24, 25-27a",
+    "gospel": "John 21:1-14"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/041026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/04-10.json"
+}

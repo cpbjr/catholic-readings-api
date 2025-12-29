@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-10",
+  "monthDay": "8/10",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Corinthians 9:6-10",
+    "psalm": "Psalm 112:1-2, 5-6, 7-8, 9",
+    "gospel": "John 12:24-26"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/081026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-10.json"
+}

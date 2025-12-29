@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-14",
+  "monthDay": "10/14",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Callistus I, Pope and Martyr",
+    "type": "OPT_MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/10-14.json"
+}

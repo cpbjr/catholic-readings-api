@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-24",
+  "monthDay": "8/24",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Bartholomew",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/08-24.json",
+  "celebration": {
+    "name": "Bartholomew",
+    "type": "Feast",
+    "quote": "Rabbi, you are the Son of God! You are the King of Israel!",
+    "description": "One of the twelve apostles, also called Nathanael, traditionally martyred in Armenia."
+  }
+}

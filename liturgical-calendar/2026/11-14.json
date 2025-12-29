@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-14",
+  "monthDay": "11/14",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saturday of the 32nd week of Ordinary Time",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/11-14.json"
+}

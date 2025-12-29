@@ -1,0 +1,12 @@
+{
+  "date": "2025-06-06",
+  "monthDay": "6/6",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Norbert",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/06-06.json",
+  "celebration": {
+    "name": "Norbert",
+    "type": "Optional Memorial",
+    "quote": "Jesus Christ, and him crucified.",
+    "description": "Founded the Premonstratensians, reformed clergy, bishop of Magdeburg."
+  }
+}

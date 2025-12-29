@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-22",
+  "monthDay": "12/22",
+  "season": "Advent",
+  "celebration": {
+    "name": "Tuesday of the 4th week of Advent",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-22.json"
+}

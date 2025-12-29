@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-05",
+  "monthDay": "2/5",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Kings 2:1-4, 10-12",
+    "psalm": "1 Chronicles 29:10, 11ab, 11d-12a, 12bcd",
+    "gospel": "Mark 6:7-13"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/020526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-05.json"
+}

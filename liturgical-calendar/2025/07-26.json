@@ -1,0 +1,12 @@
+{
+  "date": "2025-07-26",
+  "monthDay": "7/26",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Joachim_and_Anne",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/07-26.json",
+  "celebration": {
+    "name": "Joachim and Anne",
+    "type": "Memorial",
+    "quote": "The fruit of your womb will be blessed.",
+    "description": "Parents of the Blessed Virgin Mary."
+  }
+}

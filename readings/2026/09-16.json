@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-16",
+  "monthDay": "9/16",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Corinthians 12:31-13:13",
+    "psalm": "Psalm 33:2-3, 4-5, 12 and 22",
+    "gospel": "Luke 7:31-35"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/091626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-16.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-29",
+  "monthDay": "12/29",
+  "season": "Christmas",
+  "celebration": {
+    "name": "Saint Thomas Becket, Bishop and Martyr",
+    "type": "OPT_MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-29.json"
+}

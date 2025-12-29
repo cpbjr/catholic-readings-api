@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-25",
+  "monthDay": "6/25",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Kings 24:8-17",
+    "psalm": "Psalm 79:1b-2, 3-5, 8, 9",
+    "gospel": "Matthew 7:21-29"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/062526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/06-25.json"
+}

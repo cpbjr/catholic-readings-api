@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-30",
+  "monthDay": "9/30",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Job 9:1-12, 14-16",
+    "psalm": "Psalm 88:10bc-11, 12-13, 14-15",
+    "gospel": "Luke 9:57-62"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/093026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-30.json"
+}

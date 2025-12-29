@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-29",
+  "monthDay": "5/29",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Peter 4:7-13",
+    "psalm": "Psalm 96:10, 11-12, 13",
+    "gospel": "Mark 11:11-26"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/052926.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/05-29.json"
+}

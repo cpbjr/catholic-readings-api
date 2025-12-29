@@ -1,0 +1,12 @@
+{
+  "date": "2026-03-09",
+  "monthDay": "3/9",
+  "season": "Lent",
+  "celebration": {
+    "name": "Saint Frances of Rome, Religious",
+    "type": "COMMEMORATION",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/03-09.json"
+}

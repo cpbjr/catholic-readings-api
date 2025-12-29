@@ -1,0 +1,12 @@
+{
+  "date": "2026-02-25",
+  "monthDay": "2/25",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Jonah 3:1-10",
+    "psalm": "Psalm 51:3-4, 12-13, 18-19",
+    "gospel": "Luke 11:29-32"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/022526.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/02-25.json"
+}

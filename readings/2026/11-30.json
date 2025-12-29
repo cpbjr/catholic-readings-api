@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-30",
+  "monthDay": "11/30",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Romans 10:9-18",
+    "psalm": "Psalm 19:8, 9, 10, 11",
+    "gospel": "Matthew 4:18-22"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/113026.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/11-30.json"
+}

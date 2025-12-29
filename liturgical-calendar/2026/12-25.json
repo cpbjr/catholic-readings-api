@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-25",
+  "monthDay": "12/25",
+  "season": "Christmas",
+  "celebration": {
+    "name": "Christmas",
+    "type": "SOLEMNITY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-25.json"
+}

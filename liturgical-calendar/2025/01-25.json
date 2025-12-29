@@ -1,0 +1,12 @@
+{
+  "date": "2025-01-25",
+  "monthDay": "1/25",
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Conversion_of_Paul",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/01-25.json",
+  "celebration": {
+    "name": "Conversion of Paul",
+    "type": "Feast",
+    "quote": "It is no longer I who live, but Christ who lives in me.",
+    "description": "Celebrates Paul's dramatic conversion on the road to Damascus from persecutor to apostle."
+  }
+}

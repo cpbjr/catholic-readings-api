@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-13",
+  "monthDay": "8/13",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ezekiel 12:1-12",
+    "psalm": "Psalm 78:56-57, 58-59, 61-62",
+    "gospel": "Matthew 18:21–19:1"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/081326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/08-13.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-13",
+  "monthDay": "10/13",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Galatians 5:1-6",
+    "psalm": "Psalm 119:41, 43, 44, 45, 47, 48",
+    "gospel": "Luke 11:37-41"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/101326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/10-13.json"
+}

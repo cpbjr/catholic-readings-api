@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-26",
+  "monthDay": "9/26",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ecclesiastes 11:9—12:8",
+    "psalm": "Psalm 90:3-4, 5-6, 12-13, 14 and 17",
+    "gospel": "Luke 9:43b-45"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/092626.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-26.json"
+}

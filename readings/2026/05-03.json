@@ -1,0 +1,13 @@
+{
+  "date": "2026-05-03",
+  "monthDay": "5/3",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 6:1-7",
+    "psalm": "Psalm 33:1-2, 4-5, 18-19",
+    "secondReading": "1 Peter 2:4-9",
+    "gospel": "John 14:1-12"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/050326.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/05-03.json"
+}

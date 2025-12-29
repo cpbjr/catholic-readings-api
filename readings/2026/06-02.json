@@ -1,0 +1,11 @@
+{
+  "date": "2026-06-02",
+  "monthDay": "6/2",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Peter 3:12-15a, 17-18",
+    "gospel": "Mark 12:13-17"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/060226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/06-02.json"
+}

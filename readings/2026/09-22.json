@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-22",
+  "monthDay": "9/22",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Proverbs 21:1-6, 10-13",
+    "psalm": "Psalm 119:1, 27, 30, 34, 35, 44",
+    "gospel": "Luke 8:19-21"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/092226.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2026/09-22.json"
+}
