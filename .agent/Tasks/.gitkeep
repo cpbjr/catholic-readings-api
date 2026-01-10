@@ -1,0 +1,10 @@
+# Tasks Directory
+
+This directory contains work items, features, and product requirements.
+
+**Typical files:**
+- `current-sprint.md` - Active work with checkboxes
+- `backlog.md` - Future features and ideas
+- `product-requirements.md` - PRD
+
+Create files as needed for your project.
