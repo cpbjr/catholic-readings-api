@@ -6,7 +6,8 @@
     "name": "Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs",
     "type": "MEMORIAL",
     "quote": "Let us relieve burdens and afflictions by mutual love.",
-    "description": "A Pope who advocated for the reconciliation of those who had lapsed during persecution and was eventually martyred."
+    "description": "A Pope who advocated for the reconciliation of those who had lapsed during persecution and was eventually martyred.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pope_Cornelius.jpg/500px-Pope_Cornelius.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/09-16.json"
 }

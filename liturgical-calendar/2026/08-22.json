@@ -6,7 +6,8 @@
     "name": "Queenship of Blessed Virgin Mary",
     "type": "MEMORIAL",
     "quote": "",
-    "description": ""
+    "description": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/William-Adolphe_Bouguereau_%281825-1905%29_-_The_Virgin_With_Angels_%281900%29.jpg/500px-William-Adolphe_Bouguereau_%281825-1905%29_-_The_Virgin_With_Angels_%281900%29.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-22.json"
 }
