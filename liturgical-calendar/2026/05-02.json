@@ -6,7 +6,8 @@
     "name": "Saint Athanasius, Bishop and Doctor",
     "type": "MEMORIAL",
     "quote": "The Son of God became man so that we might become God.",
-    "description": "The 'Hammer of Orthodoxy' who defended the divinity of Christ against Arianism during five periods of exile."
+    "description": "The 'Hammer of Orthodoxy' who defended the divinity of Christ against Arianism during five periods of exile.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hosios_Loukas_Crypt_%28south_east_groin-vault%29_-_Athanasios.jpg/500px-Hosios_Loukas_Crypt_%28south_east_groin-vault%29_-_Athanasios.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/05-02.json"
 }

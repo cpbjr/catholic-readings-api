@@ -6,7 +6,8 @@
     "name": "Saint Bonaventure, Bishop and Doctor",
     "type": "MEMORIAL",
     "quote": "The best way to know God is to love Him.",
-    "description": "The 'Seraphic Doctor,' he was a Franciscan theologian, philosopher, and Cardinal who served as Minister General of his order."
+    "description": "The 'Seraphic Doctor,' he was a Franciscan theologian, philosopher, and Cardinal who served as Minister General of his order.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Fran%C3%A7ois%2C_Claude_%28dit_Fr%C3%A8re_Luc%29_-_Saint_Bonaventure.jpg/500px-Fran%C3%A7ois%2C_Claude_%28dit_Fr%C3%A8re_Luc%29_-_Saint_Bonaventure.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-15.json"
 }

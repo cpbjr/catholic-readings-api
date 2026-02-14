@@ -6,7 +6,8 @@
     "name": "Saint Ignatius of Antioch, Bishop and Martyr",
     "type": "MEMORIAL",
     "quote": "Wherever the bishop appears, there let the people be.",
-    "description": "A disciple of St. John, he was martyred in Rome, leaving behind letters emphasizing Church unity and the Eucharist."
+    "description": "A disciple of St. John, he was martyred in Rome, leaving behind letters emphasizing Church unity and the Eucharist.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hosios_Loukas_%28south_west_chapel%2C_south_side%29_-_Ignatios.jpg/500px-Hosios_Loukas_%28south_west_chapel%2C_south_side%29_-_Ignatios.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/10-17.json"
 }

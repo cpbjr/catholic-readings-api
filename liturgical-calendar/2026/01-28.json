@@ -6,7 +6,8 @@
     "name": "Saint Thomas Aquinas, Priest and Doctor",
     "type": "MEMORIAL",
     "quote": "To one who has faith, no explanation is necessary.",
-    "description": "The 'Angelic Doctor,' his monumental 'Summa Theologiae' remains a foundational work of theology."
+    "description": "The 'Angelic Doctor,' his monumental 'Summa Theologiae' remains a foundational work of theology.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/St-thomas-aquinasFXD.jpg/500px-St-thomas-aquinasFXD.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-28.json"
 }

@@ -6,7 +6,8 @@
     "name": "Saint Francis de Sales, Bishop and Doctor",
     "type": "MEMORIAL",
     "quote": "Nothing is so strong as gentleness, nothing so gentle as real strength.",
-    "description": "Bishop of Geneva and a Doctor of the Church, he is the patron of writers and journalists, known for his gentleness."
+    "description": "Bishop of Geneva and a Doctor of the Church, he is the patron of writers and journalists, known for his gentleness.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ch%C3%A2teau_de_Bussy-Rabutin_-_Saint_Fran%C3%A7ois_de_Sales%2C_%C3%A9v%C3%AAque_de_Gen%C3%A8ve_%28bgw19_0375%29_%28cropped%29.jpg/500px-Ch%C3%A2teau_de_Bussy-Rabutin_-_Saint_Fran%C3%A7ois_de_Sales%2C_%C3%A9v%C3%AAque_de_Gen%C3%A8ve_%28bgw19_0375%29_%28cropped%29.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-24.json"
 }

@@ -6,7 +6,8 @@
     "name": "Saints Charles Lwanga and Companions, Martyrs",
     "type": "MEMORIAL",
     "quote": "A Christian who is convinced that his life is in the hands of God has no reason to fear.",
-    "description": "A young catechist in Uganda who was martyred along with his companions for their refusal to compromise their faith and purity."
+    "description": "A young catechist in Uganda who was martyred along with his companions for their refusal to compromise their faith and purity.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Karoli_Lwanga_and_his_followers.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/06-03.json"
 }

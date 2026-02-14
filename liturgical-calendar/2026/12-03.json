@@ -6,7 +6,8 @@
     "name": "Saint Francis Xavier, Priest",
     "type": "MEMORIAL",
     "quote": "Give me the children until they are seven, and anyone may have them afterward.",
-    "description": "A founding member of the Jesuits and patron of missionaries, he spent his life evangelizing in Asia."
+    "description": "A founding member of the Jesuits and patron of missionaries, he spent his life evangelizing in Asia.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Franciscus_de_Xabier.jpg/500px-Franciscus_de_Xabier.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-03.json"
 }

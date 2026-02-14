@@ -6,7 +6,8 @@
     "name": "Saint Ambrose, Bishop and Doctor",
     "type": "MEMORIAL",
     "quote": "Where the Church is, there is no death, but life eternal.",
-    "description": "Bishop of Milan and Doctor of the Church who baptized St. Augustine and defended the Church's independence from the state."
+    "description": "Bishop of Milan and Doctor of the Church who baptized St. Augustine and defended the Church's independence from the state.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/AmbroseOfMilan_%28cropped%29.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/12-07.json"
 }

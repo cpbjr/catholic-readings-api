@@ -6,7 +6,8 @@
     "name": "Saint Augustine of Hippo, Bishop and Doctor of the Church",
     "type": "MEMORIAL",
     "quote": "Thou hast made us for thyself, O Lord, and our heart is restless until it finds its rest in thee.",
-    "description": "One of the most influential theologians, his conversion and writings like 'Confessions' shaped Western Christianity."
+    "description": "One of the most influential theologians, his conversion and writings like 'Confessions' shaped Western Christianity.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg/500px-Saint_Augustine_by_Philippe_de_Champaigne.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-28.json"
 }

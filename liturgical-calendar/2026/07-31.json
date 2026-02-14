@@ -6,7 +6,8 @@
     "name": "Saint Ignatius of Loyola, Priest",
     "type": "MEMORIAL",
     "quote": "Lord, teach me to be generous. Teach me to serve you as you deserve.",
-    "description": "A soldier turned spiritual master, he founded the Society of Jesus (Jesuits) and wrote the 'Spiritual Exercises'."
+    "description": "A soldier turned spiritual master, he founded the Society of Jesus (Jesuits) and wrote the 'Spiritual Exercises'.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ignatius_Loyola.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-31.json"
 }

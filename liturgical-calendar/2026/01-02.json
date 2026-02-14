@@ -6,7 +6,8 @@
     "name": "Saints Basil the Great and Gregory Nazianzen, Bishops and Doctors",
     "type": "MEMORIAL",
     "quote": "When someone steals another's clothes, we call them a thief. Should we not give the same name to one who could clothe the naked and does not?",
-    "description": "A pivotal figure of the early Church, instrumental in combating Arianism and organizing famine relief. His principles significantly influenced Eastern monasticism."
+    "description": "A pivotal figure of the early Church, instrumental in combating Arianism and organizing famine relief. His principles significantly influenced Eastern monasticism.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Basil_of_Caesarea.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-02.json"
 }

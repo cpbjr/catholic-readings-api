@@ -6,7 +6,8 @@
     "name": "Saint Pius X, Pope",
     "type": "MEMORIAL",
     "quote": "Holy Communion is the shortest and safest way to Heaven.",
-    "description": "Known for his motto 'To restore all things in Christ,' he promoted frequent Holy Communion and fought Modernism."
+    "description": "Known for his motto 'To restore all things in Christ,' he promoted frequent Holy Communion and fought Modernism.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pius_X%2C_by_Ernest_Walter_Histed_%28retouched%29.jpg/500px-Pius_X%2C_by_Ernest_Walter_Histed_%28retouched%29.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-21.json"
 }

@@ -6,7 +6,8 @@
     "name": "Saint Charles Borromeo, Bishop",
     "type": "MEMORIAL",
     "quote": "Be sure that you first preach by the way you live.",
-    "description": "Archbishop of Milan and key figure in the Catholic Reformation, known for his pastoral zeal and implementation of Church reforms."
+    "description": "Archbishop of Milan and key figure in the Catholic Reformation, known for his pastoral zeal and implementation of Church reforms.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Carlo_Borromeo.jpg/500px-Carlo_Borromeo.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/11-04.json"
 }

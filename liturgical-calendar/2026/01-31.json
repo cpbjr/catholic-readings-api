@@ -6,7 +6,8 @@
     "name": "Saint John Bosco, Priest",
     "type": "MEMORIAL",
     "quote": "Run, jump, shout, but do not sin.",
-    "description": "The 'Father and Teacher of Youth,' he founded the Salesians to care for and educate young people, especially the poor and abandoned."
+    "description": "The 'Father and Teacher of Youth,' he founded the Salesians to care for and educate young people, especially the poor and abandoned.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Don_Bosco_%40_Torino%2C_1880_%28original%29.jpg/500px-Don_Bosco_%40_Torino%2C_1880_%28original%29.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-31.json"
 }

@@ -6,7 +6,8 @@
     "name": "Saint Leo the Great, Pope and Doctor",
     "type": "MEMORIAL",
     "quote": "Christian, recognize your dignity and, now that you share in God’s own nature, do not return to your former base condition by sinning.",
-    "description": "A powerful Pope and Doctor of the Church who defended the city of Rome from Attila the Hun and clarified the two natures of Christ."
+    "description": "A powerful Pope and Doctor of the Church who defended the city of Rome from Attila the Hun and clarified the two natures of Christ.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Herrera_mozo_San_Le%C3%B3n_magno_Lienzo._%C3%93valo._164_x_105_cm._Museo_del_Prado.png/500px-Herrera_mozo_San_Le%C3%B3n_magno_Lienzo._%C3%93valo._164_x_105_cm._Museo_del_Prado.png"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/11-10.json"
 }

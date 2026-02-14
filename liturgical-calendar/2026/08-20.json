@@ -6,7 +6,8 @@
     "name": "Saint Bernard of Clairvaux, Abbot and Doctor of the Church",
     "type": "MEMORIAL",
     "quote": "The measure of loving God is to love Him without measure.",
-    "description": "A Cistercian abbot and Doctor of the Church whose preaching and writings significantly influenced medieval spirituality."
+    "description": "A Cistercian abbot and Doctor of the Church whose preaching and writings significantly influenced medieval spirituality.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/San_Bernardo%2C_de_Juan_Correa_de_Vivar_%28Museo_del_Prado%29.jpg/500px-San_Bernardo%2C_de_Juan_Correa_de_Vivar_%28Museo_del_Prado%29.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-20.json"
 }

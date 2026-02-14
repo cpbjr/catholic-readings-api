@@ -6,7 +6,8 @@
     "name": "Saint Benedict of Nursia, Abbot, Patron of Europe",
     "type": "MEMORIAL",
     "quote": "Prayer and work. (Ora et labora)",
-    "description": "The 'Father of Western Monasticism,' he founded the monastery at Monte Cassino and wrote the famous Rule of St. Benedict."
+    "description": "The 'Father of Western Monasticism,' he founded the monastery at Monte Cassino and wrote the famous Rule of St. Benedict.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Memling%2C_Trittico_di_Benedetto_Portinari%2C_San_Benedetto.jpg/500px-Memling%2C_Trittico_di_Benedetto_Portinari%2C_San_Benedetto.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-11.json"
 }

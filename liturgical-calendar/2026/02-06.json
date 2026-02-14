@@ -6,7 +6,8 @@
     "name": "Saint Paul Miki and Companions, Martyrs",
     "type": "MEMORIAL",
     "quote": "My religion teaches me to pardon my enemies and all who have offended me.",
-    "description": "A Japanese Jesuit who was crucified in Nagasaki, preaching the Gospel and forgiving his executioners from the cross."
+    "description": "A Japanese Jesuit who was crucified in Nagasaki, preaching the Gospel and forgiving his executioners from the cross.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bamberg_St_Martin_Figur_Paul_Miki.jpg/500px-Bamberg_St_Martin_Figur_Paul_Miki.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/02-06.json"
 }

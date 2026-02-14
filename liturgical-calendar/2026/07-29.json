@@ -6,7 +6,8 @@
     "name": "Saint Martha",
     "type": "MEMORIAL",
     "quote": "Yes, Lord. I have come to believe that you are the Christ, the Son of God.",
-    "description": "A close friend of Jesus and sister of Mary and Lazarus, known for her hospitality and her firm profession of faith in the Resurrection."
+    "description": "A close friend of Jesus and sister of Mary and Lazarus, known for her hospitality and her firm profession of faith in the Resurrection.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project_%28cropped2%29.jpg/500px-Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project_%28cropped2%29.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-29.json"
 }

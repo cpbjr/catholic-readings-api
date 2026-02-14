@@ -14,6 +14,7 @@ To provide the Catholic developer community with reliable, free access to liturg
 
 - **Daily Mass Readings** - First Reading, Psalm, Second Reading (when applicable), Gospel
 - **Saints & Feast Days** - Complete calendar with quotes and biographical information
+- **Saint Images** - High-quality images from Wikipedia for memorial celebrations (2026+)
 - **Liturgical Seasons** - Ordinary Time, Advent, Christmas, Lent, Easter
 - **USCCB Verification Links** - Direct links to official USCCB readings
 - **Wikipedia Integration** - Research links for saints and feasts
@@ -71,24 +72,27 @@ GET /readings/2025/{MM-DD}.json
 
 #### Liturgical Calendar
 ```
-GET /liturgical-calendar/2025/{MM-DD}.json
+GET /liturgical-calendar/2026/{MM-DD}.json
 ```
 
-**Example Response:**
+**Example Response (Memorial with Saint Image):**
 ```json
 {
-  "date": "2025-09-08",
-  "monthDay": "9/8",
+  "date": "2026-01-31",
+  "monthDay": "1/31",
+  "season": "Ordinary Time",
   "celebration": {
-    "name": "Birth of Mary",
-    "type": "Feast",
-    "quote": "Rejoice, O highly favored daughter! The Lord is with you.",
-    "description": "Celebrates the birth of the Mother of God."
+    "name": "Saint John Bosco, Priest",
+    "type": "MEMORIAL",
+    "quote": "Run, jump, shout, but do not sin.",
+    "description": "The 'Father and Teacher of Youth,' he founded the Salesians to care for and educate young people, especially the poor and abandoned.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Don_Bosco_%40_Torino%2C_1880_%28original%29.jpg/500px-Don_Bosco_%40_Torino%2C_1880_%28original%29.jpg"
   },
-  "wikipediaLink": "https://en.wikipedia.org/wiki/Birth_of_Mary",
-  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2025/09-08.json"
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/01-31.json"
 }
 ```
+
+> **Note:** Memorial celebrations (2026 onwards) include an `image` field with a direct URL to a saint image from Wikipedia Commons when available. Images are 500px wide thumbnails.
 
 ## 💡 Use Cases
 

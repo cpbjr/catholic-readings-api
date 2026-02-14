@@ -6,7 +6,8 @@
     "name": "Saint Maximilian Mary Kolbe, Priest and Martyr",
     "type": "MEMORIAL",
     "quote": "No one in the world can change Truth. What we can do and should do is to seek truth and to serve it when we have found it.",
-    "description": "A Franciscan who gave his life for a fellow prisoner at Auschwitz, a martyr of charity and devotee of the Immaculata."
+    "description": "A Franciscan who gave his life for a fellow prisoner at Auschwitz, a martyr of charity and devotee of the Immaculata.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Fr.Maximilian_Kolbe_in_1936.jpg/500px-Fr.Maximilian_Kolbe_in_1936.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-14.json"
 }

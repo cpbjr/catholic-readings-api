@@ -6,7 +6,8 @@
     "name": "Our Lady of Sorrows",
     "type": "MEMORIAL",
     "quote": "",
-    "description": ""
+    "description": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Salamanca_-_Iglesia_de_la_Vera_Cruz_12.jpg/500px-Salamanca_-_Iglesia_de_la_Vera_Cruz_12.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/09-15.json"
 }

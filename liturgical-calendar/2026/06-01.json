@@ -6,7 +6,8 @@
     "name": "Saint Justin Martyr",
     "type": "MEMORIAL",
     "quote": "We worship the Creator of the universe, and we affirm that Jesus Christ is His Son.",
-    "description": "A philosopher who converted to Christianity and became its first great apologist, eventually martyred for refusing to sacrifice to idols."
+    "description": "A philosopher who converted to Christianity and became its first great apologist, eventually martyred for refusing to sacrifice to idols.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Saint_Justin_Martyr_by_Theophanes_the_Cretan.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/06-01.json"
 }

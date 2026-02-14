@@ -6,7 +6,8 @@
     "name": "Guardian Angels",
     "type": "MEMORIAL",
     "quote": "",
-    "description": ""
+    "description": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bernhard_Plockhorst_-_Schutzengel.jpg/500px-Bernhard_Plockhorst_-_Schutzengel.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/10-02.json"
 }

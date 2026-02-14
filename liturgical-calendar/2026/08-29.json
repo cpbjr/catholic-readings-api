@@ -6,7 +6,8 @@
     "name": "The Beheading of Saint John the Baptist, Martyr",
     "type": "MEMORIAL",
     "quote": "He must increase, but I must decrease.",
-    "description": "The precursor of Jesus who prepared the way of the Lord through his preaching of repentance and baptism in the Jordan."
+    "description": "The precursor of Jesus who prepared the way of the Lord through his preaching of repentance and baptism in the Jordan.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Salome_with_the_Head_of_John_the_Baptist-Caravaggio_%281610%29.jpg/500px-Salome_with_the_Head_of_John_the_Baptist-Caravaggio_%281610%29.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-29.json"
 }

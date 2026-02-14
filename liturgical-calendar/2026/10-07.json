@@ -6,7 +6,8 @@
     "name": "Our Lady of the Rosary",
     "type": "MEMORIAL",
     "quote": "",
-    "description": ""
+    "description": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/2017-03_Brescia_Mattes_Pana_%28111%29.JPG/500px-2017-03_Brescia_Mattes_Pana_%28111%29.JPG"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/10-07.json"
 }

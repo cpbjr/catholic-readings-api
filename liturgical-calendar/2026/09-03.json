@@ -6,7 +6,8 @@
     "name": "Saint Gregory the Great, Pope and Doctor of the Church",
     "type": "MEMORIAL",
     "quote": "Learn of the Heart of God in the Words of God.",
-    "description": "A monk who became one of the greatest Popes, he reformed the liturgy and sent missionaries to convert England."
+    "description": "A monk who became one of the greatest Popes, he reformed the liturgy and sent missionaries to convert England.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gregory_the_Great_with_the_Holy_Spirit.jpg/500px-Gregory_the_Great_with_the_Holy_Spirit.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/09-03.json"
 }

@@ -6,7 +6,8 @@
     "name": "Saint Martin of Tours, Bishop",
     "type": "MEMORIAL",
     "quote": "Lord, if your people still need me, I do not draw back from the labor. Your will be done.",
-    "description": "A Roman soldier who shared his cloak with a beggar, discovered to be Christ, and later became the beloved Bishop of Tours."
+    "description": "A Roman soldier who shared his cloak with a beggar, discovered to be Christ, and later became the beloved Bishop of Tours.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Simone_Martini_040.jpg/500px-Simone_Martini_040.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/11-11.json"
 }

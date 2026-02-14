@@ -6,7 +6,8 @@
     "name": "Saint Dominic, Priest",
     "type": "MEMORIAL",
     "quote": "Arm yourself with prayer rather than a sword; wear humility rather than fine clothes.",
-    "description": "Founder of the Dominicans who promoted study, prayer, and preaching to defend the faith against the Albigensian heresy."
+    "description": "Founder of the Dominicans who promoted study, prayer, and preaching to defend the faith against the Albigensian heresy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SaintDominic.jpg/500px-SaintDominic.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-08.json"
 }

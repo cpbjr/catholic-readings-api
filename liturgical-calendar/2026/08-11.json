@@ -6,7 +6,8 @@
     "name": "Saint Clare, Virgin",
     "type": "MEMORIAL",
     "quote": "We become what we love and who we love shapes what we become.",
-    "description": "A noblewoman who followed St. Francis and founded the Poor Clares, living a life of extreme poverty and contemplative prayer."
+    "description": "A noblewoman who followed St. Francis and founded the Poor Clares, living a life of extreme poverty and contemplative prayer.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Simone_Martini_047.jpg/500px-Simone_Martini_047.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/08-11.json"
 }
