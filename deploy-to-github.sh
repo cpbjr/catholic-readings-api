@@ -4,7 +4,7 @@ echo "🚀 Deploying Catholic Readings API to GitHub..."
 echo "================================================"
 
 # Navigate to the API directory
-cd "/home/cpbjr/Documents/AI_Automation/Projects/Daily Summary/catholic-readings-api"
+cd "/home/cpbjr/WhitePineTech/Projects/Daily Summary/catholic-readings-api"
 
 # Initialize git repository
 echo "📁 Initializing git repository..."
