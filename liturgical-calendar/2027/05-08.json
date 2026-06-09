@@ -1,0 +1,12 @@
+{
+  "date": "2027-05-08",
+  "monthDay": "5/8",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "Saturday of the 6th week of Easter",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/05-08.json"
+}

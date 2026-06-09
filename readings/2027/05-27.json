@@ -1,0 +1,12 @@
+{
+  "date": "2027-05-27",
+  "monthDay": "5/27",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Sirach 42:15-25",
+    "psalm": "Psalm 33:2-3, 4-5, 6-7, 8-9",
+    "gospel": "Mark 10:46-52"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/052727.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/05-27.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2027-03-11",
+  "monthDay": "3/11",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Exodus 32:7-14",
+    "psalm": "Psalm 106:19-20, 21-22, 23",
+    "gospel": "John 5:31-47"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/031127.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/03-11.json"
+}

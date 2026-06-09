@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Robert Bellarmine, Bishop and Doctor of the Church",
     "type": "OPT_MEMORIAL",
-    "quote": "Whoever finds God, finds everything; whoever loses God, loses everything.",
-    "description": "A Jesuit cardinal and scholar, he was a key figure in the Counter-Reformation, providing robust defenses of doctrine."
+    "quote": "",
+    "description": ""
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/09-17.json"
 }

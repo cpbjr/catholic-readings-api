@@ -1,0 +1,13 @@
+{
+  "date": "2027-10-04",
+  "monthDay": "10/4",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Francis of Assisi",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Philip_Fruytiers_-_St._Francis_of_Assisi.jpg/500px-Philip_Fruytiers_-_St._Francis_of_Assisi.jpg"
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/10-04.json"
+}

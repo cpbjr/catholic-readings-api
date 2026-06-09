@@ -1,0 +1,13 @@
+{
+  "date": "2027-09-26",
+  "monthDay": "9/26",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Numbers 11:25-29",
+    "psalm": "Psalm 19:8, 10, 12-13, 14",
+    "secondReading": "James 5:1-6",
+    "gospel": "Mark 9:38-43, 45, 47-48"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/092627.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/09-26.json"
+}

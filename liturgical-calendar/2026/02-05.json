@@ -5,9 +5,9 @@
   "celebration": {
     "name": "Saint Agatha, Virgin and Martyr",
     "type": "MEMORIAL",
-    "quote": "Jesus Christ, Lord of all, you see my heart, you know my desires; possess all that I am, you alone.",
-    "description": "A young virgin martyr in Sicily who bravely endured torture and death rather than sacrifice her faith or her purity.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Agatha_orthodox_icon.jpg"
+    "quote": "",
+    "description": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sant%27agata%2C_VII-inizio_VIII_secolo_ca.%2C_forse_da_s.m._antiqua_%28roma%2C_coll._priv.%29.jpg/500px-Sant%27agata%2C_VII-inizio_VIII_secolo_ca.%2C_forse_da_s.m._antiqua_%28roma%2C_coll._priv.%29.jpg"
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/02-05.json"
 }

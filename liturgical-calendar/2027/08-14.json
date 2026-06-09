@@ -1,0 +1,13 @@
+{
+  "date": "2027-08-14",
+  "monthDay": "8/14",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Maximilian Mary Kolbe, Priest and Martyr",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Fr.Maximilian_Kolbe_in_1936.jpg/500px-Fr.Maximilian_Kolbe_in_1936.jpg"
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/08-14.json"
+}

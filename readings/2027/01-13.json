@@ -1,0 +1,12 @@
+{
+  "date": "2027-01-13",
+  "monthDay": "1/13",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Hebrews 2:14-18",
+    "psalm": "Psalm 105:1-2, 3-4, 6-7, 8-9",
+    "gospel": "Mark 1:29-39"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/011327.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/01-13.json"
+}

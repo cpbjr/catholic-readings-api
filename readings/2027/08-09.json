@@ -1,0 +1,12 @@
+{
+  "date": "2027-08-09",
+  "monthDay": "8/9",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Deuteronomy 10:12-22",
+    "psalm": "Psalm 147:12-13, 14-15, 19-20",
+    "gospel": "Matthew 17:22-27"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/080927.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/08-09.json"
+}

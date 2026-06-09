@@ -1,0 +1,12 @@
+{
+  "date": "2027-09-16",
+  "monthDay": "9/16",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Timothy 4:12-16",
+    "psalm": "Psalm 111:7-8, 9, 10",
+    "gospel": "Luke 7:36-50"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/091627.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/09-16.json"
+}

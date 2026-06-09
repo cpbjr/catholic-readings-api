@@ -1,0 +1,12 @@
+{
+  "date": "2027-06-16",
+  "monthDay": "6/16",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Corinthians 9:6-11",
+    "psalm": "Psalm 112:1bc-2, 3-4, 9",
+    "gospel": "Matthew 6:1-6, 16-18"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/061627.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/06-16.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2027-07-26",
+  "monthDay": "7/26",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Exodus 32:15-24, 30-34",
+    "psalm": "Psalm 106:19-20, 21-22, 23",
+    "gospel": "Matthew 13:31-35"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/072627.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/07-26.json"
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2027-04-04",
+  "monthDay": "4/4",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 4:32-35",
+    "psalm": "Psalm 118:2-4, 13-15, 22-24",
+    "secondReading": "1 John 5:1-6",
+    "gospel": "John 20:19-31"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/040427.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/04-04.json"
+}

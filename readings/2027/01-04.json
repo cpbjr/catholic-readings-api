@@ -1,0 +1,12 @@
+{
+  "date": "2027-01-04",
+  "monthDay": "1/4",
+  "season": "Christmas",
+  "readings": {
+    "firstReading": "1 John 3:22–4:6",
+    "psalm": "Psalm 2:7bc-8, 10-12a",
+    "gospel": "Matthew 4:12-17, 23-25"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/010427.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/01-04.json"
+}

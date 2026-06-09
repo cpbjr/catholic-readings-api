@@ -1,0 +1,12 @@
+{
+  "date": "2027-07-30",
+  "monthDay": "7/30",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Leviticus 23:1, 4-11, 15-16, 27, 34b-37",
+    "psalm": "Psalm 81:3-4, 5-6, 10-11ab",
+    "gospel": "Matthew 13:54-58"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/073027.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/07-30.json"
+}

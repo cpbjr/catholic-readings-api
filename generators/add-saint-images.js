@@ -2,8 +2,6 @@ const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
 
-const calendarDir = path.join(__dirname, '..', 'liturgical-calendar', '2026');
-
 // Manual mappings for saints with different Wikipedia page names
 const SAINT_NAME_MAPPINGS = {
     'Anthony of Egypt': 'Anthony_the_Great',
@@ -107,10 +105,12 @@ async function fetchSaintImage(saintName) {
 }
 
 /**
- * Adds saint images to all MEMORIAL celebrations in 2026
+ * Adds saint images to all MEMORIAL celebrations in a given Year
+ * @param {Number} year 
  */
-async function addSaintImages() {
+async function addSaintImages(year) {
     console.log('Starting to add saint images to MEMORIAL celebrations...');
+    const calendarDir = path.join(__dirname, '..', 'liturgical-calendar', year.toString());
 
     const files = fs.readdirSync(calendarDir).sort();
     let processedCount = 0;
@@ -160,5 +160,4 @@ async function addSaintImages() {
     console.log(`Failed to find images: ${processedCount - updatedCount - skippedCount}`);
 }
 
-// Run the script
-addSaintImages().catch(console.error);
+module.exports = addSaintImages

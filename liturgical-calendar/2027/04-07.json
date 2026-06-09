@@ -1,0 +1,12 @@
+{
+  "date": "2027-04-07",
+  "monthDay": "4/7",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "Saint John Baptist de la Salle, Priest",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/04-07.json"
+}

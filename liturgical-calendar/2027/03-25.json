@@ -1,0 +1,12 @@
+{
+  "date": "2027-03-25",
+  "monthDay": "3/25",
+  "season": "Holy Week",
+  "celebration": {
+    "name": "Holy Thursday",
+    "type": "TRIDUUM",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/03-25.json"
+}

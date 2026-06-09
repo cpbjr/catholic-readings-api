@@ -1,0 +1,13 @@
+{
+  "date": "2027-07-11",
+  "monthDay": "7/11",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Amos 7:12-15",
+    "psalm": "Psalm 85:9-10, 11-12, 13-14",
+    "secondReading": "Ephesians 1:3-14 or 1:3-10",
+    "gospel": "Mark 6:7-13"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/071127.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/07-11.json"
+}

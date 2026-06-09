@@ -1,0 +1,12 @@
+{
+  "date": "2027-05-14",
+  "monthDay": "5/14",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 1:15-17, 20-26",
+    "psalm": "Psalm 113:1-2, 3-4, 5-6, 7-8",
+    "gospel": "John 15:9-17"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/051427.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/05-14.json"
+}

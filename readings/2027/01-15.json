@@ -1,0 +1,12 @@
+{
+  "date": "2027-01-15",
+  "monthDay": "1/15",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Hebrews 4:1-5, 11",
+    "psalm": "Psalm 78:3 & 4bc, 6c-7, 8",
+    "gospel": "Mark 2:1-12"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/011527.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/01-15.json"
+}

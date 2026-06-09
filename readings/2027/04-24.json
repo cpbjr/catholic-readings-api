@@ -1,0 +1,12 @@
+{
+  "date": "2027-04-24",
+  "monthDay": "4/24",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 13:44-52",
+    "psalm": "Psalm 98:1, 2-3ab, 3cd-4",
+    "gospel": "John 14:7-14"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/042427.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/04-24.json"
+}

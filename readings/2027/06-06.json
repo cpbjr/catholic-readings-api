@@ -1,0 +1,13 @@
+{
+  "date": "2027-06-06",
+  "monthDay": "6/6",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Genesis 3:9-15",
+    "psalm": "Psalm 130:1-2, 3-4, 5-6, 7-8",
+    "secondReading": "2 Corinthians 4:13—5:1",
+    "gospel": "Mark 3:20-35"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/060627.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/06-06.json"
+}

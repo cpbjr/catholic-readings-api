@@ -1,0 +1,12 @@
+{
+  "date": "2027-07-15",
+  "monthDay": "7/15",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Exodus 3:13-20",
+    "psalm": "Psalm 105:1 and 5, 8-9, 24-25, 26-27",
+    "gospel": "Matthew 11:28-30"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/071527.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/07-15.json"
+}

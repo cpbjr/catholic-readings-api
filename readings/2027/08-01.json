@@ -1,0 +1,13 @@
+{
+  "date": "2027-08-01",
+  "monthDay": "8/1",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Exodus 16:2-4, 12-15",
+    "psalm": "Psalm 78:3-4, 23-24, 25, 54",
+    "secondReading": "Ephesians 4:17, 20-24",
+    "gospel": "John 6:24-35"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/080127.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/08-01.json"
+}

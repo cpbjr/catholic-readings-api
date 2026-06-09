@@ -1,0 +1,12 @@
+{
+  "date": "2027-01-19",
+  "monthDay": "1/19",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Hebrews 6:10-20",
+    "psalm": "Psalm 111:1-2, 4-5, 9, 10c",
+    "gospel": "Mark 2:23-28"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/011927.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/01-19.json"
+}

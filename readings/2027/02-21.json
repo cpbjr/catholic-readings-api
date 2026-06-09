@@ -1,0 +1,13 @@
+{
+  "date": "2027-02-21",
+  "monthDay": "2/21",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Genesis 22:1-2, 9a, 10-13, 15-18",
+    "psalm": "Psalm 116:10, 15, 16-17, 18-19",
+    "secondReading": "Romans 8:31b-34",
+    "gospel": "Mark 9:2-10"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/022127.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/02-21.json"
+}

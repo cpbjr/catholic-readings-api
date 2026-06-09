@@ -1,0 +1,12 @@
+{
+  "date": "2027-05-26",
+  "monthDay": "5/26",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Sirach 36:1, 4-5a, 10-17",
+    "psalm": "Psalm 79:8, 9, 11 and 13",
+    "gospel": "Mark 10:32-45"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/052627.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/05-26.json"
+}

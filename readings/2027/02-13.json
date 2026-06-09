@@ -1,0 +1,12 @@
+{
+  "date": "2027-02-13",
+  "monthDay": "2/13",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Isaiah 58:9b-14",
+    "psalm": "Psalm 86:1-2, 3-4, 5-6",
+    "gospel": "Luke 5:27-32"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/021327.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/02-13.json"
+}

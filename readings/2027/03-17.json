@@ -1,0 +1,12 @@
+{
+  "date": "2027-03-17",
+  "monthDay": "3/17",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Daniel 3:14-20, 91-92, 95",
+    "psalm": "Daniel 3:52, 53, 54, 55, 56",
+    "gospel": "John 8:31-42"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/031727.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/03-17.json"
+}

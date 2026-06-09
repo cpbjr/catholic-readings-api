@@ -1,0 +1,12 @@
+{
+  "date": "2027-02-08",
+  "monthDay": "2/8",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Jerome Emiliani and Saint Josephine Bakhita, Virgin",
+    "type": "OPT_MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/02-08.json"
+}

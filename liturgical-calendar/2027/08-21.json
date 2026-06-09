@@ -1,0 +1,13 @@
+{
+  "date": "2027-08-21",
+  "monthDay": "8/21",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Pius X, Pope",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pius_X%2C_by_Ernest_Walter_Histed_%28retouched%29.jpg/500px-Pius_X%2C_by_Ernest_Walter_Histed_%28retouched%29.jpg"
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/08-21.json"
+}

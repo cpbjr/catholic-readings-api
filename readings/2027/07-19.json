@@ -1,0 +1,12 @@
+{
+  "date": "2027-07-19",
+  "monthDay": "7/19",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Exodus 14:5-18",
+    "psalm": "Exodus 15:1bc-2, 3-4, 5-6",
+    "gospel": "Matthew 12:38-42"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/071927.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/07-19.json"
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2027-04-05",
+  "monthDay": "4/5",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Isaiah 7:10-14; 8:10",
+    "psalm": "Psalm 40:7-8a, 8b-9, 10, 11",
+    "secondReading": "Hebrews 10:4-10",
+    "gospel": "Luke 1:26-38"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/040527.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/04-05.json"
+}

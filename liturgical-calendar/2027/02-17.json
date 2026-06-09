@@ -1,0 +1,12 @@
+{
+  "date": "2027-02-17",
+  "monthDay": "2/17",
+  "season": "Lent",
+  "celebration": {
+    "name": "Seven Holy Founders of the Servite Order",
+    "type": "COMMEMORATION",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/02-17.json"
+}

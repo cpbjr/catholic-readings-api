@@ -1,0 +1,12 @@
+{
+  "date": "2027-07-07",
+  "monthDay": "7/7",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Genesis 41:55-57; 42:5-7a, 17-24a",
+    "psalm": "Psalm 33:2-3, 10-11, 18-19",
+    "gospel": "Matthew 10:1-7"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/070727.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/07-07.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2027-07-28",
+  "monthDay": "7/28",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Exodus 34:29-35",
+    "psalm": "Psalm 99:5, 6, 7, 9",
+    "gospel": "Matthew 13:44-46"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/072827.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/07-28.json"
+}

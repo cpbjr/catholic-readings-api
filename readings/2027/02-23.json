@@ -1,0 +1,12 @@
+{
+  "date": "2027-02-23",
+  "monthDay": "2/23",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Isaiah 1:10, 16-20",
+    "psalm": "Psalm 50:8-9, 16bc-17, 21 and 23",
+    "gospel": "Matthew 23:1-12"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/022327.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/02-23.json"
+}

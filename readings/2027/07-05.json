@@ -1,0 +1,12 @@
+{
+  "date": "2027-07-05",
+  "monthDay": "7/5",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Genesis 28:10-22a",
+    "psalm": "Psalm 91:1-2, 3-4, 14-15ab",
+    "gospel": "Matthew 9:18-26"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/070527.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/07-05.json"
+}

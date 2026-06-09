@@ -1,0 +1,13 @@
+{
+  "date": "2027-12-14",
+  "monthDay": "12/14",
+  "season": "Advent",
+  "celebration": {
+    "name": "Saint John of the Cross, Priest and Doctor",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zurbar%C3%A1n_%28atribuido%29-John_of_the_Cross-1656.jpg/500px-Zurbar%C3%A1n_%28atribuido%29-John_of_the_Cross-1656.jpg"
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/12-14.json"
+}

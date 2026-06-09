@@ -1,0 +1,12 @@
+{
+  "date": "2027-08-14",
+  "monthDay": "8/14",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Joshua 24:14-29",
+    "psalm": "Psalm 16:1-2a and 5, 7-8, 11",
+    "gospel": "Matthew 19:13-15"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/081427.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/08-14.json"
+}

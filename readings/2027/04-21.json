@@ -1,0 +1,12 @@
+{
+  "date": "2027-04-21",
+  "monthDay": "4/21",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 12:24—13:5a",
+    "psalm": "Psalm 67:2-3, 5, 6 and 8",
+    "gospel": "John 12:44-50"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/042127.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/04-21.json"
+}

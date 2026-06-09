@@ -1,0 +1,12 @@
+{
+  "date": "2027-09-24",
+  "monthDay": "9/24",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Haggai 2:1-9",
+    "psalm": "Psalm 43:1, 2, 3, 4",
+    "gospel": "Luke 9:18-22"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/092427.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/09-24.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2027-08-20",
+  "monthDay": "8/20",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ruth 1:1, 3-6, 14b-16, 22",
+    "psalm": "Psalm 146:5-6ab, 6c-7, 8-9a, 9bc-10",
+    "gospel": "Matthew 22:34-40"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/082027.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/08-20.json"
+}

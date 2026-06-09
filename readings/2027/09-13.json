@@ -1,0 +1,12 @@
+{
+  "date": "2027-09-13",
+  "monthDay": "9/13",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Timothy 2:1-8",
+    "psalm": "Psalm 28:2, 7, 8-9",
+    "gospel": "Luke 7:1-10"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/091327.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/09-13.json"
+}

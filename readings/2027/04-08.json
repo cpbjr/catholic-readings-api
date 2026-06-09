@@ -1,0 +1,12 @@
+{
+  "date": "2027-04-08",
+  "monthDay": "4/8",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 5:27-33",
+    "psalm": "Psalm 34:2 and 9, 17-18, 19-20",
+    "gospel": "John 3:31-36"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/040827.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/04-08.json"
+}

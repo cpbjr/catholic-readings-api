@@ -1,0 +1,12 @@
+{
+  "date": "2027-02-22",
+  "monthDay": "2/22",
+  "season": "Lent",
+  "celebration": {
+    "name": "Chair of Saint Peter, Apostle",
+    "type": "COMMEMORATION",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/02-22.json"
+}

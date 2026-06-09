@@ -1,0 +1,12 @@
+{
+  "date": "2027-04-27",
+  "monthDay": "4/27",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 14:19-28",
+    "psalm": "Psalm 145:10-11, 12-13ab, 21",
+    "gospel": "John 14:27-31a"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/042727.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/04-27.json"
+}

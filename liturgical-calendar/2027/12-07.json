@@ -1,0 +1,13 @@
+{
+  "date": "2027-12-07",
+  "monthDay": "12/7",
+  "season": "Advent",
+  "celebration": {
+    "name": "Saint Ambrose, Bishop and Doctor",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/AmbroseOfMilan_%28cropped%29.jpg"
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/12-07.json"
+}

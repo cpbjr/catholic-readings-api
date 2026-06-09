@@ -1,0 +1,12 @@
+{
+  "date": "2027-03-23",
+  "monthDay": "3/23",
+  "season": "Holy Week",
+  "celebration": {
+    "name": "Tuesday of Holy Week",
+    "type": "HOLY_WEEK",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/03-23.json"
+}

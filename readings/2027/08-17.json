@@ -1,0 +1,12 @@
+{
+  "date": "2027-08-17",
+  "monthDay": "8/17",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Judges 6:11-24a",
+    "psalm": "Psalm 85:9, 11-12, 13-14",
+    "gospel": "Matthew 19:23-30"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/081727.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/08-17.json"
+}

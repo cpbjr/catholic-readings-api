@@ -1,0 +1,12 @@
+{
+  "date": "2027-10-03",
+  "monthDay": "10/3",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "27th Sunday of Ordinary Time",
+    "type": "SUNDAY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/10-03.json"
+}

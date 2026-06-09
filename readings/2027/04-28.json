@@ -1,0 +1,12 @@
+{
+  "date": "2027-04-28",
+  "monthDay": "4/28",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 15:1-6",
+    "psalm": "Psalm 122:1-2, 3-4ab, 4cd-5",
+    "gospel": "John 15:1-8"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/042827.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/04-28.json"
+}

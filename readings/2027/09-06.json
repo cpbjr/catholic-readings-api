@@ -1,0 +1,12 @@
+{
+  "date": "2027-09-06",
+  "monthDay": "9/6",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Colossians 1:24–2:3",
+    "psalm": "Psalm 62:6-7, 9",
+    "gospel": "Luke 6:6-11"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/090627.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/09-06.json"
+}

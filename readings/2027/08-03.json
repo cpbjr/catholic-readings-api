@@ -1,0 +1,12 @@
+{
+  "date": "2027-08-03",
+  "monthDay": "8/3",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Numbers 12:1-13",
+    "psalm": "Psalm 51:3-4, 5-6ab, 6cd-7, 12-13",
+    "gospel": "Matthew 14:22-36"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/080327.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/08-03.json"
+}

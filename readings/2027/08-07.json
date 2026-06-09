@@ -1,0 +1,12 @@
+{
+  "date": "2027-08-07",
+  "monthDay": "8/7",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Deuteronomy 6:4-13",
+    "psalm": "Psalm 18:2-3a, 3bc-4, 47 and 51",
+    "gospel": "Matthew 17:14-20"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/080727.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/08-07.json"
+}

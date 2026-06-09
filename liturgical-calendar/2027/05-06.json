@@ -1,0 +1,12 @@
+{
+  "date": "2027-05-06",
+  "monthDay": "5/6",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "Ascension of the Lord",
+    "type": "SOLEMNITY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/05-06.json"
+}

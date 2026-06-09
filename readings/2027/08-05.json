@@ -1,0 +1,12 @@
+{
+  "date": "2027-08-05",
+  "monthDay": "8/5",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Numbers 20:1-13",
+    "psalm": "Psalm 95:1-2, 6-7, 8-9",
+    "gospel": "Matthew 16:13-23"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/080527.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/08-05.json"
+}

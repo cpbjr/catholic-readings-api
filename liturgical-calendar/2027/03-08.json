@@ -1,0 +1,12 @@
+{
+  "date": "2027-03-08",
+  "monthDay": "3/8",
+  "season": "Lent",
+  "celebration": {
+    "name": "Saint John of God, Religious",
+    "type": "COMMEMORATION",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/03-08.json"
+}

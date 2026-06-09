@@ -1,0 +1,13 @@
+{
+  "date": "2027-01-10",
+  "monthDay": "1/10",
+  "season": "Christmas",
+  "readings": {
+    "firstReading": "Isaiah 42:1-4, 6-7",
+    "psalm": "Psalm 29:1-2, 3-4, 3, 9-10",
+    "secondReading": "Acts 10:34-38",
+    "gospel": "Mark 1:7-11"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/011027.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/01-10.json"
+}

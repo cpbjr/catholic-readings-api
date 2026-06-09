@@ -1,0 +1,61 @@
+name: Quarterly Generator & Deploy
+
+on:
+  schedule:
+    - cron: "0 0 1 1,4,7,10 *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Get current and next year
+        id: years
+        run: |
+          CURRENT_YEAR=$(date +'%Y')
+          NEXT_YEAR=$((CURRENT_YEAR + 1))
+          echo "CURRENT_YEAR=$CURRENT_YEAR" >> $GITHUB_OUTPUT
+          echo "NEXT_YEAR=$NEXT_YEAR" >> $GITHUB_OUTPUT
+
+      - name: Run generator for current year
+        run: node generators/generator.js ${{ steps.years.outputs.CURRENT_YEAR }}
+
+      - name: Run generator for next year
+        run: node generators/generator.js ${{ steps.years.outputs.NEXT_YEAR }}
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add .
+          git diff --cached --quiet || git commit -m "chore: quarterly generation for ${{ steps.years.outputs.CURRENT_YEAR }} & ${{ steps.years.outputs.NEXT_YEAR }}"
+          git push
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./ # change if needed
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4

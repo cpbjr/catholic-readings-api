@@ -1,0 +1,12 @@
+{
+  "date": "2027-04-16",
+  "monthDay": "4/16",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 9:1-20",
+    "psalm": "Psalm 117:1bc, 2",
+    "gospel": "John 6:52-59"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/041627.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/04-16.json"
+}

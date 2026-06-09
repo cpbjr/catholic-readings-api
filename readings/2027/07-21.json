@@ -1,0 +1,12 @@
+{
+  "date": "2027-07-21",
+  "monthDay": "7/21",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Exodus 16:1-5, 9-15",
+    "psalm": "Psalm 78:18-19, 23-24, 25-26, 27-28",
+    "gospel": "Matthew 13:1-9"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/072127.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/07-21.json"
+}

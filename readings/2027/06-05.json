@@ -1,0 +1,12 @@
+{
+  "date": "2027-06-05",
+  "monthDay": "6/5",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Tobit 12:1, 5-15, 20",
+    "psalm": "Tobit 13:2, 6efgh, 7, 8",
+    "gospel": "Mark 12:38-44"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/060527.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/06-05.json"
+}

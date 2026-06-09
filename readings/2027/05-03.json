@@ -1,0 +1,12 @@
+{
+  "date": "2027-05-03",
+  "monthDay": "5/3",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "1 Corinthians 15:1-8",
+    "psalm": "Psalm 19:2-3, 4-5",
+    "gospel": "John 14:6-14"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/050327.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/05-03.json"
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2027-01-17",
+  "monthDay": "1/17",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Samuel 3:3b-10, 19",
+    "psalm": "Psalm 40:2, 4, 7-8, 8-9, 10",
+    "secondReading": "1 Corinthians 6:13c-15a, 17-20",
+    "gospel": "John 1:35-42"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/011727.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/01-17.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2027-05-11",
+  "monthDay": "5/11",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "Tuesday of the 7th week of Easter",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/05-11.json"
+}

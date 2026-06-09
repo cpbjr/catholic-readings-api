@@ -1,0 +1,12 @@
+{
+  "date": "2027-03-03",
+  "monthDay": "3/3",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Deuteronomy 4:1, 5-9",
+    "psalm": "Psalm 147:12-13, 15-16, 19-20",
+    "gospel": "Matthew 5:17-19"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/030327.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/03-03.json"
+}

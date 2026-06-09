@@ -1,0 +1,12 @@
+{
+  "date": "2027-02-15",
+  "monthDay": "2/15",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Leviticus 19:1-2, 11-18",
+    "psalm": "Psalm 19:8, 9, 10, 15",
+    "gospel": "Matthew 25:31-46"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/021527.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/02-15.json"
+}

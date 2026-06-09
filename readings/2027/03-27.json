@@ -1,0 +1,13 @@
+{
+  "date": "2027-03-27",
+  "monthDay": "3/27",
+  "season": "Holy Week",
+  "readings": {
+    "firstReading": "Genesis 1:1—2:2",
+    "psalm": "Psalm 118:1-2, 16-17, 22-23",
+    "secondReading": "Genesis 22:1-18",
+    "gospel": "Mark 16:1-7"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/032727.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/03-27.json"
+}

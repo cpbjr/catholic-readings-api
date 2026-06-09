@@ -1,0 +1,13 @@
+{
+  "date": "2027-02-07",
+  "monthDay": "2/7",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Job 7:1-4, 6-7",
+    "psalm": "Psalm 147:1-2, 3-4, 5-6",
+    "secondReading": "1 Corinthians 9:16-19, 22-23",
+    "gospel": "Mark 1:29-39"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/020727.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/02-07.json"
+}

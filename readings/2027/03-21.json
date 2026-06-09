@@ -1,0 +1,13 @@
+{
+  "date": "2027-03-21",
+  "monthDay": "3/21",
+  "season": "Holy Week",
+  "readings": {
+    "gospel": "Mark 14:1-15:47",
+    "firstReading": "Isaiah 50:4-7",
+    "psalm": "Psalm 22:8-9, 17-18, 19-20, 23-24",
+    "secondReading": "Philippians 2:6-11"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/032127.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/03-21.json"
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2027-06-11",
+  "monthDay": "6/11",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Barnabas the Apostle",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Galer%C3%ADa_Uffizi%2C_Florencia%2C_Italia%2C_2022_09_18%2C_DD_42_%281%29_%28cropped%29.jpg/500px-Galer%C3%ADa_Uffizi%2C_Florencia%2C_Italia%2C_2022_09_18%2C_DD_42_%281%29_%28cropped%29.jpg"
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/06-11.json"
+}

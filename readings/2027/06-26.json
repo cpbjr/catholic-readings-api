@@ -1,0 +1,12 @@
+{
+  "date": "2027-06-26",
+  "monthDay": "6/26",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Genesis 18:1-15",
+    "psalm": "Luke 1:46-47, 48-49, 50 and 53, 54-55",
+    "gospel": "Matthew 8:5-17"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/062627.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/06-26.json"
+}

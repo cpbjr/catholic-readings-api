@@ -1,0 +1,13 @@
+{
+  "date": "2027-06-13",
+  "monthDay": "6/13",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ezekiel 17:22-24",
+    "psalm": "Psalm 92:2-3, 13-14, 15-16",
+    "secondReading": "2 Corinthians 5:6-10",
+    "gospel": "Mark 4:26-34"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/061327.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/06-13.json"
+}

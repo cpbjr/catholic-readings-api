@@ -1,0 +1,12 @@
+{
+  "date": "2027-02-08",
+  "monthDay": "2/8",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Genesis 1:1-19",
+    "psalm": "Psalm 104:1-2a, 5-6, 10, 12, 24, 35c",
+    "gospel": "Mark 6:53-56"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/020827.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/02-08.json"
+}

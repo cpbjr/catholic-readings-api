@@ -1,0 +1,13 @@
+{
+  "date": "2027-06-20",
+  "monthDay": "6/20",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Job 38:1, 8-11",
+    "psalm": "Psalm 107:23-24, 25-26, 28-29, 30-31",
+    "secondReading": "2 Corinthians 5:14-17",
+    "gospel": "Mark 4:35-41"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/062027.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/06-20.json"
+}

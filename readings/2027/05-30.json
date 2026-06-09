@@ -1,0 +1,13 @@
+{
+  "date": "2027-05-30",
+  "monthDay": "5/30",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Exodus 24:3-8",
+    "psalm": "Psalm 116:12-13, 15-16, 17-18",
+    "secondReading": "Hebrews 9:11-15",
+    "gospel": "Mark 14:12-16, 22-26"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/053027.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/05-30.json"
+}

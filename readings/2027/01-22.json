@@ -1,0 +1,12 @@
+{
+  "date": "2027-01-22",
+  "monthDay": "1/22",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Hebrews 8:6-13",
+    "psalm": "Psalm 85:8 and 10, 11-12, 13-14",
+    "gospel": "Mark 3:13-19"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/012227.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/01-22.json"
+}

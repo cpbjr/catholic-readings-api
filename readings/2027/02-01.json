@@ -1,0 +1,11 @@
+{
+  "date": "2027-02-01",
+  "monthDay": "2/1",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Hebrews 11:32-40",
+    "gospel": "Mark 5:1-20"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/020127.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/02-01.json"
+}

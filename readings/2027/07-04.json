@@ -1,0 +1,13 @@
+{
+  "date": "2027-07-04",
+  "monthDay": "7/4",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Ezekiel 2:2-5",
+    "psalm": "Psalm 123:1-2, 2, 3-4",
+    "secondReading": "2 Corinthians 12:7-10",
+    "gospel": "Mark 6:1-6"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/070427.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/07-04.json"
+}

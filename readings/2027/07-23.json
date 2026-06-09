@@ -1,0 +1,12 @@
+{
+  "date": "2027-07-23",
+  "monthDay": "7/23",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Exodus 20:1-17",
+    "psalm": "Psalm 19:8, 9, 10, 11",
+    "gospel": "Matthew 13:18-23"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/072327.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/07-23.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2027-04-19",
+  "monthDay": "4/19",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 11:1-18",
+    "psalm": "Psalm 42:2-3; 43:3, 4",
+    "gospel": "John 10:1-10"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/041927.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/04-19.json"
+}

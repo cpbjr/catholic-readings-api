@@ -1,0 +1,12 @@
+{
+  "date": "2027-02-28",
+  "monthDay": "2/28",
+  "season": "Lent",
+  "celebration": {
+    "name": "3rd Sunday of Lent",
+    "type": "SUNDAY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/02-28.json"
+}

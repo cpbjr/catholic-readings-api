@@ -1,0 +1,12 @@
+{
+  "date": "2027-02-10",
+  "monthDay": "2/10",
+  "season": "Lent",
+  "celebration": {
+    "name": "Ash Wednesday",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/02-10.json"
+}

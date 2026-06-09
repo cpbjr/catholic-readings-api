@@ -1,0 +1,12 @@
+{
+  "date": "2027-02-13",
+  "monthDay": "2/13",
+  "season": "Lent",
+  "celebration": {
+    "name": "Saturday after Ash Wednesday",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/02-13.json"
+}

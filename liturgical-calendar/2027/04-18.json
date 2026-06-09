@@ -1,0 +1,12 @@
+{
+  "date": "2027-04-18",
+  "monthDay": "4/18",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "4th Sunday of Easter",
+    "type": "SUNDAY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/04-18.json"
+}
