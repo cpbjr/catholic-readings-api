@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-29",
+  "date": "2027-06-29",
   "monthDay": "6/29",
   "season": "Ordinary Time",
   "celebration": {
@@ -8,5 +8,5 @@
     "quote": "You are the Christ, the Son of the living God.",
     "description": "The twin pillars of the Church — Peter the fisherman chosen as the rock upon which Christ built his Church, and Paul the Apostle to the Gentiles whose missionary journeys spread the Gospel throughout the Roman world."
   },
-  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/06-29.json"
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/06-29.json"
 }
