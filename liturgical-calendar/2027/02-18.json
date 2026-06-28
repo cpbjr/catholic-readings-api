@@ -1,0 +1,12 @@
+{
+  "date": "2027-02-18",
+  "monthDay": "2/18",
+  "season": "Lent",
+  "celebration": {
+    "name": "Thursday of the 1st week of Lent",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/02-18.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2027-03-14",
+  "monthDay": "3/14",
+  "season": "Lent",
+  "celebration": {
+    "name": "5th Sunday of Lent",
+    "type": "SUNDAY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/03-14.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2027-04-12",
+  "monthDay": "4/12",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "Monday of the 3rd week of Easter",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/04-12.json"
+}

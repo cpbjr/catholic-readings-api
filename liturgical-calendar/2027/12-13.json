@@ -1,0 +1,12 @@
+{
+  "date": "2027-12-13",
+  "monthDay": "12/13",
+  "season": "Advent",
+  "celebration": {
+    "name": "Saint Lucy of Syracuse, Virgin and Martyr",
+    "type": "MEMORIAL",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/12-13.json"
+}

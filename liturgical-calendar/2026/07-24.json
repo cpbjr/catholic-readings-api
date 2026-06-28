@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Charbel Makhlouf, Priest and Hermit",
     "type": "OPT_MEMORIAL",
-    "quote": "Pray, hope, and don't worry. Worry is useless.",
-    "description": "A Capuchin friar known as Padre Pio, he bore the stigmata for fifty years and was a renowned confessor."
+    "quote": "God is found in silence and solitude.",
+    "description": "A Lebanese Maronite priest and hermit who spent decades in solitary prayer; his body was found incorrupt after death and he is venerated for miraculous healings."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-24.json"
 }

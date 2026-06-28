@@ -1,0 +1,12 @@
+{
+  "date": "2027-10-18",
+  "monthDay": "10/18",
+  "season": "Ordinary Time",
+  "celebration": {
+    "name": "Saint Luke the Evangelist",
+    "type": "FEAST",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/10-18.json"
+}

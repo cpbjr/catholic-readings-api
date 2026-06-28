@@ -1,0 +1,12 @@
+{
+  "date": "2027-03-07",
+  "monthDay": "3/7",
+  "season": "Lent",
+  "celebration": {
+    "name": "4th Sunday of Lent",
+    "type": "SUNDAY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/03-07.json"
+}

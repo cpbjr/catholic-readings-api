@@ -5,8 +5,8 @@
   "celebration": {
     "name": "Saint Lawrence of Brindisi, Priest and Doctor",
     "type": "OPT_MEMORIAL",
-    "quote": "Pray, hope, and don't worry. Worry is useless.",
-    "description": "A Capuchin friar known as Padre Pio, he bore the stigmata for fifty years and was a renowned confessor."
+    "quote": "All for the honor and glory of God.",
+    "description": "Capuchin friar, Doctor of the Church, and gifted linguist who led Catholic armies armed only with a crucifix during the Turkish invasion of Hungary."
   },
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2026/07-21.json"
 }

@@ -1,0 +1,12 @@
+{
+  "date": "2027-04-19",
+  "monthDay": "4/19",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "Monday of the 4th week of Easter",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/04-19.json"
+}

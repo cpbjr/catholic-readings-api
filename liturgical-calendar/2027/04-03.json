@@ -1,0 +1,12 @@
+{
+  "date": "2027-04-03",
+  "monthDay": "4/3",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "Easter Saturday",
+    "type": "SOLEMNITY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/04-03.json"
+}

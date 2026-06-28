@@ -1,0 +1,12 @@
+{
+  "date": "2027-03-15",
+  "monthDay": "3/15",
+  "season": "Lent",
+  "celebration": {
+    "name": "Monday of the 5th week of Lent",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/03-15.json"
+}

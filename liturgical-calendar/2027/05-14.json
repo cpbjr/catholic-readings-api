@@ -1,0 +1,12 @@
+{
+  "date": "2027-05-14",
+  "monthDay": "5/14",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "Saint Matthias the Apostle",
+    "type": "FEAST",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/05-14.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2027-03-13",
+  "monthDay": "3/13",
+  "season": "Lent",
+  "celebration": {
+    "name": "Saturday of the 4th week of Lent",
+    "type": "FERIA",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/03-13.json"
+}

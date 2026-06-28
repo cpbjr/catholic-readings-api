@@ -1,0 +1,12 @@
+{
+  "date": "2027-04-04",
+  "monthDay": "4/4",
+  "season": "Eastertide",
+  "celebration": {
+    "name": "Divine Mercy Sunday",
+    "type": "SOLEMNITY",
+    "quote": "",
+    "description": ""
+  },
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/2027/04-04.json"
+}
