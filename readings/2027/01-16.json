@@ -1,0 +1,12 @@
+{
+  "date": "2027-01-16",
+  "monthDay": "1/16",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Hebrews 4:12-16",
+    "psalm": "Psalm 19:8, 9, 10, 15",
+    "gospel": "Mark 2:13-17"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/011627.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/01-16.json"
+}

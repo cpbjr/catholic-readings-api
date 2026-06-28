@@ -1,0 +1,12 @@
+{
+  "date": "2027-08-04",
+  "monthDay": "8/4",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Numbers 13:1-2, 25–14:1, 26a-29a, 34-35",
+    "psalm": "Psalm 106:6-7ab, 13-14, 21-22, 23",
+    "gospel": "Matthew 15: 21-28"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/080427.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/08-04.json"
+}

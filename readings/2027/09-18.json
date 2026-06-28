@@ -1,0 +1,12 @@
+{
+  "date": "2027-09-18",
+  "monthDay": "9/18",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Timothy 6:13-16",
+    "psalm": "Psalm 100:1b-2, 3, 4, 5",
+    "gospel": "Luke 8:4-15"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/091827.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/09-18.json"
+}

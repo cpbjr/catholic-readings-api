@@ -1,0 +1,12 @@
+{
+  "date": "2027-05-07",
+  "monthDay": "5/7",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 18:9-18",
+    "psalm": "Psalm 47:2-3, 4-5, 6-7",
+    "gospel": "John 16:20-23"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/050727.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/05-07.json"
+}

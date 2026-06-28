@@ -1,0 +1,12 @@
+{
+  "date": "2027-06-19",
+  "monthDay": "6/19",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Corinthians 12:1-10",
+    "psalm": "Psalm 34:8-9, 10-11, 12-13",
+    "gospel": "Matthew 6:24-34"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/061927.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/06-19.json"
+}

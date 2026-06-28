@@ -1,0 +1,12 @@
+{
+  "date": "2027-03-10",
+  "monthDay": "3/10",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Isaiah 49:8-15",
+    "psalm": "Psalm 145:8-9, 13cd-14, 17-18",
+    "gospel": "John 5:17-30"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/031027.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/03-10.json"
+}

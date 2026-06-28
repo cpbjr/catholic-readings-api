@@ -1,0 +1,12 @@
+{
+  "date": "2027-05-19",
+  "monthDay": "5/19",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Sirach 4:11-19",
+    "psalm": "Psalm 119:165, 168, 171, 172, 174, 175",
+    "gospel": "Mark 9:38-40"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/051927.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/05-19.json"
+}

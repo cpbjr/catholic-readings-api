@@ -1,0 +1,12 @@
+{
+  "date": "2027-05-20",
+  "monthDay": "5/20",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Sirarch 5:1-8",
+    "psalm": "Psalm 1:1-4, 6",
+    "gospel": "Mark 9:41-50"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/052027.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/05-20.json"
+}

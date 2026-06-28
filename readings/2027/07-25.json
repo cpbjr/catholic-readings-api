@@ -1,0 +1,13 @@
+{
+  "date": "2027-07-25",
+  "monthDay": "7/25",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Kings 4:42-44",
+    "psalm": "Psalm 145:10-11, 15-16, 17-18",
+    "secondReading": "Ephesians 4:1-6",
+    "gospel": "John 6:1-15"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/072527.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/07-25.json"
+}

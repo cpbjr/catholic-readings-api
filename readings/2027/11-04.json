@@ -1,0 +1,12 @@
+{
+  "date": "2027-11-04",
+  "monthDay": "11/4",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 14:7-12",
+    "psalm": "Psalm 27:1bcde, 4, 13-14",
+    "gospel": "Luke 15:1-10"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/110427.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/11-04.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2027-09-04",
+  "monthDay": "9/4",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Colossians 1:21-23",
+    "psalm": "Psalm 54:3-4, 6 and 8",
+    "gospel": "Luke 6:1-5"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/090427.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/09-04.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2027-01-11",
+  "monthDay": "1/11",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Hebrews 1:1-6",
+    "psalm": "Psalm 97:1 and 2b, 6 and 7c, 9",
+    "gospel": "Mark 1:14-20"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/011127.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/01-11.json"
+}

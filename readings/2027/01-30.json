@@ -1,0 +1,12 @@
+{
+  "date": "2027-01-30",
+  "monthDay": "1/30",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Hebrews 11:1-2, 8-19",
+    "psalm": "Luke 1:69-70, 71-72, 73-75",
+    "gospel": "Mark 4:35-41"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/013027.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/01-30.json"
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2027-04-25",
+  "monthDay": "4/25",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 9:26-31",
+    "psalm": "Psalm 22:26-27, 28, 30, 31-32",
+    "secondReading": "1 John 3:18-24",
+    "gospel": "John 15:1-8"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/042527.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/04-25.json"
+}

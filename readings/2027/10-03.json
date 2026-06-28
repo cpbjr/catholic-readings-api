@@ -1,0 +1,13 @@
+{
+  "date": "2027-10-03",
+  "monthDay": "10/3",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Genesis 2:18-24",
+    "psalm": "Psalm 128:1-2, 3, 4-5, 6",
+    "secondReading": "Hebrews 2:9-11",
+    "gospel": "Mark 10:2-16 or 10:2-12"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/100327.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/10-03.json"
+}

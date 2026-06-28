@@ -1,0 +1,12 @@
+{
+  "date": "2027-12-16",
+  "monthDay": "12/16",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Isaiah 54:1-10",
+    "psalm": "Psalm 30:2 and 4, 5-6, 11-12a and 13b",
+    "gospel": "Luke 7:24-30"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/121627.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/12-16.json"
+}

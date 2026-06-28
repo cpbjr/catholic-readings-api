@@ -1,0 +1,12 @@
+{
+  "date": "2027-09-10",
+  "monthDay": "9/10",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Timothy 1:1-2, 12-14",
+    "psalm": "Psalm 16:1b-2a and 5, 7-8, 11",
+    "gospel": "Luke 6:39-42"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/091027.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/09-10.json"
+}

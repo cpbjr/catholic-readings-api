@@ -1,0 +1,12 @@
+{
+  "date": "2027-07-08",
+  "monthDay": "7/8",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Genesis 44:18-21, 23b-29; 45:1-5",
+    "psalm": "Psalm 105:16-17, 18-19, 20-21",
+    "gospel": "Matthew 10:7-15"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/070827.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/07-08.json"
+}

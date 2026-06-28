@@ -1,0 +1,12 @@
+{
+  "date": "2027-01-21",
+  "monthDay": "1/21",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Hebrews 7:25—8:6",
+    "psalm": "Psalm 40:7-8a, 8b-9, 10, 17",
+    "gospel": "Mark 3:7-12"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/012127.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/01-21.json"
+}

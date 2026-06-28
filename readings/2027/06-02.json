@@ -1,0 +1,12 @@
+{
+  "date": "2027-06-02",
+  "monthDay": "6/2",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Tobit 3:1-11a, 16-17a",
+    "psalm": "Psalm 25:2-3, 4-5ab, 6 and 7bc, 8-9",
+    "gospel": "Mark 12:18-27"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/060227.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/06-02.json"
+}

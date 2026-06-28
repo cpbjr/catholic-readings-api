@@ -1,0 +1,12 @@
+{
+  "date": "2027-12-15",
+  "monthDay": "12/15",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Isaiah 45:6c-8, 18, 21c-25",
+    "psalm": "Psalm 85:9ab, 10, 11-12, 13-14",
+    "gospel": "Luke 7:18b-23"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/121527.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/12-15.json"
+}

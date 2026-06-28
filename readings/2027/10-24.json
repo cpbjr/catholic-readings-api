@@ -1,0 +1,13 @@
+{
+  "date": "2027-10-24",
+  "monthDay": "10/24",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Jeremiah 31:7-9",
+    "psalm": "Psalm 126:1-2, 2-3, 4-5, 6",
+    "secondReading": "Hebrews 5:1-6",
+    "gospel": "Mark 10:46-52"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/102427.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/10-24.json"
+}

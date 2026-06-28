@@ -1,0 +1,12 @@
+{
+  "date": "2027-07-29",
+  "monthDay": "7/29",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Exodus 40:16-21, 34-38",
+    "psalm": "Psalm 84:3, 4, 5-6a and 8a, 11",
+    "gospel": "John 11:19-27"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/072927.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/07-29.json"
+}

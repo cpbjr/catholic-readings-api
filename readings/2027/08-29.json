@@ -1,0 +1,13 @@
+{
+  "date": "2027-08-29",
+  "monthDay": "8/29",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Deuteronomy 4:1-2, 6-8",
+    "psalm": "Psalm 15:2-3, 3-4, 4-5",
+    "secondReading": "James 1:17-18, 21b-22, 27",
+    "gospel": "Mark 7:1-8, 14-15, 21-23"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/082927.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/08-29.json"
+}

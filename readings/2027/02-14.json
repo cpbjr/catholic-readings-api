@@ -1,0 +1,13 @@
+{
+  "date": "2027-02-14",
+  "monthDay": "2/14",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Genesis 9:8-15",
+    "psalm": "Psalm 25:4-5, 6-7, 8-9.",
+    "secondReading": "1 Peter 3:18-22",
+    "gospel": "Mark 1:12-15"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/021427.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/02-14.json"
+}

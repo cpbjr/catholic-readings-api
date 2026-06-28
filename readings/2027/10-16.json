@@ -1,0 +1,12 @@
+{
+  "date": "2027-10-16",
+  "monthDay": "10/16",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 4:13, 16-18",
+    "psalm": "Psalm 105:6-7, 8-9, 42-43",
+    "gospel": "Luke 12:8-12"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/101627.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/10-16.json"
+}

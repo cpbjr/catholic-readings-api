@@ -1,0 +1,13 @@
+{
+  "date": "2027-10-17",
+  "monthDay": "10/17",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Isaiah 53:10-11",
+    "psalm": "Psalm 33:4-5, 18-19, 20, 22",
+    "secondReading": "Hebrews 4:14-16",
+    "gospel": "Mark 10:35-45 or 10:42-45"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/101727.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/10-17.json"
+}

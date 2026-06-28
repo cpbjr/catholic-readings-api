@@ -1,0 +1,12 @@
+{
+  "date": "2027-04-20",
+  "monthDay": "4/20",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 11:19-26",
+    "psalm": "Psalm 87:1b-3, 4-5, 6-7",
+    "gospel": "John 10:22-30"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/042027.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/04-20.json"
+}

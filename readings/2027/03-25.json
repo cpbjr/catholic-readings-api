@@ -1,0 +1,13 @@
+{
+  "date": "2027-03-25",
+  "monthDay": "3/25",
+  "season": "Holy Week",
+  "readings": {
+    "firstReading": "Exodus 12:1-8, 11-14",
+    "psalm": "Psalm 116:12-13, 15-16bc, 17-18.",
+    "secondReading": "1 Corinthians 11:23-26",
+    "gospel": "John 13:1-15"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/032527.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/03-25.json"
+}

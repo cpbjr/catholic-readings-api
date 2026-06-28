@@ -1,0 +1,12 @@
+{
+  "date": "2027-06-03",
+  "monthDay": "6/3",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Tobit 6:10-11; 7:1bcde, 9-17; 8:4-9a",
+    "psalm": "Psalm 128:1-2, 3, 4-5",
+    "gospel": "Mark 12:28-34"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/060327.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/06-03.json"
+}

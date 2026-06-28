@@ -1,0 +1,13 @@
+{
+  "date": "2027-03-14",
+  "monthDay": "3/14",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Jeremiah 31:31-34",
+    "psalm": "Psalm 51:3-4, 12-13, 14-15",
+    "secondReading": "Hebrews 5:7-9",
+    "gospel": "John 12:20-33"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/031427.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/03-14.json"
+}

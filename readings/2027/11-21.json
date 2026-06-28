@@ -1,0 +1,13 @@
+{
+  "date": "2027-11-21",
+  "monthDay": "11/21",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Daniel 7:13-14",
+    "psalm": "Psalm 93:1, 1-2, 5",
+    "secondReading": "Revelation 1:5-8",
+    "gospel": "John 18:33b-37"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/112127.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/11-21.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2027-07-13",
+  "monthDay": "7/13",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Exodus 2:1-15a",
+    "psalm": "Psalm 69:3, 14, 30-31, 33-34",
+    "gospel": "Matthew 11:20-24"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/071327.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/07-13.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2027-11-27",
+  "monthDay": "11/27",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Daniel 7:15-27",
+    "psalm": "Daniel 3:82, 83, 84, 85, 86, 87",
+    "gospel": "Luke 21:34-36"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/112727.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/11-27.json"
+}

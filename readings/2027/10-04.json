@@ -1,0 +1,12 @@
+{
+  "date": "2027-10-04",
+  "monthDay": "10/4",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Jonah 1:1–2:1-2, 11",
+    "psalm": "Jonah 2:3, 4, 5, 8",
+    "gospel": "Luke 10:25-37"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/100427.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/10-04.json"
+}

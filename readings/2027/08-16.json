@@ -1,0 +1,12 @@
+{
+  "date": "2027-08-16",
+  "monthDay": "8/16",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Judges 2:11-19",
+    "psalm": "Psalm 106:34-35, 36-37, 39-40, 43ab and 44",
+    "gospel": "Matthew 19:16-22"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/081627.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/08-16.json"
+}

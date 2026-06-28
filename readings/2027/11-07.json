@@ -1,0 +1,13 @@
+{
+  "date": "2027-11-07",
+  "monthDay": "11/7",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Kings 17:10-16",
+    "psalm": "Psalm 146:7, 8-9, 9-10",
+    "secondReading": "Hebrews 9:24-28",
+    "gospel": "Mark 12:38-44 or 12:41-44"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/110727.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/11-07.json"
+}

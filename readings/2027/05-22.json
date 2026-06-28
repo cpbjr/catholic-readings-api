@@ -1,0 +1,12 @@
+{
+  "date": "2027-05-22",
+  "monthDay": "5/22",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Sirach 17:1-15",
+    "psalm": "Psalm 103:13-14, 15-16, 17-18",
+    "gospel": "Mark 10:13-16"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/052227.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/05-22.json"
+}

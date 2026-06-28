@@ -1,0 +1,12 @@
+{
+  "date": "2027-08-12",
+  "monthDay": "8/12",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Joshua 3:7-10a, 11, 13-17",
+    "psalm": "Psalm 114:1-2, 3-4, 5-6",
+    "gospel": "Matthew 18:21–19:1"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/081227.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/08-12.json"
+}

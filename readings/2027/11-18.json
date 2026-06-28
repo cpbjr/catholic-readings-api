@@ -1,0 +1,12 @@
+{
+  "date": "2027-11-18",
+  "monthDay": "11/18",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Maccabees 2:15-29",
+    "psalm": "Psalm 50:1b-2, 5-6, 14-15",
+    "gospel": "Luke 19:41-44"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/111827.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/11-18.json"
+}

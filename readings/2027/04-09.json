@@ -1,0 +1,12 @@
+{
+  "date": "2027-04-09",
+  "monthDay": "4/9",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 5:34-42",
+    "psalm": "Psalm 27:1, 4, 13-14",
+    "gospel": "John 6:1-15"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/040927.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/04-09.json"
+}

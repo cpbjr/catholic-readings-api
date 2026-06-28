@@ -1,0 +1,12 @@
+{
+  "date": "2027-07-06",
+  "monthDay": "7/6",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Genesis 32:23-33",
+    "psalm": "Psalm 17:1b, 2-3, 6-7ab, 8b and 15",
+    "gospel": "Matthew 9:32-38"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/070627.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/07-06.json"
+}

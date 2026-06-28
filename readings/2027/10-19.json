@@ -1,0 +1,12 @@
+{
+  "date": "2027-10-19",
+  "monthDay": "10/19",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 5:12, 15b, 17-19, 20b-21",
+    "psalm": "Psalm 40:7-8a, 8b-9, 10, 17",
+    "gospel": "Luke 12:35-38"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/101927.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/10-19.json"
+}

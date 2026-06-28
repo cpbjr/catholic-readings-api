@@ -1,0 +1,12 @@
+{
+  "date": "2027-01-06",
+  "monthDay": "1/6",
+  "season": "Christmas",
+  "readings": {
+    "firstReading": "1 John 4:11-18",
+    "psalm": "Psalm 72:1-2, 10, 12-13",
+    "gospel": "Mark 6:45-52"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/010627.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/01-06.json"
+}

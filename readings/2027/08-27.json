@@ -1,0 +1,12 @@
+{
+  "date": "2027-08-27",
+  "monthDay": "8/27",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Thessalonians 4:1-8",
+    "psalm": "Psalm 97:1 and 2b, 5-6, 10, 11-12",
+    "gospel": "Matthew 25:1-13"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/082727.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/08-27.json"
+}

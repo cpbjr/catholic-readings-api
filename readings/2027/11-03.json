@@ -1,0 +1,12 @@
+{
+  "date": "2027-11-03",
+  "monthDay": "11/3",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 13:8-10",
+    "psalm": "Psalm 112:1b-2, 4-5, 9",
+    "gospel": "Luke 14:25-33"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/110327.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/11-03.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2027-10-11",
+  "monthDay": "10/11",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 1:1-7",
+    "psalm": "Psalm 98:1bcde, 2-3ab, 3cd-4",
+    "gospel": "Luke 11:29-32"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/101127.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/10-11.json"
+}

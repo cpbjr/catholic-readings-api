@@ -1,0 +1,12 @@
+{
+  "date": "2027-12-11",
+  "monthDay": "12/11",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Sirach 48:1-4, 9-11",
+    "psalm": "Psalm 80:2ac and 3b, 15-16, 18-19",
+    "gospel": "Matthew 17:9a, 10-13"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/121127.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/12-11.json"
+}

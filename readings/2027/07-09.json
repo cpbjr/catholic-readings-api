@@ -1,0 +1,12 @@
+{
+  "date": "2027-07-09",
+  "monthDay": "7/9",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Genesis 46:1-7, 28-30",
+    "psalm": "Psalm 37:3-4, 18-19, 27-28, 39-40",
+    "gospel": "Matthew 10:16-23"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/070927.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/07-09.json"
+}

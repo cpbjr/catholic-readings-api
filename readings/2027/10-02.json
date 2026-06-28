@@ -1,0 +1,12 @@
+{
+  "date": "2027-10-02",
+  "monthDay": "10/2",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Baruch 4:5-12, 27-29",
+    "psalm": "Psalm 69:33-35, 36-37",
+    "gospel": "Matthew 18:1-5, 10"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/100227.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/10-02.json"
+}

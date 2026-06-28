@@ -1,0 +1,13 @@
+{
+  "date": "2027-12-19",
+  "monthDay": "12/19",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Micah 5:1-4a",
+    "psalm": "Psalm 80:2-3, 15-16, 18-19",
+    "secondReading": "Hebrews 10:5-10",
+    "gospel": "Luke 1:39-45"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/121927.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/12-19.json"
+}

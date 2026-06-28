@@ -1,0 +1,12 @@
+{
+  "date": "2027-06-12",
+  "monthDay": "6/12",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Corinthians 5:14-21",
+    "psalm": "Psalm 103:1-2, 3-4, 9-10, 11-12",
+    "gospel": "Matthew 5:33-37"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/061227.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/06-12.json"
+}

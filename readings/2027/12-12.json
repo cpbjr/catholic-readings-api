@@ -1,0 +1,13 @@
+{
+  "date": "2027-12-12",
+  "monthDay": "12/12",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Zephaniah 3:14-18a",
+    "psalm": "Isaiah 12:2-3, 4, 5-6.",
+    "secondReading": "Philippians 4:4-7",
+    "gospel": "Luke 3:10-18"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/121227.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/12-12.json"
+}

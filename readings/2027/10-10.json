@@ -1,0 +1,13 @@
+{
+  "date": "2027-10-10",
+  "monthDay": "10/10",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Wisdom 7:7-11",
+    "psalm": "Psalm 90:12-13, 14-15, 16-17",
+    "secondReading": "Hebrews 4:12-13",
+    "gospel": "Mark 10:17-30 or 10:17-27"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/101027.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/10-10.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2027-07-20",
+  "monthDay": "7/20",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Exodus 14:21—15:1",
+    "psalm": "Exodus 15:8-9, 10 and 12, 17",
+    "gospel": "Matthew 12:46-50"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/072027.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/07-20.json"
+}

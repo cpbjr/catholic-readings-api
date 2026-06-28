@@ -1,0 +1,12 @@
+{
+  "date": "2027-12-10",
+  "monthDay": "12/10",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Isaiah 48:17-19",
+    "psalm": "Psalm 1:1-2, 3, 4 and 6",
+    "gospel": "Matthew 11:16-19"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/121027.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/12-10.json"
+}

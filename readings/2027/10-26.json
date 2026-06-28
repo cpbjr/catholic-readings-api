@@ -1,0 +1,12 @@
+{
+  "date": "2027-10-26",
+  "monthDay": "10/26",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 8:18-25",
+    "psalm": "Psalm 126:1b-2ab, 2cd-3, 4-5, 6",
+    "gospel": "Luke 13:18-21"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/102627.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/10-26.json"
+}

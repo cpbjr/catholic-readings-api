@@ -1,0 +1,12 @@
+{
+  "date": "2027-01-14",
+  "monthDay": "1/14",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Hebrews 3:7-14",
+    "psalm": "Psalm 95:6-7c, 8-9, 10-11",
+    "gospel": "Mark 1:40-45"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/011427.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/01-14.json"
+}

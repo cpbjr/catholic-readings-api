@@ -1,0 +1,13 @@
+{
+  "date": "2027-11-28",
+  "monthDay": "11/28",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Jeremiah 33:14-16",
+    "psalm": "Psalm 25:4-5, 8-9, 10, 14",
+    "secondReading": "1 Thessalonians 3:12—4:2",
+    "gospel": "Luke 21:25-28, 34-36"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/112827.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/11-28.json"
+}

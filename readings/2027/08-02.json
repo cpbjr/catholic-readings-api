@@ -1,0 +1,12 @@
+{
+  "date": "2027-08-02",
+  "monthDay": "8/2",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Numbers 11:4b-15",
+    "psalm": "Psalm 81:12-13, 14-15, 16-17",
+    "gospel": "Matthew 14:13-21"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/080227.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/08-02.json"
+}

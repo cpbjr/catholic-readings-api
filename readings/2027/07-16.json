@@ -1,0 +1,12 @@
+{
+  "date": "2027-07-16",
+  "monthDay": "7/16",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Exodus 11:10—12:14",
+    "psalm": "Psalm 116:12-13, 15 and 16bc, 17-18",
+    "gospel": "Matthew 12:1-8"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/071627.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/07-16.json"
+}

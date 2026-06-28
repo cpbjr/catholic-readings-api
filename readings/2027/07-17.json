@@ -1,0 +1,12 @@
+{
+  "date": "2027-07-17",
+  "monthDay": "7/17",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Exodus 12:37-42",
+    "psalm": "Psalm 136:1 and 23-24, 10-12, 13-15",
+    "gospel": "Matthew 12:14-21"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/071727.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/07-17.json"
+}

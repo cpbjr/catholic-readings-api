@@ -1,0 +1,12 @@
+{
+  "date": "2027-08-13",
+  "monthDay": "8/13",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Joshua 24:1-13",
+    "psalm": "Psalm 136:1-3, 16-18, 21-22 and 24",
+    "gospel": "Matthew 19:3-12"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/081327.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/08-13.json"
+}

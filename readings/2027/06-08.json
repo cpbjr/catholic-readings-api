@@ -1,0 +1,12 @@
+{
+  "date": "2027-06-08",
+  "monthDay": "6/8",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Corinthians 1:18-22",
+    "psalm": "Psalm 119:129, 130, 131, 132, 133, 135",
+    "gospel": "Matthew 5:13-16"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/060827.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/06-08.json"
+}

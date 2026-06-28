@@ -1,0 +1,12 @@
+{
+  "date": "2027-03-30",
+  "monthDay": "3/30",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 2:36-41",
+    "psalm": "Psalm 33:4-5, 18-19, 20 and 22",
+    "gospel": "John 20:11-18"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/033027.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/03-30.json"
+}

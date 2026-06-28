@@ -1,0 +1,12 @@
+{
+  "date": "2027-01-28",
+  "monthDay": "1/28",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Hebrews 10:19-25",
+    "psalm": "Psalm 24:1-2, 3-4ab, 5-6",
+    "gospel": "Mark 4:21-25"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/012827.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/01-28.json"
+}

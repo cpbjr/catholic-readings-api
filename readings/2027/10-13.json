@@ -1,0 +1,12 @@
+{
+  "date": "2027-10-13",
+  "monthDay": "10/13",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 2:1-11",
+    "psalm": "Psalm 62:2-3, 6-7, 9",
+    "gospel": "Luke 11:42-46"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/101327.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/10-13.json"
+}

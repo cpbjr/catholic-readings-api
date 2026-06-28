@@ -1,0 +1,12 @@
+{
+  "date": "2027-08-11",
+  "monthDay": "8/11",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Deuteronomy 34:1-12",
+    "psalm": "Psalm 66:1-3a, 5 and 8, 16-17",
+    "gospel": "Matthew 18:15-20"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/081127.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/08-11.json"
+}

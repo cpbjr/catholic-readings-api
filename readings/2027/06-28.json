@@ -1,0 +1,12 @@
+{
+  "date": "2027-06-28",
+  "monthDay": "6/28",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Genesis 18:16-33",
+    "psalm": "Psalm 103:1b-2, 3-4, 8-9, 10-11",
+    "gospel": "Matthew 8:18-22"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/062827.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/06-28.json"
+}

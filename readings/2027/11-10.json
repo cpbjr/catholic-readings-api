@@ -1,0 +1,12 @@
+{
+  "date": "2027-11-10",
+  "monthDay": "11/10",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Wisdom 6:1-11",
+    "psalm": "Psalm 82:3-4, 6-7",
+    "gospel": "Luke 17:11-19"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/111027.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/11-10.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2027-01-23",
+  "monthDay": "1/23",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Hebrews 9:2-3, 11-14",
+    "psalm": "Psalm 47:2-3, 6-7, 8-9",
+    "gospel": "Mark 3:20-21"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/012327.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/01-23.json"
+}

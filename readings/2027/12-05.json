@@ -1,0 +1,13 @@
+{
+  "date": "2027-12-05",
+  "monthDay": "12/5",
+  "season": "Advent",
+  "readings": {
+    "firstReading": "Baruch 5:1-9",
+    "psalm": "Psalm 126:1-2, 2-3, 4-5, 6.",
+    "secondReading": "Philippians 1:4-6, 8-11",
+    "gospel": "Luke 3:1-6"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/120527.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/12-05.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2027-05-28",
+  "monthDay": "5/28",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Sirach 44:1, 9-13",
+    "psalm": "Psalm 149:1b-2, 3-4, 5-6a and 9b",
+    "gospel": "Mark 11:11-26"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/052827.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/05-28.json"
+}

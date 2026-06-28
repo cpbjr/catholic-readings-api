@@ -1,0 +1,12 @@
+{
+  "date": "2027-05-18",
+  "monthDay": "5/18",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Sirach 2:1-11",
+    "psalm": "Psalm 37:3-4, 18-19, 27-28, 39-40",
+    "gospel": "Mark 9:30-37"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/051827.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/05-18.json"
+}

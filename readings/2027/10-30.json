@@ -1,0 +1,12 @@
+{
+  "date": "2027-10-30",
+  "monthDay": "10/30",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 11:1-2a, 11-12, 25-29",
+    "psalm": "Psalm 94:12-13a, 14-15, 17-18",
+    "gospel": "Luke 14:1, 7-11"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/103027.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/10-30.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2027-03-20",
+  "monthDay": "3/20",
+  "season": "Lent",
+  "readings": {
+    "firstReading": "Ezekiel 37:21-28",
+    "psalm": "Jeremiah 31:10, 11-12abcd, 13",
+    "gospel": "John 11:45-56"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/032027.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/03-20.json"
+}

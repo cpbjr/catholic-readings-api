@@ -1,0 +1,13 @@
+{
+  "date": "2027-09-05",
+  "monthDay": "9/5",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Isaiah 35:4-7a",
+    "psalm": "Psalm 146:6-7, 8-9, 9-10",
+    "secondReading": "James 2:1-5",
+    "gospel": "Mark 7:31-37"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/090527.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/09-05.json"
+}

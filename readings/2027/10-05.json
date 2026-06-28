@@ -1,0 +1,12 @@
+{
+  "date": "2027-10-05",
+  "monthDay": "10/5",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Jonah 3:1-10",
+    "psalm": "Psalm 130:1b-2, 3-4ab, 7-8",
+    "gospel": "Luke 10:38-42"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/100527.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/10-05.json"
+}

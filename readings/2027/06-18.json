@@ -1,0 +1,12 @@
+{
+  "date": "2027-06-18",
+  "monthDay": "6/18",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Corinthians 11:18, 21-30",
+    "psalm": "Psalm 34:2-3, 4-5, 6-7",
+    "gospel": "Matthew 6:19-23"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/061827.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/06-18.json"
+}

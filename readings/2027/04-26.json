@@ -1,0 +1,12 @@
+{
+  "date": "2027-04-26",
+  "monthDay": "4/26",
+  "season": "Eastertide",
+  "readings": {
+    "firstReading": "Acts 14:5-18",
+    "psalm": "Psalm 115:1-2, 3-4, 15-16",
+    "gospel": "John 14:21-26"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/042627.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/04-26.json"
+}

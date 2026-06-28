@@ -1,0 +1,13 @@
+{
+  "date": "2027-08-08",
+  "monthDay": "8/8",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "1 Kings 19:4-8",
+    "psalm": "Psalm 34:2-3, 4-5, 6-7, 8-9",
+    "secondReading": "Ephesians 4:30—5:2",
+    "gospel": "John 6:41-51"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/080827.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/08-08.json"
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2027-01-25",
+  "monthDay": "1/25",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Acts 22:3-16",
+    "psalm": "Psalm 117:1bc, 2",
+    "gospel": "Mark 16:15-18"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/012527.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/01-25.json"
+}

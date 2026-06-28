@@ -1,0 +1,12 @@
+{
+  "date": "2027-11-22",
+  "monthDay": "11/22",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Daniel 1:1-6, 8-20",
+    "psalm": "Daniel 3:52, 53, 54, 55, 56",
+    "gospel": "Luke 21:1-4"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/112227.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/11-22.json"
+}

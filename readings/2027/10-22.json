@@ -1,0 +1,12 @@
+{
+  "date": "2027-10-22",
+  "monthDay": "10/22",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 7:18-25a",
+    "psalm": "Psalm 119:66, 68, 76, 77, 93, 94",
+    "gospel": "Luke 12:54-59"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/102227.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/10-22.json"
+}

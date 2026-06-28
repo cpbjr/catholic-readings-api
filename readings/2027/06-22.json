@@ -1,0 +1,12 @@
+{
+  "date": "2027-06-22",
+  "monthDay": "6/22",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Genesis 13:2, 5-18",
+    "psalm": "Psalm 15:2-3a, 3bc-4ab, 5",
+    "gospel": "Matthew 7:6, 12-14"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/062227.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/06-22.json"
+}

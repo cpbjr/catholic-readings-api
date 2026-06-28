@@ -1,0 +1,12 @@
+{
+  "date": "2027-06-14",
+  "monthDay": "6/14",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "2 Corinthians 6:1-10",
+    "psalm": "Psalm 98:1, 2b, 3ab, 3cd-4",
+    "gospel": "Matthew 5:38-42"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/061427.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/06-14.json"
+}

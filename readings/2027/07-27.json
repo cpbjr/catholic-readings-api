@@ -1,0 +1,12 @@
+{
+  "date": "2027-07-27",
+  "monthDay": "7/27",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Exodus 33:7-11; 34:5b-9, 28",
+    "psalm": "Psalm 103:6-7, 8-9, 10-11, 12-13",
+    "gospel": "Matthew 13:36-43"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/072727.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/07-27.json"
+}

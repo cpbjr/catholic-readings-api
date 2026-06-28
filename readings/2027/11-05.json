@@ -1,0 +1,12 @@
+{
+  "date": "2027-11-05",
+  "monthDay": "11/5",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Romans 15:14-21",
+    "psalm": "Psalm 98:1, 2-3ab, 3cd-4",
+    "gospel": "Luke 16:1-8"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/110527.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/11-05.json"
+}

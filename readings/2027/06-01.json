@@ -1,0 +1,12 @@
+{
+  "date": "2027-06-01",
+  "monthDay": "6/1",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Tobit 2:9-14",
+    "psalm": "Psalm 112:1-2, 7-8, 9",
+    "gospel": "Mark 12:13-17"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/060127.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/06-01.json"
+}

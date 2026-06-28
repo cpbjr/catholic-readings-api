@@ -1,0 +1,12 @@
+{
+  "date": "2027-06-23",
+  "monthDay": "6/23",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Genesis 15:1-12, 17-18",
+    "psalm": "Psalm 105:1-2, 3-4, 6-7, 8-9",
+    "gospel": "Matthew 7:15-20"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/062327.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/06-23.json"
+}

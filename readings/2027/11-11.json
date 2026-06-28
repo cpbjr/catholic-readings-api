@@ -1,0 +1,12 @@
+{
+  "date": "2027-11-11",
+  "monthDay": "11/11",
+  "season": "Ordinary Time",
+  "readings": {
+    "firstReading": "Wisdom 7:22b–8:1",
+    "psalm": "Psalm 119:89, 90, 91, 130, 135, 175",
+    "gospel": "Luke 17:20-25"
+  },
+  "usccbLink": "https://bible.usccb.org/bible/readings/111127.cfm",
+  "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/11-11.json"
+}
