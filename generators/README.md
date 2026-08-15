@@ -22,10 +22,14 @@ Use `generate-2026-readings.js` as a template.
 ### Key Implementation Details
 
 #### Handling Landing Pages
-The USCCB website often uses landing pages for major solemnities (Christmas, Pentecost, Holy Thursday, etc.). The scraper is designed to:
-- Detect if a page has no direct readings citations.
-- Look for links containing "Mass during the Day", "Lord's Supper", or "Thanksgiving".
+The USCCB website often uses landing pages for major solemnities (Christmas, Pentecost, Holy Thursday, Assumption, etc.). The scraper is designed to:
+- Detect if a page has no citations **or is missing `firstReading`**.
+- Look for links containing "Mass during the Day", href `-Day`, "Lord's Supper", or "Thanksgiving".
 - Recursively fetch and parse the target page.
+
+Partial holy-day parses (Psalm + Gospel + Second, but no First) used to be treated as complete because the skip rule was `Object.keys(readings).length > 2`. Skip now requires both `firstReading` and `gospel`.
+
+USCCB weekday memorials often title the first reading as a bare **Reading** (no 1/I). `parsePage` treats that as `firstReading`.
 
 #### Handling 404s
 Occasionally, the USCCB URL pattern `MMDDYY.cfm` fails (returns 404). For 2026, we encountered 4 such cases.

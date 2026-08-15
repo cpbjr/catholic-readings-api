@@ -32,7 +32,8 @@ function parsePage(html) {
         }
 
         if (citation) {
-            if (/reading\s+(i|1)\b/.test(title) && !/(ii|2)/.test(title)) {
+            // USCCB weekday memorials often use a bare "Reading" heading (no 1/I).
+            if ((/^reading$/.test(title) || /reading\s+(i|1)\b/.test(title)) && !/(ii|2)/.test(title)) {
                 readings.firstReading = citation;
                 hasReadings = true;
             } else if (/reading\s+(ii|2)\b/.test(title)) {
@@ -102,7 +103,7 @@ async function scrapeReadings() {
         // Check if we need to (re)scrape
         if (fs.existsSync(outputPath)) {
             const existing = JSON.parse(fs.readFileSync(outputPath, 'utf8'));
-            if (existing.readings && Object.keys(existing.readings).length > 2) {
+            if (existing.readings && existing.readings.firstReading && existing.readings.gospel) {
                 continue;
             }
             console.log(`Re-scraping ${file} (missing data)...`);
@@ -134,14 +135,17 @@ async function scrapeReadings() {
 
             let { readings, hasReadings } = parsePage(response.data);
 
-            // If no readings found, check for landing page links
-            if (!hasReadings) {
+            // Landing pages (Assumption, Christmas, etc.) or a partial parse
+            // (first reading heading not matched) need the Day/Vigil subpage.
+            if (!hasReadings || !readings.firstReading) {
                 const $ = cheerio.load(response.data);
                 const dayMassLink = $('a').filter((i, el) => {
                     const txt = $(el).text().toLowerCase();
+                    const href = ($(el).attr('href') || '').toLowerCase();
                     return txt.includes('mass during the day') ||
                         txt.includes('mass at the day') ||
                         txt === 'day' ||
+                        href.includes('-day') ||
                         txt.includes('thanksgiving day') ||
                         txt.includes('thanksgiving') ||
                         txt.includes("lord's supper") ||
