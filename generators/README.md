@@ -17,7 +17,8 @@ Use `generate-2026-skeleton.js` as a template (e.g., copy to `generate-2027-skel
 Use `generate-2026-readings.js` as a template.
 1. Update paths and logic to point to the new year's calendar directory.
 2. Run the script: `node generate-2027-readings.js`.
-3. The script will scrape the USCCB website (`bible.usccb.org`).
+3. The script scrapes USCCB (`bible.usccb.org`), then **automatically runs** `check-solemnity-readings.js` for that year. A thin holy-day parse (missing `firstReading`, or a solemnity missing `secondReading`) exits non-zero so it cannot be published silently.
+4. You can also run the review alone: `node generators/check-solemnity-readings.js --year 2027` (or `npm run check:solemnities -- --year 2027`).
 
 ### Key Implementation Details
 
@@ -30,6 +31,15 @@ The USCCB website often uses landing pages for major solemnities (Christmas, Pen
 Partial holy-day parses (Psalm + Gospel + Second, but no First) used to be treated as complete because the skip rule was `Object.keys(readings).length > 2`. Skip now requires both `firstReading` and `gospel`.
 
 USCCB weekday memorials often title the first reading as a bare **Reading** (no 1/I). `parsePage` treats that as `firstReading`.
+
+#### Solemnity / holy-day review (`check-solemnity-readings.js`)
+Required after every scrape (the `generate-YYYY-readings.js` scripts invoke it):
+
+- Every readings file must have `firstReading` and `gospel`.
+- `SOLEMNITY` also requires `secondReading`, except Easter Monday–Saturday (octave weekdays).
+- Assumption / Christmas / Pentecost-class names are labeled `[PROMINENT HOLY DAY]` in the report.
+- Exit 0 if clean, exit 1 on any FAIL.
+- 2025 is a partial historical year and will fail the “readings file absent” check for early months. 2026 and 2027 are the production years.
 
 #### Handling 404s
 Occasionally, the USCCB URL pattern `MMDDYY.cfm` fails (returns 404). For 2026, we encountered 4 such cases.

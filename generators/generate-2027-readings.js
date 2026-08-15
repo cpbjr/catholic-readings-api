@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const { spawnSync } = require('child_process');
 const axios = require('axios');
 const cheerio = require('cheerio');
 
@@ -197,6 +198,16 @@ async function scrapeReadings() {
     }
 
     console.log('2027 readings scraping complete!');
+
+    const checkerResult = spawnSync(
+        'node',
+        [path.join(__dirname, 'check-solemnity-readings.js'), '--year', '2027'],
+        { stdio: 'inherit' }
+    );
+    if (checkerResult.status !== 0) {
+        console.error('ERROR: Solemnity readings check failed — review the output above before publishing.');
+        process.exit(1);
+    }
 }
 
 scrapeReadings().catch(console.error);
