@@ -1,3 +1,5 @@
+
+
 # Catholic Readings API
 
 > A free, open-source REST API providing daily Catholic Mass readings, saints, and liturgical calendar data via GitHub Pages.
@@ -214,7 +216,7 @@ add_shortcode('daily_readings', 'catholic_readings_shortcode');
 
 ## 📅 Date Format
 
-All endpoints use the format: `MM-DD.json`
+All endpoints use the format: `{YYYY}/MM-DD.json`
 
 Examples:
 - January 1: `01-01.json`
