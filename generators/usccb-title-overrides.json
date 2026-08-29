@@ -1,0 +1,26 @@
+{
+  "_comment": "Overlay of official USCCB celebration titles (bible.usccb.org daily readings page <title>) for dates where romcal's default English name is a folk/nickname title instead of the USCCB wording. Keyed by MM-DD. `name` is the value that should go in celebration.name (with the celebration type, e.g. 'Memorial'/'Solemnity', already implied by celebration.type — so the leading 'Memorial of the'/'Solemnity of the' from the USCCB page title is stripped). Applied both at generation time (generate-2026-skeleton.js and future skeleton generators) and retroactively to existing JSON via apply-usccb-overrides.js, so regenerating the calendar cannot silently reintroduce the folk name.",
+  "overrides": {
+    "08-29": {
+      "name": "Passion of Saint John the Baptist",
+      "uscccbPageTitle": "Memorial of the Passion of Saint John the Baptist",
+      "source": "https://bible.usccb.org/bible/readings/082926.cfm",
+      "verified": "2026-08-29",
+      "notes": "romcal emits 'The Beheading of Saint John the Baptist, Martyr' (2026) / 'Passion of John the Baptist' (2025, missing 'Saint'). Only applies when the day is actually kept as this memorial (not when superseded by a Sunday, e.g. 2027-08-29)."
+    },
+    "09-23": {
+      "name": "Saint Pius of Pietrelcina, Priest",
+      "uscccbPageTitle": "Memorial of Saint Pius of Pietrelcina, Priest",
+      "source": "https://bible.usccb.org/bible/readings/092326.cfm",
+      "verified": "2026-08-29",
+      "notes": "romcal emits 'Saint Pio of Pietrelcina (Padre Pio), Priest'. USCCB uses the anglicized 'Pius' with no parenthetical nickname."
+    },
+    "06-24": {
+      "name": "Nativity of Saint John the Baptist",
+      "uscccbPageTitle": "Solemnity of the Nativity of Saint John the Baptist",
+      "source": "https://bible.usccb.org/bible/readings/062426.cfm",
+      "verified": "2026-08-29",
+      "notes": "romcal emits 'Birth of John the Baptist'. USCCB uses 'Nativity'."
+    }
+  }
+}

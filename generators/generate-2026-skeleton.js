@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const Romcal = require('romcal');
+const { getOverrideName } = require('./apply-usccb-overrides');
 
 const outputDir = path.join(__dirname, '..', 'liturgical-calendar', '2026');
 if (!fs.existsSync(outputDir)) {
@@ -35,12 +36,18 @@ async function generate() {
 
         const filename = path.join(outputDir, `${month}-${day}.json`);
 
+        // USCCB uses different (official) wording than romcal's folk/nickname
+        // titles for a handful of dates (e.g. "Beheading" vs "Passion of
+        // Saint John the Baptist"). See usccb-title-overrides.json.
+        const monthDayKey = `${month}-${day}`;
+        const celebrationName = getOverrideName(monthDayKey, event.type) || event.name;
+
         const celebration = {
             date: dateStr,
             monthDay: monthDay,
             season: event.data.season.value,
             celebration: {
-                name: event.name,
+                name: celebrationName,
                 type: event.type,
                 // Optional fields could be added here if available in romcal or docx
                 quote: "",
