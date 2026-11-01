@@ -16,6 +16,10 @@
  *      (Assumption, Christmas, Pentecost, etc.) gets an extra label in output
  *      when firstReading is missing, to surface the most liturgically critical
  *      gaps prominently.
+ *   4. Every citation must begin with a known book name. Esther additions
+ *      ("Esther C:12") and canticle responsorials (Luke 1, Daniel 3) are
+ *      allowed. A scraped typo such as "Sirarch" or a bare "137:1-2" fails
+ *      the build.
  *
  * Usage:
  *   node generators/check-solemnity-readings.js --year 2026 [--json]
@@ -45,6 +49,17 @@ const EASTER_OCTAVE_RE = /easter (monday|tuesday|wednesday|thursday|friday|satur
 // Prominent holy days where a missing firstReading is especially critical
 const PROMINENT_HOLYDAY_RE =
   /assumption|christmas|pentecost|immaculate conception|all saints|birth of john|peter and paul|sacred heart|corpus christi|epiphany|mary mother of god|trinity|christ the king|ascension/i;
+
+const BOOK_RE = /^(?:[1-3] )?(?:Genesis|Exodus|Leviticus|Numbers|Deuteronomy|Joshua|Judges|Ruth|Samuel|Kings|Chronicles|Ezra|Nehemiah|Tobit|Judith|Esther(?: [A-F])?|Maccabees|Job|Psalms?|Proverbs|Ecclesiastes|Song of Songs|Wisdom|Sirach|Isaiah|Jeremiah|Lamentations|Baruch|Ezekiel|Daniel|Hosea|Joel|Amos|Obadiah|Jonah|Micah|Nahum|Habakkuk|Zephaniah|Haggai|Zechariah|Malachi|Matthew|Mark|Luke|John|Acts|Romans|Corinthians|Galatians|Ephesians|Philippians|Colossians|Thessalonians|Timothy|Titus|Philemon|Hebrews|James|Peter|Jude|Revelation)\b/;
+
+function citationProblem(field, value) {
+  if (typeof value !== 'string' || !value.trim()) return null;
+  const text = value.replace(/\u00a0/g, ' ').trim();
+  // Responsorials are often canticles (Luke 1, Daniel 3, Isaiah 12), not Psalm N.
+  // A bare "137:1-2" still fails because it names no book.
+  if (!BOOK_RE.test(text)) return `${field} unknown book: ${value}`;
+  return null;
+}
 
 // ---------------------------------------------------------------------------
 // CLI args
@@ -138,6 +153,12 @@ for (const file of calendarFiles) {
     !readings.secondReading
   ) {
     missing.push('secondReading');
+  }
+
+  // Rule 4: citation must name a real book. Catches Sirarch / bare psalm numbers.
+  for (const field of ['firstReading', 'psalm', 'secondReading', 'gospel']) {
+    const problem = citationProblem(field, readings[field]);
+    if (problem) missing.push(problem);
   }
 
   if (missing.length > 0) {
