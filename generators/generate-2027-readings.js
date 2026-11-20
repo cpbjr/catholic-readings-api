@@ -109,20 +109,40 @@ function parsePage(html) {
     return { readings, hasReadings };
 }
 
-async function fetchWithRetry(url) {
-    try {
-        const response = await axios.get(url, {
-            headers: {
-                'User-Agent': 'Mozilla/5.0 (compatible; CatholicReadingsAPI/1.0; +https://github.com/cpbjr/catholic-readings-api)'
-            },
-            timeout: 10000
-        });
-        return response;
-    } catch (error) {
-        if (error.response && error.response.status === 404) {
-            return null;
+async function fetchWithRetry(url, retries = 3) {
+    for (let attempt = 1; attempt <= retries; attempt++) {
+        try {
+            const response = await axios.get(url, {
+                headers: {
+                    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+                    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+                },
+                timeout: 15000
+            });
+
+            if (typeof response.data === 'string' && /checking connection|enable javascript and cookies/i.test(response.data)) {
+                throw Object.assign(new Error('WAF challenge page returned'), { isWafChallenge: true });
+            }
+
+            return response;
+        } catch (error) {
+            if (error.response && error.response.status === 404) {
+                return null;
+            }
+            if ((error.response && error.response.status === 403) || error.isWafChallenge) {
+                console.warn(`  [Attempt ${attempt}/${retries}] 403 / WAF challenge, waiting before retry...`);
+                if (attempt < retries) {
+                    await new Promise(resolve => setTimeout(resolve, 5000 * attempt));
+                    continue;
+                }
+                throw error;
+            }
+            if (attempt === retries) {
+                throw error;
+            }
+            console.warn(`  [Attempt ${attempt}/${retries}] Error: ${error.message}, retrying...`);
+            await new Promise(resolve => setTimeout(resolve, 2000 * attempt));
         }
-        throw error;
     }
 }
 
