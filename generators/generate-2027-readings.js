@@ -43,6 +43,21 @@ function parsePage(html) {
             } else if (/psalm/.test(title)) {
                 readings.psalm = citation;
                 hasReadings = true;
+            } else if (/alleluia|verse before the gospel/.test(title)) {
+                readings.gospelAcclamation = citation;
+               
+                // Capture the body text for the Alleluia / Verse Before the Gospel
+                const contentDiv = $(el).nextAll("div.content-body, div.poetry").first();
+                if (contentDiv.length != null && contentDiv.length > 0 && contentDiv.prevAll("h3").first().is(el)) {
+                    const rawHtml = (contentDiv.html() ?? "").replace(/<br\s*\/?>/gi, "\n");
+                    const gospelAcclamationBodyText = cheerio.load(rawHtml).text().trim();
+
+                    if (gospelAcclamationBodyText.length > 0) {
+                        readings.gospelAcclamationText = gospelAcclamationBodyText;
+                    }
+                }
+
+                hasReadings = true;
             } else if (/gospel/.test(title)) {
                 readings.gospel = citation;
                 hasReadings = true;
@@ -104,7 +119,7 @@ async function scrapeReadings() {
         // Check if we need to (re)scrape
         if (fs.existsSync(outputPath)) {
             const existing = JSON.parse(fs.readFileSync(outputPath, 'utf8'));
-            if (existing.readings && existing.readings.firstReading && existing.readings.gospel) {
+            if (existing.readings && existing.readings.firstReading && existing.readings.gospelAcclamation && existing.readings.gospel) {
                 continue;
             }
             console.log(`Re-scraping ${file} (missing data)...`);

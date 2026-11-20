@@ -43,6 +43,21 @@ function parsePage(html) {
             } else if (/psalm/.test(title)) {
                 readings.psalm = citation;
                 hasReadings = true;
+            } else if (/alleluia|verse before the gospel/.test(title)) {
+                readings.gospelAcclamation = citation;
+                               
+                // Capture the body text for the Alleluia / Verse Before the Gospel
+                const contentDiv = $(el).nextAll("div.content-body, div.poetry").first();
+                if (contentDiv.length != null && contentDiv.length > 0 && contentDiv.prevAll("h3").first().is(el)) {
+                    const rawHtml = (contentDiv.html() ?? "").replace(/<br\s*\/?>/gi, "\n");
+                    const gospelAcclamationBodyText = cheerio.load(rawHtml).text().trim();
+
+                    if (gospelAcclamationBodyText.length > 0) {
+                        readings.gospelAcclamationText = gospelAcclamationBodyText;
+                    }
+                }
+
+                hasReadings = true;
             } else if (/gospel/.test(title)) {
                 readings.gospel = citation;
                 hasReadings = true;
@@ -90,7 +105,7 @@ async function scrapeReadings() {
         // Check if we need to (re)scrape
         if (fs.existsSync(outputPath)) {
             const existing = JSON.parse(fs.readFileSync(outputPath, 'utf8'));
-            if (existing.readings && existing.readings.firstReading && existing.readings.gospel) {
+            if (existing.readings && existing.readings.firstReading && existing.readings.gospelAcclamation && existing.readings.gospel) {
                 continue;
             }
             console.log(`Re-scraping ${file} (missing data)...`);
@@ -101,10 +116,10 @@ async function scrapeReadings() {
         try {
             let response = await fetchWithRetry(usccbUrl);
             const readingsFallbacks = {
-                '050926': { firstReading: 'Acts 16:1-10', psalm: 'Psalm 100:1b-2, 3, 5', gospel: 'John 15:18-21' },
-                '063026': { firstReading: 'Amos 3:1-8; 4:11-12', psalm: 'Psalm 5:5-6, 7, 8', gospel: 'Matthew 8:23-27' },
-                '080126': { firstReading: 'Jeremiah 26:11-16, 24', psalm: 'Psalm 69:15-16, 30-31, 33-34', gospel: 'Matthew 14:1-12' },
-                '081226': { firstReading: 'Ezekiel 9:1-7; 10:18-22', psalm: 'Psalm 113:1-2, 3-4, 5-6', gospel: 'Matthew 18:15-20' }
+                '050926': { firstReading: 'Acts 16:1-10', psalm: 'Psalm 100:1b-2, 3, 5', gospelAcclamation: 'Colossians 3:1', gospel: 'John 15:18-21' },
+                '063026': { firstReading: 'Amos 3:1-8; 4:11-12', psalm: 'Psalm 5:5-6, 7, 8', gospelAcclamation: 'Psalm 130:5', gospel: 'Matthew 8:23-27' },
+                '080126': { firstReading: 'Jeremiah 26:11-16, 24', psalm: 'Psalm 69:15-16, 30-31, 33-34', gospelAcclamation: 'Matthew 5:10', gospel: 'Matthew 14:1-12' },
+                '081226': { firstReading: 'Ezekiel 9:1-7; 10:18-22', psalm: 'Psalm 113:1-2, 3-4, 5-6', gospelAcclamation: '2 Corinthians 5:19', gospel: 'Matthew 18:15-20' }
             };
 
             if (!response) {
