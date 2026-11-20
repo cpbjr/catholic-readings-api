@@ -66,6 +66,13 @@ function parsePage(html) {
                     if (cleanText.length > 0) {
                         bodyParts.push(cleanText);
                     }
+                } else if (curr.is("div")) { // Sometimes there's an extra 'div' element on some Daily Reading Entries
+                    curr.find("p, div.content-body, div.poetry").each((_, child) => {
+                        const cleanText = extractCleanBlockText($, child);
+                        if (cleanText.length > 0) {
+                            bodyParts.push(cleanText);
+                        }
+                    });
                 }
                 curr = curr.next();
             }

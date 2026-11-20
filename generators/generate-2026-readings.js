@@ -66,6 +66,13 @@ function parsePage(html) {
                     if (cleanText.length > 0) {
                         bodyParts.push(cleanText);
                     }
+                } else if (curr.is("div")) { // Sometimes there's an extra 'div' element on some Daily Reading Entries
+                    curr.find("p, div.content-body, div.poetry").each((_, child) => {
+                        const cleanText = extractCleanBlockText($, child);
+                        if (cleanText.length > 0) {
+                            bodyParts.push(cleanText);
+                        }
+                    });
                 }
                 curr = curr.next();
             }
@@ -145,33 +152,33 @@ async function scrapeReadings() {
         try {
             let response = await fetchWithRetry(usccbUrl);
             const readingsFallbacks = {
-                '050926': { 
-                    firstReading: 'Acts 16:1-10', 
-                    psalm: 'Psalm 100:1b-2, 3, 5', 
-                    gospelAcclamation: 'Colossians 3:1', 
+                '050926': {
+                    firstReading: 'Acts 16:1-10',
+                    psalm: 'Psalm 100:1b-2, 3, 5',
+                    gospelAcclamation: 'Colossians 3:1',
                     gospelAcclamationText: 'R. Alleluia, alleluia.\nIf then you were raised with Christ,\nseek what is above,\nwhere Christ is seated at the right hand of God.\nR. Alleluia, alleluia.',
-                    gospel: 'John 15:18-21', 
+                    gospel: 'John 15:18-21',
                 },
-                '063026': { 
-                    firstReading: 'Amos 3:1-8; 4:11-12', 
-                    psalm: 'Psalm 5:5-6, 7, 8', 
-                    gospelAcclamation: 'Psalm 130:5', 
+                '063026': {
+                    firstReading: 'Amos 3:1-8; 4:11-12',
+                    psalm: 'Psalm 5:5-6, 7, 8',
+                    gospelAcclamation: 'Psalm 130:5',
                     gospelAcclamationText: 'R. Alleluia, alleluia.\nI trust in the Lord;\nmy soul trusts in his word.\nR. Alleluia, alleluia.',
-                    gospel: 'Matthew 8:23-27', 
+                    gospel: 'Matthew 8:23-27',
                 },
-                '080126': { 
-                    firstReading: 'Jeremiah 26:11-16, 24', 
-                    psalm: 'Psalm 69:15-16, 30-31, 33-34', 
-                    gospelAcclamation: 'Matthew 5:10', 
+                '080126': {
+                    firstReading: 'Jeremiah 26:11-16, 24',
+                    psalm: 'Psalm 69:15-16, 30-31, 33-34',
+                    gospelAcclamation: 'Matthew 5:10',
                     gospelAcclamationText: 'R. Alleluia, alleluia.\nBlessed are they who are persecuted for the sake of righteousness\nfor theirs is the Kingdom of heaven.\nR. Alleluia, alleluia.',
-                    gospel: 'Matthew 14:1-12', 
+                    gospel: 'Matthew 14:1-12',
                 },
-                '081226': { 
-                    firstReading: 'Ezekiel 9:1-7; 10:18-22', 
-                    psalm: 'Psalm 113:1-2, 3-4, 5-6', 
+                '081226': {
+                    firstReading: 'Ezekiel 9:1-7; 10:18-22',
+                    psalm: 'Psalm 113:1-2, 3-4, 5-6',
                     gospelAcclamation: '2 Corinthians 5:19',
                     gospelAcclamationText: 'R. Alleluia, alleluia.\nGod was reconciling the world to himself in Christ,\nand entrusting to us the message of reconciliation.\nR. Alleluia, alleluia.',
-                    gospel: 'Matthew 18:15-20', 
+                    gospel: 'Matthew 18:15-20',
                 },
             };
 
