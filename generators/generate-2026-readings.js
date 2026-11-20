@@ -170,7 +170,7 @@ async function scrapeReadings() {
                     firstReading: 'Ezekiel 9:1-7; 10:18-22', 
                     psalm: 'Psalm 113:1-2, 3-4, 5-6', 
                     gospelAcclamation: '2 Corinthians 5:19',
-                    gospelAcclamationBodyText: 'R. Alleluia, alleluia.\nGod was reconciling the world to himself in Christ,\nand entrusting to us the message of reconciliation.\nR. Alleluia, alleluia.',
+                    gospelAcclamationText: 'R. Alleluia, alleluia.\nGod was reconciling the world to himself in Christ,\nand entrusting to us the message of reconciliation.\nR. Alleluia, alleluia.',
                     gospel: 'Matthew 18:15-20', 
                 },
             };
