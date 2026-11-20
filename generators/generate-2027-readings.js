@@ -230,8 +230,18 @@ async function scrapeReadings() {
                         txt.includes('ascension');
                 }).first().attr('href');
 
-                if (dayMassLink) {
-                    const nextUrl = dayMassLink.startsWith('http') ? dayMassLink : `https://bible.usccb.org${dayMassLink}`;
+                
+                // Check for Year B sub-link (Lent/Advent Sundays with Year A/B split)
+                const yearBLink = $('a').filter((i, el) => {
+                    const txt = $(el).text().toLowerCase();
+                    const href = $(el).attr('href') || '';
+                    return (txt.includes('year b') || href.includes('-yearb') || href.includes('-YearB'));
+                }).first().attr('href');
+
+                const subLink = dayMassLink || yearBLink;
+
+                if (subLink) {
+                    const nextUrl = subLink.startsWith('http') ? subLink : `https://bible.usccb.org${subLink}`;
                     console.log(`Following sub-link for ${date}: ${nextUrl}`);
                     response = await fetchWithRetry(nextUrl);
                     if (response) {
