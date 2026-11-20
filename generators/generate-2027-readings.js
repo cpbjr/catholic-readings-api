@@ -11,28 +11,72 @@ if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
 }
 
+function extractCleanBlockText($, el) {
+    const rawHtml = ($(el).html() ?? "").replace(/<br\s*\/?>/gi, "\n");
+    return cheerio
+        .load(rawHtml)
+        .text()
+        .split("\n")
+        .map((line) => line.replace(/[ \t\u00a0]+/g, " ").trim())
+        .filter(Boolean)
+        .join("\n")
+        .trim();
+}
+
 function parsePage(html) {
     const $ = cheerio.load(html);
     const readings = {};
     let hasReadings = false;
 
-    $('h3').each((i, el) => {
-        const title = $(el).text().trim().toLowerCase();
+    $('h3, h4').each((i, el) => {
+        const heading = $(el);
+        const title = heading.text().replace(/\s+/g, " ").trim().toLowerCase();
         let citation = "";
 
-        const addressDiv = $(el).nextAll('div.address').first();
-        if (addressDiv.length && addressDiv.prevAll('h3').first().is(el)) {
-            citation = addressDiv.text().trim();
+        const addressDiv = heading.nextAll("div.address").first();
+        if (addressDiv.length && addressDiv.prevAll("h3, h4").first().is(el)) {
+            citation = addressDiv.text().replace(/\s+/g, " ").trim();
         }
 
         if (!citation) {
-            const nextLink = $(el).nextAll('a').first();
-            if (nextLink.length && nextLink.prevAll('h3').first().is(el)) {
-                citation = nextLink.text().trim();
+            const nextLink = heading.find('a').first().length
+                ? heading.find('a').first()
+                : heading.nextAll('a').filter((_, aEl) => $(aEl).prevAll('h3, h4').first().is(el)).first();
+            if (nextLink.length) {
+                const linkText = nextLink.text().replace(/\s+/g, " ").trim();
+                if (!/^see\s+/i.test(linkText)) {
+                    citation = linkText;
+                }
             }
         }
 
-        if (citation) {
+        // Capture the body text for the Alleluia / Verse Before the Gospel
+        const isAcclamation = /\balleluia\b|\bverse before\b/i.test(title);
+        if (isAcclamation) {
+            readings.gospelAcclamation = citation || "";
+
+            const bodyParts = [];
+            let curr = heading.next();
+            while (curr.length) {
+                if (curr.is("header.content-header, h3, h4") || curr.find("h3, h4").length > 0) {
+                    break;
+                }
+                if (curr.is("div.content-body, div.poetry, p")) {
+                    const cleanText = extractCleanBlockText($, curr);
+                    if (cleanText.length > 0) {
+                        bodyParts.push(cleanText);
+                    }
+                }
+                curr = curr.next();
+            }
+
+            const gospelAcclamationBodyText = bodyParts.join("\n\n").trim();
+            if (gospelAcclamationBodyText.length > 0) {
+                readings.gospelAcclamationText = gospelAcclamationBodyText;
+            }
+
+            hasReadings = true;
+        } else if (citation) {
             // USCCB weekday memorials often use a bare "Reading" heading (no 1/I).
             if ((/^reading$/.test(title) || /reading\s+(i|1)\b/.test(title)) && !/(ii|2)/.test(title)) {
                 readings.firstReading = citation;
@@ -42,21 +86,6 @@ function parsePage(html) {
                 hasReadings = true;
             } else if (/psalm/.test(title)) {
                 readings.psalm = citation;
-                hasReadings = true;
-            } else if (/alleluia|verse before the gospel/.test(title)) {
-                readings.gospelAcclamation = citation;
-               
-                // Capture the body text for the Alleluia / Verse Before the Gospel
-                const contentDiv = $(el).nextAll("div.content-body, div.poetry").first();
-                if (contentDiv.length != null && contentDiv.length > 0 && contentDiv.prevAll("h3").first().is(el)) {
-                    const rawHtml = (contentDiv.html() ?? "").replace(/<br\s*\/?>/gi, "\n");
-                    const gospelAcclamationBodyText = cheerio.load(rawHtml).text().trim();
-
-                    if (gospelAcclamationBodyText.length > 0) {
-                        readings.gospelAcclamationText = gospelAcclamationBodyText;
-                    }
-                }
-
                 hasReadings = true;
             } else if (/gospel/.test(title)) {
                 readings.gospel = citation;
@@ -68,34 +97,20 @@ function parsePage(html) {
     return { readings, hasReadings };
 }
 
-async function fetchWithRetry(url, retries = 3) {
-    for (let attempt = 1; attempt <= retries; attempt++) {
-        try {
-            const response = await axios.get(url, {
-                headers: {
-                    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-                },
-                timeout: 15000
-            });
-            return response;
-        } catch (error) {
-            if (error.response && error.response.status === 404) {
-                return null;
-            }
-            if (error.response && error.response.status === 403) {
-                console.warn(`  [Attempt ${attempt}/${retries}] 403 Forbidden, waiting before retry...`);
-                if (attempt < retries) {
-                    await new Promise(resolve => setTimeout(resolve, 5000 * attempt));
-                    continue;
-                }
-                throw error;
-            }
-            if (attempt === retries) {
-                throw error;
-            }
-            console.warn(`  [Attempt ${attempt}/${retries}] Error: ${error.message}, retrying...`);
-            await new Promise(resolve => setTimeout(resolve, 2000 * attempt));
+async function fetchWithRetry(url) {
+    try {
+        const response = await axios.get(url, {
+            headers: {
+                'User-Agent': 'Mozilla/5.0 (compatible; CatholicReadingsAPI/1.0; +https://github.com/cpbjr/catholic-readings-api)'
+            },
+            timeout: 10000
+        });
+        return response;
+    } catch (error) {
+        if (error.response && error.response.status === 404) {
+            return null;
         }
+        throw error;
     }
 }
 
@@ -119,7 +134,7 @@ async function scrapeReadings() {
         // Check if we need to (re)scrape
         if (fs.existsSync(outputPath)) {
             const existing = JSON.parse(fs.readFileSync(outputPath, 'utf8'));
-            if (existing.readings && existing.readings.firstReading && existing.readings.gospelAcclamation && existing.readings.gospel) {
+            if (existing.readings && existing.readings.firstReading && existing.readings.gospelAcclamation !== undefined && existing.readings.gospelAcclamationText && existing.readings.gospel) {
                 continue;
             }
             console.log(`Re-scraping ${file} (missing data)...`);
@@ -130,6 +145,12 @@ async function scrapeReadings() {
         try {
             let response = await fetchWithRetry(usccbUrl);
             const readingsFallbacks = {};
+
+            // Extensionless fallback when URL with ".cfm" suffix returns 404
+            if (!response) {
+                const extensionlessUrl = usccbUrl.replace(/\.cfm$/i, "");
+                response = await fetchWithRetry(extensionlessUrl);
+            }
 
             if (!response) {
                 if (readingsFallbacks[usccbDate]) {
@@ -168,17 +189,8 @@ async function scrapeReadings() {
                         txt.includes('ascension');
                 }).first().attr('href');
 
-                // Check for Year B sub-link (Lent/Advent Sundays with Year A/B split)
-                const yearBLink = $('a').filter((i, el) => {
-                    const txt = $(el).text().toLowerCase();
-                    const href = $(el).attr('href') || '';
-                    return (txt.includes('year b') || href.includes('-yearb') || href.includes('-YearB'));
-                }).first().attr('href');
-
-                const subLink = dayMassLink || yearBLink;
-
-                if (subLink) {
-                    const nextUrl = subLink.startsWith('http') ? subLink : `https://bible.usccb.org${subLink}`;
+                if (dayMassLink) {
+                    const nextUrl = dayMassLink.startsWith('http') ? dayMassLink : `https://bible.usccb.org${dayMassLink}`;
                     console.log(`Following sub-link for ${date}: ${nextUrl}`);
                     response = await fetchWithRetry(nextUrl);
                     if (response) {
@@ -205,7 +217,7 @@ async function scrapeReadings() {
                 console.warn(`Saved empty readings for ${file} (could not parse)`);
             }
 
-            await new Promise(resolve => setTimeout(resolve, 2000));
+            await new Promise(resolve => setTimeout(resolve, 800));
 
         } catch (error) {
             console.error(`Error fetching ${date}: ${error.message}`);
