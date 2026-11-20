@@ -11,28 +11,72 @@ if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
 }
 
+function extractCleanBlockText($, el) {
+    const rawHtml = ($(el).html() ?? "").replace(/<br\s*\/?>/gi, "\n");
+    return cheerio
+        .load(rawHtml)
+        .text()
+        .split("\n")
+        .map((line) => line.replace(/[ \t\u00a0]+/g, " ").trim())
+        .filter(Boolean)
+        .join("\n")
+        .trim();
+}
+
 function parsePage(html) {
     const $ = cheerio.load(html);
     const readings = {};
     let hasReadings = false;
 
-    $('h3').each((i, el) => {
-        const title = $(el).text().trim().toLowerCase();
+    $('h3, h4').each((i, el) => {
+        const heading = $(el);
+        const title = heading.text().replace(/\s+/g, " ").trim().toLowerCase();
         let citation = "";
 
-        const addressDiv = $(el).nextAll('div.address').first();
-        if (addressDiv.length && addressDiv.prevAll('h3').first().is(el)) {
-            citation = addressDiv.text().trim();
+        const addressDiv = heading.nextAll("div.address").first();
+        if (addressDiv.length && addressDiv.prevAll("h3, h4").first().is(el)) {
+            citation = addressDiv.text().replace(/\s+/g, " ").trim();
         }
 
         if (!citation) {
-            const nextLink = $(el).nextAll('a').first();
-            if (nextLink.length && nextLink.prevAll('h3').first().is(el)) {
-                citation = nextLink.text().trim();
+            const nextLink = heading.find('a').first().length
+                ? heading.find('a').first()
+                : heading.nextAll('a').filter((_, aEl) => $(aEl).prevAll('h3, h4').first().is(el)).first();
+            if (nextLink.length) {
+                const linkText = nextLink.text().replace(/\s+/g, " ").trim();
+                if (!/^see\s+/i.test(linkText)) {
+                    citation = linkText;
+                }
             }
         }
 
-        if (citation) {
+        // Capture the body text for the Alleluia / Verse Before the Gospel
+        const isAcclamation = /\balleluia\b|\bverse before\b/i.test(title);
+        if (isAcclamation) {
+            readings.gospelAcclamation = citation || "";
+
+            const bodyParts = [];
+            let curr = heading.next();
+            while (curr.length) {
+                if (curr.is("header.content-header, h3, h4") || curr.find("h3, h4").length > 0) {
+                    break;
+                }
+                if (curr.is("div.content-body, div.poetry, p")) {
+                    const cleanText = extractCleanBlockText($, curr);
+                    if (cleanText.length > 0) {
+                        bodyParts.push(cleanText);
+                    }
+                }
+                curr = curr.next();
+            }
+
+            const gospelAcclamationBodyText = bodyParts.join("\n\n").trim();
+            if (gospelAcclamationBodyText.length > 0) {
+                readings.gospelAcclamationText = gospelAcclamationBodyText;
+            }
+
+            hasReadings = true;
+        } else if (citation) {
             // USCCB weekday memorials often use a bare "Reading" heading (no 1/I).
             if ((/^reading$/.test(title) || /reading\s+(i|1)\b/.test(title)) && !/(ii|2)/.test(title)) {
                 readings.firstReading = citation;
@@ -42,21 +86,6 @@ function parsePage(html) {
                 hasReadings = true;
             } else if (/psalm/.test(title)) {
                 readings.psalm = citation;
-                hasReadings = true;
-            } else if (/alleluia|verse before the gospel/.test(title)) {
-                readings.gospelAcclamation = citation;
-                               
-                // Capture the body text for the Alleluia / Verse Before the Gospel
-                const contentDiv = $(el).nextAll("div.content-body, div.poetry").first();
-                if (contentDiv.length != null && contentDiv.length > 0 && contentDiv.prevAll("h3").first().is(el)) {
-                    const rawHtml = (contentDiv.html() ?? "").replace(/<br\s*\/?>/gi, "\n");
-                    const gospelAcclamationBodyText = cheerio.load(rawHtml).text().trim();
-
-                    if (gospelAcclamationBodyText.length > 0) {
-                        readings.gospelAcclamationText = gospelAcclamationBodyText;
-                    }
-                }
-
                 hasReadings = true;
             } else if (/gospel/.test(title)) {
                 readings.gospel = citation;
@@ -105,7 +134,7 @@ async function scrapeReadings() {
         // Check if we need to (re)scrape
         if (fs.existsSync(outputPath)) {
             const existing = JSON.parse(fs.readFileSync(outputPath, 'utf8'));
-            if (existing.readings && existing.readings.firstReading && existing.readings.gospelAcclamation && existing.readings.gospel) {
+            if (existing.readings && existing.readings.firstReading && existing.readings.gospelAcclamation !== undefined && existing.readings.gospelAcclamationText && existing.readings.gospel) {
                 continue;
             }
             console.log(`Re-scraping ${file} (missing data)...`);
@@ -116,11 +145,41 @@ async function scrapeReadings() {
         try {
             let response = await fetchWithRetry(usccbUrl);
             const readingsFallbacks = {
-                '050926': { firstReading: 'Acts 16:1-10', psalm: 'Psalm 100:1b-2, 3, 5', gospelAcclamation: 'Colossians 3:1', gospel: 'John 15:18-21' },
-                '063026': { firstReading: 'Amos 3:1-8; 4:11-12', psalm: 'Psalm 5:5-6, 7, 8', gospelAcclamation: 'Psalm 130:5', gospel: 'Matthew 8:23-27' },
-                '080126': { firstReading: 'Jeremiah 26:11-16, 24', psalm: 'Psalm 69:15-16, 30-31, 33-34', gospelAcclamation: 'Matthew 5:10', gospel: 'Matthew 14:1-12' },
-                '081226': { firstReading: 'Ezekiel 9:1-7; 10:18-22', psalm: 'Psalm 113:1-2, 3-4, 5-6', gospelAcclamation: '2 Corinthians 5:19', gospel: 'Matthew 18:15-20' }
+                '050926': { 
+                    firstReading: 'Acts 16:1-10', 
+                    psalm: 'Psalm 100:1b-2, 3, 5', 
+                    gospelAcclamation: 'Colossians 3:1', 
+                    gospelAcclamationText: 'R. Alleluia, alleluia.\nIf then you were raised with Christ,\nseek what is above,\nwhere Christ is seated at the right hand of God.\nR. Alleluia, alleluia.',
+                    gospel: 'John 15:18-21', 
+                },
+                '063026': { 
+                    firstReading: 'Amos 3:1-8; 4:11-12', 
+                    psalm: 'Psalm 5:5-6, 7, 8', 
+                    gospelAcclamation: 'Psalm 130:5', 
+                    gospelAcclamationText: 'R. Alleluia, alleluia.\nI trust in the Lord;\nmy soul trusts in his word.\nR. Alleluia, alleluia.',
+                    gospel: 'Matthew 8:23-27', 
+                },
+                '080126': { 
+                    firstReading: 'Jeremiah 26:11-16, 24', 
+                    psalm: 'Psalm 69:15-16, 30-31, 33-34', 
+                    gospelAcclamation: 'Matthew 5:10', 
+                    gospelAcclamationText: 'R. Alleluia, alleluia.\nBlessed are they who are persecuted for the sake of righteousness\nfor theirs is the Kingdom of heaven.\nR. Alleluia, alleluia.',
+                    gospel: 'Matthew 14:1-12', 
+                },
+                '081226': { 
+                    firstReading: 'Ezekiel 9:1-7; 10:18-22', 
+                    psalm: 'Psalm 113:1-2, 3-4, 5-6', 
+                    gospelAcclamation: '2 Corinthians 5:19',
+                    gospelAcclamationBodyText: 'R. Alleluia, alleluia.\nGod was reconciling the world to himself in Christ,\nand entrusting to us the message of reconciliation.\nR. Alleluia, alleluia.',
+                    gospel: 'Matthew 18:15-20', 
+                },
             };
+
+            // Extensionless fallback when URL with ".cfm" suffix returns 404
+            if (!response) {
+                const extensionlessUrl = usccbUrl.replace(/\.cfm$/i, "");
+                response = await fetchWithRetry(extensionlessUrl);
+            }
 
             if (!response) {
                 if (readingsFallbacks[usccbDate]) {
