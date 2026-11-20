@@ -5,6 +5,8 @@
   "readings": {
     "firstReading": "Sirach 5:1-8",
     "psalm": "Psalm 1:1-4, 6",
+    "gospelAcclamation": "1 Thessalonians 2:13",
+    "gospelAcclamationText": "R. Alleluia, alleluia.\nReceive the word of God, not as the word of men,\nbut as it truly is, the word of God.\nR. Alleluia, alleluia.",
     "gospel": "Mark 9:41-50"
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/052027.cfm",

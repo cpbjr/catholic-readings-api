@@ -11,28 +11,84 @@ if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
 }
 
+function isHolySaturdayCalendar(calendarData) {
+    const name = calendarData?.celebration?.name || "";
+    return /\bholy saturday\b|\beaster vigil\b/i.test(name);
+}
+
+function extractCleanBlockText($, el) {
+    const rawHtml = ($(el).html() ?? "").replace(/<br\s*\/?>/gi, "\n");
+    return cheerio
+        .load(rawHtml)
+        .text()
+        .split("\n")
+        .map((line) => line.replace(/[ \t\u00a0]+/g, " ").trim())
+        .filter(Boolean)
+        .join("\n")
+        .trim();
+}
+
 function parsePage(html) {
     const $ = cheerio.load(html);
     const readings = {};
     let hasReadings = false;
 
-    $('h3').each((i, el) => {
-        const title = $(el).text().trim().toLowerCase();
+    $('h3, h4').each((i, el) => {
+        const heading = $(el);
+        const title = heading.text().replace(/\s+/g, " ").trim().toLowerCase();
         let citation = "";
 
-        const addressDiv = $(el).nextAll('div.address').first();
-        if (addressDiv.length && addressDiv.prevAll('h3').first().is(el)) {
-            citation = addressDiv.text().trim();
+        const addressDiv = heading.nextAll("div.address").first();
+        if (addressDiv.length && addressDiv.prevAll("h3, h4").first().is(el)) {
+            citation = addressDiv.text().replace(/\s+/g, " ").trim();
         }
 
         if (!citation) {
-            const nextLink = $(el).nextAll('a').first();
-            if (nextLink.length && nextLink.prevAll('h3').first().is(el)) {
-                citation = nextLink.text().trim();
+            const nextLink = heading.find('a').first().length
+                ? heading.find('a').first()
+                : heading.nextAll('a').filter((_, aEl) => $(aEl).prevAll('h3, h4').first().is(el)).first();
+            if (nextLink.length) {
+                const linkText = nextLink.text().replace(/\s+/g, " ").trim();
+                if (!/^see\s+/i.test(linkText)) {
+                    citation = linkText;
+                }
             }
         }
 
-        if (citation) {
+        // Capture the body text for the Alleluia / Verse Before the Gospel
+        const isAcclamation = /\balleluia\b|\bverse before\b/i.test(title);
+        if (isAcclamation) {
+            readings.gospelAcclamation = citation || "";
+
+            const bodyParts = [];
+            let curr = heading.next();
+            while (curr.length) {
+                if (curr.is("header.content-header, h3, h4") || curr.find("h3, h4").length > 0) {
+                    break;
+                }
+                if (curr.is("div.content-body, div.poetry, p")) {
+                    const cleanText = extractCleanBlockText($, curr);
+                    if (cleanText.length > 0) {
+                        bodyParts.push(cleanText);
+                    }
+                } else if (curr.is("div")) { // Sometimes there's an extra 'div' element on some Daily Reading Entries
+                    curr.find("p, div.content-body, div.poetry").each((_, child) => {
+                        const cleanText = extractCleanBlockText($, child);
+                        if (cleanText.length > 0) {
+                            bodyParts.push(cleanText);
+                        }
+                    });
+                }
+                curr = curr.next();
+            }
+
+            const gospelAcclamationBodyText = bodyParts.join("\n\n").trim();
+            if (gospelAcclamationBodyText.length > 0) {
+                readings.gospelAcclamationText = gospelAcclamationBodyText;
+            }
+
+            hasReadings = true;
+        } else if (citation) {
             // USCCB weekday memorials often use a bare "Reading" heading (no 1/I).
             if ((/^reading$/.test(title) || /reading\s+(i|1)\b/.test(title)) && !/(ii|2)/.test(title)) {
                 readings.firstReading = citation;
@@ -53,20 +109,40 @@ function parsePage(html) {
     return { readings, hasReadings };
 }
 
-async function fetchWithRetry(url) {
-    try {
-        const response = await axios.get(url, {
-            headers: {
-                'User-Agent': 'Mozilla/5.0 (compatible; CatholicReadingsAPI/1.0; +https://github.com/cpbjr/catholic-readings-api)'
-            },
-            timeout: 10000
-        });
-        return response;
-    } catch (error) {
-        if (error.response && error.response.status === 404) {
-            return null;
+async function fetchWithRetry(url, retries = 3) {
+    for (let attempt = 1; attempt <= retries; attempt++) {
+        try {
+            const response = await axios.get(url, {
+                headers: {
+                    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+                    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+                },
+                timeout: 15000
+            });
+
+            if (typeof response.data === 'string' && /checking connection|enable javascript and cookies/i.test(response.data)) {
+                throw Object.assign(new Error('WAF challenge page returned'), { isWafChallenge: true });
+            }
+
+            return response;
+        } catch (error) {
+            if (error.response && error.response.status === 404) {
+                return null;
+            }
+            if ((error.response && error.response.status === 403) || error.isWafChallenge) {
+                console.warn(`  [Attempt ${attempt}/${retries}] 403 / WAF challenge, waiting before retry...`);
+                if (attempt < retries) {
+                    await new Promise(resolve => setTimeout(resolve, 5000 * attempt));
+                    continue;
+                }
+                throw error;
+            }
+            if (attempt === retries) {
+                throw error;
+            }
+            console.warn(`  [Attempt ${attempt}/${retries}] Error: ${error.message}, retrying...`);
+            await new Promise(resolve => setTimeout(resolve, 2000 * attempt));
         }
-        throw error;
     }
 }
 
@@ -86,11 +162,20 @@ async function scrapeReadings() {
         const usccbUrl = `https://bible.usccb.org/bible/readings/${usccbDate}.cfm`;
 
         const outputPath = path.join(outputDir, file);
+        const isHolySaturday = isHolySaturdayCalendar(calendarData);
 
         // Check if we need to (re)scrape
         if (fs.existsSync(outputPath)) {
             const existing = JSON.parse(fs.readFileSync(outputPath, 'utf8'));
-            if (existing.readings && existing.readings.firstReading && existing.readings.gospel) {
+            const hasAcclamation = isHolySaturday
+                ? existing.readings &&
+                  existing.readings.gospelAcclamation !== undefined &&
+                  existing.readings.gospelAcclamationText !== undefined
+                : existing.readings &&
+                  existing.readings.gospelAcclamation !== undefined &&
+                  Boolean(existing.readings.gospelAcclamationText);  // Captures both the "" string and undefined/null values
+
+            if (existing.readings && existing.readings.firstReading && hasAcclamation && existing.readings.gospel) {
                 continue;
             }
             console.log(`Re-scraping ${file} (missing data)...`);
@@ -101,11 +186,41 @@ async function scrapeReadings() {
         try {
             let response = await fetchWithRetry(usccbUrl);
             const readingsFallbacks = {
-                '050926': { firstReading: 'Acts 16:1-10', psalm: 'Psalm 100:1b-2, 3, 5', gospel: 'John 15:18-21' },
-                '063026': { firstReading: 'Amos 3:1-8; 4:11-12', psalm: 'Psalm 5:5-6, 7, 8', gospel: 'Matthew 8:23-27' },
-                '080126': { firstReading: 'Jeremiah 26:11-16, 24', psalm: 'Psalm 69:15-16, 30-31, 33-34', gospel: 'Matthew 14:1-12' },
-                '081226': { firstReading: 'Ezekiel 9:1-7; 10:18-22', psalm: 'Psalm 113:1-2, 3-4, 5-6', gospel: 'Matthew 18:15-20' }
+                '050926': {
+                    firstReading: 'Acts 16:1-10',
+                    psalm: 'Psalm 100:1b-2, 3, 5',
+                    gospelAcclamation: 'Colossians 3:1',
+                    gospelAcclamationText: 'R. Alleluia, alleluia.\nIf then you were raised with Christ,\nseek what is above,\nwhere Christ is seated at the right hand of God.\nR. Alleluia, alleluia.',
+                    gospel: 'John 15:18-21',
+                },
+                '063026': {
+                    firstReading: 'Amos 3:1-8; 4:11-12',
+                    psalm: 'Psalm 5:5-6, 7, 8',
+                    gospelAcclamation: 'Psalm 130:5',
+                    gospelAcclamationText: 'R. Alleluia, alleluia.\nI trust in the Lord;\nmy soul trusts in his word.\nR. Alleluia, alleluia.',
+                    gospel: 'Matthew 8:23-27',
+                },
+                '080126': {
+                    firstReading: 'Jeremiah 26:11-16, 24',
+                    psalm: 'Psalm 69:15-16, 30-31, 33-34',
+                    gospelAcclamation: 'Matthew 5:10',
+                    gospelAcclamationText: 'R. Alleluia, alleluia.\nBlessed are they who are persecuted for the sake of righteousness\nfor theirs is the Kingdom of heaven.\nR. Alleluia, alleluia.',
+                    gospel: 'Matthew 14:1-12',
+                },
+                '081226': {
+                    firstReading: 'Ezekiel 9:1-7; 10:18-22',
+                    psalm: 'Psalm 113:1-2, 3-4, 5-6',
+                    gospelAcclamation: '2 Corinthians 5:19',
+                    gospelAcclamationText: 'R. Alleluia, alleluia.\nGod was reconciling the world to himself in Christ,\nand entrusting to us the message of reconciliation.\nR. Alleluia, alleluia.',
+                    gospel: 'Matthew 18:15-20',
+                },
             };
+
+            // Extensionless fallback when URL with ".cfm" suffix returns 404
+            if (!response) {
+                const extensionlessUrl = usccbUrl.replace(/\.cfm$/i, "");
+                response = await fetchWithRetry(extensionlessUrl);
+            }
 
             if (!response) {
                 if (readingsFallbacks[usccbDate]) {
@@ -153,6 +268,16 @@ async function scrapeReadings() {
                         readings = result.readings;
                         hasReadings = result.hasReadings;
                     }
+                }
+            }
+
+            // Holy Saturday does not have a "Gospel Acclamation"
+            if (isHolySaturday && hasReadings) {
+                if (readings.gospelAcclamation === undefined) {
+                    readings.gospelAcclamation = "";
+                }
+                if (readings.gospelAcclamationText === undefined) {
+                    readings.gospelAcclamationText = "";
                 }
             }
 

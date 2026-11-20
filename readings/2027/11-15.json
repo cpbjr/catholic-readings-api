@@ -5,6 +5,8 @@
   "readings": {
     "firstReading": "1 Maccabees 1:10-15, 41-43, 54-57, 62-63",
     "psalm": "Psalm 119:53, 61, 134, 150, 155, 158",
+    "gospelAcclamation": "John 8:12",
+    "gospelAcclamationText": "R. Alleluia, alleluia.\nI am the light of the world, says the Lord;\nwhoever follows me will have the light of life.\nR. Alleluia, alleluia.",
     "gospel": "Luke 18:35-43"
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/111527.cfm",

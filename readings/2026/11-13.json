@@ -5,6 +5,8 @@
   "readings": {
     "firstReading": "2 John 4-9",
     "psalm": "Psalm 119:1, 2, 10, 11, 17, 18",
+    "gospelAcclamation": "Luke 21:28",
+    "gospelAcclamationText": "R. Alleluia, alleluia.\nStand erect and raise your heads\nbecause your redemption is at hand.\nR. Alleluia, alleluia.",
     "gospel": "Luke 17:26-37"
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/111326.cfm",

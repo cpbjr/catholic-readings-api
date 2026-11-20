@@ -5,6 +5,8 @@
   "readings": {
     "firstReading": "Ecclesiastes 1:2-11",
     "psalm": "Psalm 90:3-4, 5-6, 12-13, 14, 17bc",
+    "gospelAcclamation": "John 14:6",
+    "gospelAcclamationText": "R. Alleluia, alleluia.\nI am the way and the truth and the life, says the Lord;\nno one comes to the Father except through me.\nR. Alleluia, alleluia.",
     "gospel": "Luke 9:7-9"
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/092426.cfm",

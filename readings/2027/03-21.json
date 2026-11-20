@@ -6,7 +6,9 @@
     "gospel": "Mark 14:1-15:47",
     "firstReading": "Isaiah 50:4-7",
     "psalm": "Psalm 22:8-9, 17-18, 19-20, 23-24",
-    "secondReading": "Philippians 2:6-11"
+    "secondReading": "Philippians 2:6-11",
+    "gospelAcclamation": "Philippians 2:8-9",
+    "gospelAcclamationText": "Christ became obedient to the point of death,\neven death on a cross.\nBecause of this, God greatly exalted him\nand bestowed on him the name which is above every name."
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/032127.cfm",
   "apiEndpoint": "https://cpbjr.github.io/catholic-readings-api/readings/2027/03-21.json"

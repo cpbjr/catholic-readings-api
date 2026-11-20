@@ -53,11 +53,24 @@ const PROMINENT_HOLYDAY_RE =
 const BOOK_RE = /^(?:[1-3] )?(?:Genesis|Exodus|Leviticus|Numbers|Deuteronomy|Joshua|Judges|Ruth|Samuel|Kings|Chronicles|Ezra|Nehemiah|Tobit|Judith|Esther(?: [A-F])?|Maccabees|Job|Psalms?|Proverbs|Ecclesiastes|Song of Songs|Wisdom|Sirach|Isaiah|Jeremiah|Lamentations|Baruch|Ezekiel|Daniel|Hosea|Joel|Amos|Obadiah|Jonah|Micah|Nahum|Habakkuk|Zephaniah|Haggai|Zechariah|Malachi|Matthew|Mark|Luke|John|Acts|Romans|Corinthians|Galatians|Ephesians|Philippians|Colossians|Thessalonians|Timothy|Titus|Philemon|Hebrews|James|Peter|Jude|Revelation)\b/;
 
 function citationProblem(field, value) {
-  if (typeof value !== 'string' || !value.trim()) return null;
-  const text = value.replace(/\u00a0/g, ' ').trim();
+  if (typeof value !== "string" || !value.trim()) return null;
+
+  // Normalize non-breaking/repeated spaces and strip leading "See " or "Cf. " / "cf. "
+  const normalized = value
+    .replace(/\u00a0/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+    .replace(/^(?:see|cf\.?)\s+/i, "")
+    .trim();
+
+  // Liturgical acclamation exception (e.g., "See Te Deum" on Dec 27)
+  if (field === "gospelAcclamation" && /^te deum\b/i.test(normalized)) {
+    return null;
+  }
+
   // Responsorials are often canticles (Luke 1, Daniel 3, Isaiah 12), not Psalm N.
   // A bare "137:1-2" still fails because it names no book.
-  if (!BOOK_RE.test(text)) return `${field} unknown book: ${value}`;
+  if (!BOOK_RE.test(normalized)) return `${field} unknown book: ${value}`;
   return null;
 }
 
@@ -156,7 +169,7 @@ for (const file of calendarFiles) {
   }
 
   // Rule 4: citation must name a real book. Catches Sirarch / bare psalm numbers.
-  for (const field of ['firstReading', 'psalm', 'secondReading', 'gospel']) {
+  for (const field of ['firstReading', 'psalm', 'secondReading', 'gospelAcclamation', 'gospel']) {
     const problem = citationProblem(field, readings[field]);
     if (problem) missing.push(problem);
   }
