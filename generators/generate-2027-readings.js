@@ -23,6 +23,11 @@ function extractCleanBlockText($, el) {
         .trim();
 }
 
+function isHolySaturdayCalendar(calendarData) {
+    const name = calendarData?.celebration?.name || "";
+    return /\bholy saturday\b|\beaster vigil\b/i.test(name);
+}
+
 function parsePage(html) {
     const $ = cheerio.load(html);
     const readings = {};
@@ -137,11 +142,20 @@ async function scrapeReadings() {
         const usccbUrl = `https://bible.usccb.org/bible/readings/${usccbDate}.cfm`;
 
         const outputPath = path.join(outputDir, file);
+        const isHolySaturday = isHolySaturdayCalendar(calendarData);
 
         // Check if we need to (re)scrape
         if (fs.existsSync(outputPath)) {
             const existing = JSON.parse(fs.readFileSync(outputPath, 'utf8'));
-            if (existing.readings && existing.readings.firstReading && existing.readings.gospelAcclamation !== undefined && existing.readings.gospelAcclamationText && existing.readings.gospel) {
+            const hasAcclamation = isHolySaturday
+                ? existing.readings &&
+                    existing.readings.gospelAcclamation !== undefined &&
+                    existing.readings.gospelAcclamationText !== undefined
+                : existing.readings &&
+                    existing.readings.gospelAcclamation !== undefined &&
+                    Boolean(existing.readings.gospelAcclamationText);  // Captures both the "" string and undefined/null values
+
+            if (existing.readings && existing.readings.firstReading && hasAcclamation && existing.readings.gospel) {
                 continue;
             }
             console.log(`Re-scraping ${file} (missing data)...`);
@@ -205,6 +219,16 @@ async function scrapeReadings() {
                         readings = result.readings;
                         hasReadings = result.hasReadings;
                     }
+                }
+            }
+
+            // Holy Saturday does not have a "Gospel Acclamation"
+            if (isHolySaturdayCalendar(calendarData) && hasReadings) {
+                if (readings.gospelAcclamation === undefined) {
+                    readings.gospelAcclamation = "";
+                }
+                if (readings.gospelAcclamationText === undefined) {
+                    readings.gospelAcclamationText = "";
                 }
             }
 
