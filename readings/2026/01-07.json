@@ -2,10 +2,11 @@
   "date": "2026-01-07",
   "monthDay": "1/7",
   "season": "Christmas",
-  "subSeason": "Time after Epiphany",
   "readings": {
     "firstReading": "1 John 4:11-18",
     "psalm": "Psalm 72:1-2, 10, 12-13",
+    "gospelAcclamation": "1 Timothy 3:16",
+    "gospelAcclamationText": "R. Alleluia, alleluia.\nGlory to you, O Christ, proclaimed to the Gentiles.\nGlory to you, O Christ, believed in throughout the world.\nR. Alleluia, alleluia.",
     "gospel": "Mark 6:45-52"
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/010726.cfm",

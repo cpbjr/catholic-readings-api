@@ -5,6 +5,8 @@
   "readings": {
     "firstReading": "Ecclesiastes 3:1-11",
     "psalm": "Psalm 144:1b and 2abc, 3-4",
+    "gospelAcclamation": "Mark 10:45",
+    "gospelAcclamationText": "R. Alleluia, alleluia.\nThe Son of Man came to serve\nand to give his life as a ransom for many.\nR. Alleluia, alleluia.",
     "gospel": "Luke 9:18-22"
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/092526.cfm",

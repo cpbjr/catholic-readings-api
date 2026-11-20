@@ -5,6 +5,8 @@
   "readings": {
     "firstReading": "1 Corinthians 1:1-9",
     "psalm": "Psalm 145:2-3, 4-5, 6-7",
+    "gospelAcclamation": "Matthew 24:42a, 44",
+    "gospelAcclamationText": "R. Alleluia, alleluia.\nStay awake!\nFor you do not know when the Son of Man will come.\nR. Alleluia, alleluia.",
     "gospel": "Matthew 24:42-51"
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/082726.cfm",
