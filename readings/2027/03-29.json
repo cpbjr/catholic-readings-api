@@ -5,6 +5,8 @@
   "readings": {
     "firstReading": "Acts 2:14, 22-33",
     "psalm": "Psalm 16:1-2a and 5, 7-8, 9-10, 11",
+    "gospelAcclamation": "Psalm 118:24",
+    "gospelAcclamationText": "R. Alleluia, alleluia.\nThis is the day the LORD has made;\nlet us be glad and rejoice in it.\nR. Alleluia, alleluia.",
     "gospel": "Matthew 28:8-15"
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/032927.cfm",

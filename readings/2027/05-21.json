@@ -5,6 +5,8 @@
   "readings": {
     "firstReading": "Sirach 6:5-17",
     "psalm": "Psalm 119:12, 16, 18, 27, 34, 35",
+    "gospelAcclamation": "John 17:17b, 17a",
+    "gospelAcclamationText": "R. Alleluia, alleluia.\nYour word, O Lord, is truth;\nconsecrate us in the truth.\nR. Alleluia, alleluia.",
     "gospel": "Mark 10:1-12"
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/052127.cfm",
