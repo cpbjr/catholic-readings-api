@@ -5,6 +5,8 @@
   "readings": {
     "firstReading": "Daniel 13:1-9, 15-17, 19-30, 33-62 or 13:41c-62",
     "psalm": "Psalm 23:1-3a, 3b-4, 5, 6",
+    "gospelAcclamation": "Ezekiel 33:11",
+    "gospelAcclamationText": "I take no pleasure in the death of the wicked man, says the Lord,\nbut rather in his conversion, that he may live.",
     "gospel": "John 8:1-11"
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/031527.cfm",

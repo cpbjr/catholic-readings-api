@@ -65,6 +65,8 @@ GET /readings/2025/{MM-DD}.json
     "firstReading": "Wisdom 9:13-18b",
     "psalm": "Psalm 90:3-4, 5-6, 12-13, 14 and 17",
     "secondReading": "Philemon 9-10, 12-17",
+    "gospelAcclamation": "Psalm 119:135",
+    "gospelAcclamationText": "R. Alleluia, alleluia.\nLet your face shine upon your servant;\nand teach me your laws.\nR. Alleluia, alleluia.",
     "gospel": "Luke 14:25-33"
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/090725.cfm",

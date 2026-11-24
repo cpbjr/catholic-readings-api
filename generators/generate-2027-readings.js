@@ -11,28 +11,84 @@ if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
 }
 
+function extractCleanBlockText($, el) {
+    const rawHtml = ($(el).html() ?? "").replace(/<br\s*\/?>/gi, "\n");
+    return cheerio
+        .load(rawHtml)
+        .text()
+        .split("\n")
+        .map((line) => line.replace(/[ \t\u00a0]+/g, " ").trim())
+        .filter(Boolean)
+        .join("\n")
+        .trim();
+}
+
+function isHolySaturdayCalendar(calendarData) {
+    const name = calendarData?.celebration?.name || "";
+    return /\bholy saturday\b|\beaster vigil\b/i.test(name);
+}
+
 function parsePage(html) {
     const $ = cheerio.load(html);
     const readings = {};
     let hasReadings = false;
 
-    $('h3').each((i, el) => {
-        const title = $(el).text().trim().toLowerCase();
+    $('h3, h4').each((i, el) => {
+        const heading = $(el);
+        const title = heading.text().replace(/\s+/g, " ").trim().toLowerCase();
         let citation = "";
 
-        const addressDiv = $(el).nextAll('div.address').first();
-        if (addressDiv.length && addressDiv.prevAll('h3').first().is(el)) {
-            citation = addressDiv.text().trim();
+        const addressDiv = heading.nextAll("div.address").first();
+        if (addressDiv.length && addressDiv.prevAll("h3, h4").first().is(el)) {
+            citation = addressDiv.text().replace(/\s+/g, " ").trim();
         }
 
         if (!citation) {
-            const nextLink = $(el).nextAll('a').first();
-            if (nextLink.length && nextLink.prevAll('h3').first().is(el)) {
-                citation = nextLink.text().trim();
+            const nextLink = heading.find('a').first().length
+                ? heading.find('a').first()
+                : heading.nextAll('a').filter((_, aEl) => $(aEl).prevAll('h3, h4').first().is(el)).first();
+            if (nextLink.length) {
+                const linkText = nextLink.text().replace(/\s+/g, " ").trim();
+                if (!/^see\s+/i.test(linkText)) {
+                    citation = linkText;
+                }
             }
         }
 
-        if (citation) {
+        // Capture the body text for the Alleluia / Verse Before the Gospel
+        const isAcclamation = /\balleluia\b|\bverse before\b/i.test(title);
+        if (isAcclamation) {
+            readings.gospelAcclamation = citation || "";
+
+            const bodyParts = [];
+            let curr = heading.next();
+            while (curr.length) {
+                if (curr.is("header.content-header, h3, h4") || curr.find("h3, h4").length > 0) {
+                    break;
+                }
+                if (curr.is("div.content-body, div.poetry, p")) {
+                    const cleanText = extractCleanBlockText($, curr);
+                    if (cleanText.length > 0) {
+                        bodyParts.push(cleanText);
+                    }
+                } else if (curr.is("div")) { // Sometimes there's an extra 'div' element on some Daily Reading Entries
+                    curr.find("p, div.content-body, div.poetry").each((_, child) => {
+                        const cleanText = extractCleanBlockText($, child);
+                        if (cleanText.length > 0) {
+                            bodyParts.push(cleanText);
+                        }
+                    });
+                }
+                curr = curr.next();
+            }
+
+            const gospelAcclamationBodyText = bodyParts.join("\n\n").trim();
+            if (gospelAcclamationBodyText.length > 0) {
+                readings.gospelAcclamationText = gospelAcclamationBodyText;
+            }
+
+            hasReadings = true;
+        } else if (citation) {
             // USCCB weekday memorials often use a bare "Reading" heading (no 1/I).
             if ((/^reading$/.test(title) || /reading\s+(i|1)\b/.test(title)) && !/(ii|2)/.test(title)) {
                 readings.firstReading = citation;
@@ -58,17 +114,23 @@ async function fetchWithRetry(url, retries = 3) {
         try {
             const response = await axios.get(url, {
                 headers: {
-                    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+                    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+                    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
                 },
                 timeout: 15000
             });
+
+            if (typeof response.data === 'string' && /checking connection|enable javascript and cookies/i.test(response.data)) {
+                throw Object.assign(new Error('WAF challenge page returned'), { isWafChallenge: true });
+            }
+
             return response;
         } catch (error) {
             if (error.response && error.response.status === 404) {
                 return null;
             }
-            if (error.response && error.response.status === 403) {
-                console.warn(`  [Attempt ${attempt}/${retries}] 403 Forbidden, waiting before retry...`);
+            if ((error.response && error.response.status === 403) || error.isWafChallenge) {
+                console.warn(`  [Attempt ${attempt}/${retries}] 403 / WAF challenge, waiting before retry...`);
                 if (attempt < retries) {
                     await new Promise(resolve => setTimeout(resolve, 5000 * attempt));
                     continue;
@@ -100,11 +162,20 @@ async function scrapeReadings() {
         const usccbUrl = `https://bible.usccb.org/bible/readings/${usccbDate}.cfm`;
 
         const outputPath = path.join(outputDir, file);
+        const isHolySaturday = isHolySaturdayCalendar(calendarData);
 
         // Check if we need to (re)scrape
         if (fs.existsSync(outputPath)) {
             const existing = JSON.parse(fs.readFileSync(outputPath, 'utf8'));
-            if (existing.readings && existing.readings.firstReading && existing.readings.gospel) {
+            const hasAcclamation = isHolySaturday
+                ? existing.readings &&
+                    existing.readings.gospelAcclamation !== undefined &&
+                    existing.readings.gospelAcclamationText !== undefined
+                : existing.readings &&
+                    existing.readings.gospelAcclamation !== undefined &&
+                    Boolean(existing.readings.gospelAcclamationText);  // Captures both the "" string and undefined/null values
+
+            if (existing.readings && existing.readings.firstReading && hasAcclamation && existing.readings.gospel) {
                 continue;
             }
             console.log(`Re-scraping ${file} (missing data)...`);
@@ -114,7 +185,24 @@ async function scrapeReadings() {
 
         try {
             let response = await fetchWithRetry(usccbUrl);
-            const readingsFallbacks = {};
+            const readingsFallbacks = {
+                // Holy Saturday (Easter Vigil) - 2027: USCCB uses an extended multi-reading schema,
+                // so we provide fallback readings and empty acclamation fields.
+                '032727': {
+                    firstReading: 'Genesis 1:1—2:2',
+                    psalm: 'Psalm 118:1-2, 16-17, 22-23',
+                    secondReading: 'Genesis 22:1-18',
+                    gospelAcclamation: '',
+                    gospelAcclamationText: '',
+                    gospel: 'Mark 16:1-7',
+                },
+            };
+
+            // Extensionless fallback when URL with ".cfm" suffix returns 404
+            if (!response) {
+                const extensionlessUrl = usccbUrl.replace(/\.cfm$/i, "");
+                response = await fetchWithRetry(extensionlessUrl);
+            }
 
             if (!response) {
                 if (readingsFallbacks[usccbDate]) {
@@ -123,6 +211,7 @@ async function scrapeReadings() {
                         date: calendarData.date,
                         monthDay: calendarData.monthDay,
                         season: calendarData.season,
+                        ...(calendarData.subSeason ? { subSeason: calendarData.subSeason } : {}),
                         readings: readingsFallbacks[usccbDate],
                         usccbLink: usccbUrl,
                         apiEndpoint: `https://cpbjr.github.io/catholic-readings-api/readings/2027/${file}`
@@ -153,6 +242,7 @@ async function scrapeReadings() {
                         txt.includes('ascension');
                 }).first().attr('href');
 
+                
                 // Check for Year B sub-link (Lent/Advent Sundays with Year A/B split)
                 const yearBLink = $('a').filter((i, el) => {
                     const txt = $(el).text().toLowerCase();
@@ -174,10 +264,35 @@ async function scrapeReadings() {
                 }
             }
 
+            if (readingsFallbacks[usccbDate]) {
+                if (isHolySaturday) {
+                    readings = { ...readingsFallbacks[usccbDate] };
+                    hasReadings = true;
+                } else {
+                    for (const [key, val] of Object.entries(readingsFallbacks[usccbDate])) {
+                        if (!readings[key]) {
+                            readings[key] = val;
+                            hasReadings = true;
+                        }
+                    }
+                }
+            }
+
+            // Holy Saturday does not have a "Gospel Acclamation"
+            if (isHolySaturday && hasReadings) {
+                if (readings.gospelAcclamation === undefined) {
+                    readings.gospelAcclamation = "";
+                }
+                if (readings.gospelAcclamationText === undefined) {
+                    readings.gospelAcclamationText = "";
+                }
+            }
+
             const readingData = {
                 date: calendarData.date,
                 monthDay: calendarData.monthDay,
                 season: calendarData.season,
+                ...(calendarData.subSeason ? { subSeason: calendarData.subSeason } : {}),
                 readings: readings,
                 usccbLink: usccbUrl,
                 apiEndpoint: `https://cpbjr.github.io/catholic-readings-api/readings/2027/${file}`
@@ -190,7 +305,7 @@ async function scrapeReadings() {
                 console.warn(`Saved empty readings for ${file} (could not parse)`);
             }
 
-            await new Promise(resolve => setTimeout(resolve, 2000));
+            await new Promise(resolve => setTimeout(resolve, 800));
 
         } catch (error) {
             console.error(`Error fetching ${date}: ${error.message}`);

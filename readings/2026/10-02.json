@@ -5,6 +5,8 @@
   "readings": {
     "firstReading": "Job 38:1, 12-21; 40:3-5",
     "psalm": "Psalm 139:1-3, 7-8, 9-10, 13-14ab",
+    "gospelAcclamation": "Psalm 103:21",
+    "gospelAcclamationText": "R. Alleluia, alleluia.\nBless the LORD, all you angels,\nyou ministers, who do his will.\nR. Alleluia, alleluia.",
     "gospel": "Matthew 18:1-5, 10"
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/100226.cfm",

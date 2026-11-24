@@ -5,6 +5,8 @@
   "readings": {
     "firstReading": "Revelation 14:1-3, 4b-5",
     "psalm": "Psalm 24:1bc-2, 3-4ab, 5-6",
+    "gospelAcclamation": "Matthew 24:42a, 44",
+    "gospelAcclamationText": "R. Alleluia, alleluia.\n\nStay awake!\nFor you do not know when the Son of Man will come.\n\nR. Alleluia, alleluia.",
     "gospel": "Luke 21:1-4"
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/112326.cfm",

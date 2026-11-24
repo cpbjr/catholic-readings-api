@@ -5,6 +5,8 @@
   "readings": {
     "firstReading": "Acts 4:1-12",
     "psalm": "Psalm 118:1-2 and 4, 22-24, 25-27a",
+    "gospelAcclamation": "Psalm 118:24",
+    "gospelAcclamationText": "R. Alleluia, alleluia.\nThis is the day the LORD has made;\nlet us be glad and rejoice in it.\nR. Alleluia, alleluia.",
     "gospel": "John 21:1-14"
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/041026.cfm",

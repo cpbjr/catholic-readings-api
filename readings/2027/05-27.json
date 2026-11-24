@@ -5,6 +5,8 @@
   "readings": {
     "firstReading": "Sirach 42:15-25",
     "psalm": "Psalm 33:2-3, 4-5, 6-7, 8-9",
+    "gospelAcclamation": "John 8:12",
+    "gospelAcclamationText": "R. Alleluia, alleluia.\nI am the light of the world, says the Lord;\nwhoever follows me will have the light of life.\nR. Alleluia, alleluia.",
     "gospel": "Mark 10:46-52"
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/052727.cfm",

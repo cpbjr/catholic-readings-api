@@ -5,6 +5,8 @@
   "readings": {
     "firstReading": "Numbers 20:1-13",
     "psalm": "Psalm 95:1-2, 6-7, 8-9",
+    "gospelAcclamation": "Matthew 16:18",
+    "gospelAcclamationText": "R. Alleluia, alleluia.\nYou are Peter, and upon this rock I will build my Church,\nand the gates of the netherworld shall not prevail against it.\nR. Alleluia, alleluia.",
     "gospel": "Matthew 16:13-23"
   },
   "usccbLink": "https://bible.usccb.org/bible/readings/080527.cfm",
