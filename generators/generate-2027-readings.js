@@ -185,7 +185,18 @@ async function scrapeReadings() {
 
         try {
             let response = await fetchWithRetry(usccbUrl);
-            const readingsFallbacks = {};
+            const readingsFallbacks = {
+                // Holy Saturday (Easter Vigil) - 2027: USCCB uses an extended multi-reading schema,
+                // so we provide fallback readings and empty acclamation fields.
+                '032727': {
+                    firstReading: 'Genesis 1:1—2:2',
+                    psalm: 'Psalm 118:1-2, 16-17, 22-23',
+                    secondReading: 'Genesis 22:1-18',
+                    gospelAcclamation: '',
+                    gospelAcclamationText: '',
+                    gospel: 'Mark 16:1-7',
+                },
+            };
 
             // Extensionless fallback when URL with ".cfm" suffix returns 404
             if (!response) {
@@ -200,6 +211,7 @@ async function scrapeReadings() {
                         date: calendarData.date,
                         monthDay: calendarData.monthDay,
                         season: calendarData.season,
+                        ...(calendarData.subSeason ? { subSeason: calendarData.subSeason } : {}),
                         readings: readingsFallbacks[usccbDate],
                         usccbLink: usccbUrl,
                         apiEndpoint: `https://cpbjr.github.io/catholic-readings-api/readings/2027/${file}`
@@ -252,8 +264,22 @@ async function scrapeReadings() {
                 }
             }
 
+            if (readingsFallbacks[usccbDate]) {
+                if (isHolySaturday) {
+                    readings = { ...readingsFallbacks[usccbDate] };
+                    hasReadings = true;
+                } else {
+                    for (const [key, val] of Object.entries(readingsFallbacks[usccbDate])) {
+                        if (!readings[key]) {
+                            readings[key] = val;
+                            hasReadings = true;
+                        }
+                    }
+                }
+            }
+
             // Holy Saturday does not have a "Gospel Acclamation"
-            if (isHolySaturdayCalendar(calendarData) && hasReadings) {
+            if (isHolySaturday && hasReadings) {
                 if (readings.gospelAcclamation === undefined) {
                     readings.gospelAcclamation = "";
                 }
@@ -266,6 +292,7 @@ async function scrapeReadings() {
                 date: calendarData.date,
                 monthDay: calendarData.monthDay,
                 season: calendarData.season,
+                ...(calendarData.subSeason ? { subSeason: calendarData.subSeason } : {}),
                 readings: readings,
                 usccbLink: usccbUrl,
                 apiEndpoint: `https://cpbjr.github.io/catholic-readings-api/readings/2027/${file}`
